@@ -1,0 +1,5 @@
+ai-newspaper/node_modules/
+ai-newspaper/dist/
+ai-newspaper/.npm-cache/
+ai-newspaper/screenshots/
+.DS_Store
