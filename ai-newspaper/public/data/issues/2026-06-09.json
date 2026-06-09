@@ -6,47 +6,69 @@
   "issueNo": "2026-161",
   "updatedAt": "07:30",
   "pulse": [
-    { "label": "模型活跃度", "value": 91, "delta": "+7" },
-    { "label": "论文热度", "value": 76, "delta": "+3" },
-    { "label": "行业关注度", "value": 84, "delta": "+5" },
-    { "label": "融资热度", "value": 68, "delta": "-2" }
+    {
+      "label": "模型活跃度",
+      "value": 91,
+      "delta": "+7"
+    },
+    {
+      "label": "论文热度",
+      "value": 76,
+      "delta": "+3"
+    },
+    {
+      "label": "行业关注度",
+      "value": 84,
+      "delta": "+5"
+    },
+    {
+      "label": "融资热度",
+      "value": 68,
+      "delta": "-2"
+    }
   ],
   "briefing": [
     {
       "time": "07:15",
       "category": "模型",
       "title": "OpenAI 推出新一代多模态代理接口，强调工具调用稳定性",
-      "source": "OpenAI Blog"
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/blog/"
     },
     {
       "time": "06:42",
       "category": "研究",
       "title": "斯坦福团队发布长视频推理评测，覆盖医疗、教育与代码场景",
-      "source": "arXiv"
+      "source": "arXiv",
+      "url": "https://arxiv.org/"
     },
     {
       "time": "06:10",
       "category": "产品",
       "title": "Notion AI 升级企业知识库搜索，可跨空间生成引用摘要",
-      "source": "Notion Blog"
+      "source": "Notion Blog",
+      "url": "https://www.notion.com/blog"
     },
     {
       "time": "05:40",
       "category": "资本",
       "title": "企业 AI 安全平台完成 1.2 亿美元 B 轮融资",
-      "source": "TechCrunch"
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/"
     },
     {
       "time": "05:12",
       "category": "政策",
       "title": "欧盟公布生成式 AI 透明度模板草案",
-      "source": "EU AI Office"
+      "source": "EU AI Office",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-office"
     },
     {
       "time": "04:55",
       "category": "行业",
       "title": "芯片云厂商扩展推理实例，主打低延迟视频生成",
-      "source": "The Information"
+      "source": "The Information",
+      "url": "https://www.theinformation.com/"
     }
   ],
   "articles": [
@@ -60,7 +82,12 @@
       "source": "OpenAI Blog",
       "readTime": "8 分钟",
       "impact": "高",
-      "tags": ["Agent", "多模态", "工具调用"]
+      "tags": [
+        "Agent",
+        "多模态",
+        "工具调用"
+      ],
+      "url": "https://openai.com/blog/"
     },
     {
       "id": "deepmind-tpu",
@@ -72,7 +99,12 @@
       "source": "SemiAnalysis",
       "readTime": "6 分钟",
       "impact": "中",
-      "tags": ["算力", "云服务", "推理"]
+      "tags": [
+        "算力",
+        "云服务",
+        "推理"
+      ],
+      "url": "https://semianalysis.com/"
     },
     {
       "id": "video-benchmark",
@@ -84,7 +116,12 @@
       "source": "arXiv",
       "readTime": "7 分钟",
       "impact": "中",
-      "tags": ["视频", "评测", "多模态"]
+      "tags": [
+        "视频",
+        "评测",
+        "多模态"
+      ],
+      "url": "https://arxiv.org/"
     },
     {
       "id": "notion-ai-search",
@@ -96,7 +133,12 @@
       "source": "Notion Blog",
       "readTime": "5 分钟",
       "impact": "中",
-      "tags": ["企业应用", "知识库", "权限"]
+      "tags": [
+        "企业应用",
+        "知识库",
+        "权限"
+      ],
+      "url": "https://www.notion.com/blog"
     },
     {
       "id": "ai-policy-template",
@@ -108,7 +150,12 @@
       "source": "EU AI Office",
       "readTime": "4 分钟",
       "impact": "中",
-      "tags": ["监管", "合规", "透明度"]
+      "tags": [
+        "监管",
+        "合规",
+        "透明度"
+      ],
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-office"
     },
     {
       "id": "security-series-b",
@@ -120,7 +167,12 @@
       "source": "TechCrunch",
       "readTime": "5 分钟",
       "impact": "中",
-      "tags": ["安全", "融资", "企业"]
+      "tags": [
+        "安全",
+        "融资",
+        "企业"
+      ],
+      "url": "https://techcrunch.com/"
     },
     {
       "id": "opinion-ui-agents",
@@ -132,7 +184,12 @@
       "source": "Ben Evans",
       "readTime": "6 分钟",
       "impact": "低",
-      "tags": ["体验", "产品设计", "Agent"]
+      "tags": [
+        "体验",
+        "产品设计",
+        "Agent"
+      ],
+      "url": "https://www.ben-evans.com/"
     }
   ]
 }
