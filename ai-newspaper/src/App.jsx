@@ -48,7 +48,13 @@ function App() {
   const [issueId, setIssueId] = useState(fallbackIssues[0].id);
   const [category, setCategory] = useState("全部");
   const [query, setQuery] = useState("");
-  const [expandedId, setExpandedId] = useState(fallbackIssues[0].articles[0].id);
+  const [favoriteIds, setFavoriteIds] = useState(() => {
+    try {
+      return JSON.parse(localStorage.getItem("ai-daily-favorites") ?? "[]");
+    } catch {
+      return [];
+    }
+  });
 
   useEffect(() => {
     let ignore = false;
@@ -72,7 +78,6 @@ function App() {
         if (!ignore && validIssues.length > 0) {
           setIssues(validIssues);
           setIssueId(validIssues[0].id);
-          setExpandedId(validIssues[0].articles[0]?.id ?? "");
         }
       } catch (error) {
         console.warn("Using fallback newspaper data.", error);
@@ -104,31 +109,63 @@ function App() {
   const leadArticle = filteredArticles.find((article) => article.priority === "lead") ?? filteredArticles[0];
   const supportingArticles = filteredArticles.filter((article) => article.id !== leadArticle?.id);
 
-  const grouped = categories
-    .filter((item) => item !== "全部")
-    .map((item) => ({
-      category: item,
-      articles: issue.articles.filter((article) => article.category === item),
-    }))
-    .filter((group) => group.articles.length > 0);
+  const favoriteArticles = useMemo(() => {
+    return favoriteIds
+      .map((key) => {
+        const [storedIssueId, articleId] = key.split(":");
+        const storedIssue = issues.find((item) => item.id === storedIssueId);
+        const article = storedIssue?.articles.find((item) => item.id === articleId);
+        return article ? { ...article, issueDate: storedIssue.date, favoriteKey: key } : null;
+      })
+      .filter(Boolean);
+  }, [favoriteIds, issues]);
 
   function changeIssue(nextId) {
-    const nextIssue = issues.find((item) => item.id === nextId) ?? issues[0];
     setIssueId(nextId);
     setCategory("全部");
     setQuery("");
-    setExpandedId(nextIssue.articles[0]?.id ?? "");
   }
 
-  function SourceLink({ item, prefix = "" }) {
+  function getFavoriteKey(article) {
+    return `${issue.id}:${article.id}`;
+  }
+
+  function toggleFavorite(article) {
+    const key = getFavoriteKey(article);
+    setFavoriteIds((current) => {
+      const next = current.includes(key) ? current.filter((item) => item !== key) : [key, ...current];
+      localStorage.setItem("ai-daily-favorites", JSON.stringify(next));
+      return next;
+    });
+  }
+
+  function SourceLink({ item }) {
     if (!item.url) {
-      return <span>{prefix}{item.source}</span>;
+      return <span>暂无原文</span>;
     }
 
     return (
       <a className="source-link" href={item.url} rel="noreferrer" target="_blank">
-        {prefix}{item.source} ↗
+        阅读原文 ↗
       </a>
+    );
+  }
+
+  function ArticleActions({ article }) {
+    const favoriteKey = getFavoriteKey(article);
+    const isFavorite = favoriteIds.includes(favoriteKey);
+
+    return (
+      <div className="article-actions">
+        <SourceLink item={article} />
+        <button
+          className={isFavorite ? "favorite-button active" : "favorite-button"}
+          onClick={() => toggleFavorite(article)}
+          type="button"
+        >
+          {isFavorite ? "已收藏" : "收藏"}
+        </button>
+      </div>
     );
   }
 
@@ -146,22 +183,6 @@ function App() {
           <h1>AI 前沿日报</h1>
           <p>每日精选全球 AI 领域最新进展</p>
         </div>
-
-        <section className="pulse-panel" aria-label="AI 脉搏">
-          <div className="pulse-title">
-            <strong>AI 脉搏</strong>
-            <span>{issue.updatedAt} 更新</span>
-          </div>
-          <div className="pulse-grid">
-            {issue.pulse.map((item) => (
-              <div className="pulse-item" key={item.label}>
-                <span>{item.label}</span>
-                <strong>{item.value}</strong>
-                <em className={item.delta.startsWith("-") ? "down" : "up"}>{item.delta}</em>
-              </div>
-            ))}
-          </div>
-        </section>
       </header>
 
       <section className="control-bar" aria-label="日报筛选">
@@ -218,6 +239,7 @@ function App() {
               </button>
             ))}
           </div>
+
         </aside>
 
         <section className="front-page" aria-label="今日头版">
@@ -235,17 +257,11 @@ function App() {
                 <h2>{leadArticle.title}</h2>
                 <p>{leadArticle.summary}</p>
                 <div className="article-meta">
-                  <SourceLink item={leadArticle} prefix="来源：" />
+                  <span>{leadArticle.source}</span>
                   <span>阅读 {leadArticle.readTime}</span>
                 </div>
-                <button
-                  className="text-button"
-                  onClick={() => setExpandedId(expandedId === leadArticle.id ? "" : leadArticle.id)}
-                  type="button"
-                >
-                  {expandedId === leadArticle.id ? "收起正文" : "展开正文"}
-                </button>
-                {expandedId === leadArticle.id && <p className="article-body">{leadArticle.body}</p>}
+                <p className="article-body">{leadArticle.body}</p>
+                <ArticleActions article={leadArticle} />
               </div>
             </article>
           ) : (
@@ -262,17 +278,11 @@ function App() {
                 <h3>{article.title}</h3>
                 <p>{article.summary}</p>
                 <div className="article-meta">
-                  <SourceLink item={article} />
+                  <span>{article.source}</span>
                   <span>{article.readTime}</span>
                 </div>
-                <button
-                  className="text-button"
-                  onClick={() => setExpandedId(expandedId === article.id ? "" : article.id)}
-                  type="button"
-                >
-                  {expandedId === article.id ? "收起" : "阅读"}
-                </button>
-                {expandedId === article.id && <p className="article-body compact">{article.body}</p>}
+                <p className="article-body compact">{article.body}</p>
+                <ArticleActions article={article} />
               </article>
             ))}
           </div>
@@ -304,29 +314,43 @@ function App() {
         </aside>
       </section>
 
-      <section className="category-board" aria-label="分类版面">
-        {grouped.map((group) => (
-          <article className="category-column" key={group.category}>
-            <div className="section-heading">
-              <h2>{group.category}</h2>
-              <button onClick={() => setCategory(group.category)} type="button">
-                筛选
-              </button>
-            </div>
-            <ul>
-              {group.articles.slice(0, 3).map((article) => (
-                <li key={article.id}>
-                  <button onClick={() => setExpandedId(article.id)} type="button">
-                    <strong>{article.title}</strong>
-                    <span>
-                      {article.source} · {article.readTime}
-                    </span>
+      <section className="favorites-board" aria-label="收藏夹">
+        <div className="section-heading">
+          <h2>收藏夹</h2>
+          <span>{favoriteArticles.length} 条</span>
+        </div>
+        {favoriteArticles.length > 0 ? (
+          <div className="favorite-list">
+            {favoriteArticles.map((article) => (
+              <article className="favorite-item" key={article.favoriteKey}>
+                <div>
+                  <strong>{article.title}</strong>
+                  <span>
+                    {article.issueDate} · {article.source} · {article.readTime}
+                  </span>
+                </div>
+                <div className="favorite-actions">
+                  <SourceLink item={article} />
+                  <button
+                    className="favorite-button active"
+                    onClick={() => {
+                      setFavoriteIds((current) => {
+                        const next = current.filter((item) => item !== article.favoriteKey);
+                        localStorage.setItem("ai-daily-favorites", JSON.stringify(next));
+                        return next;
+                      });
+                    }}
+                    type="button"
+                  >
+                    移除
                   </button>
-                </li>
-              ))}
-            </ul>
-          </article>
-        ))}
+                </div>
+              </article>
+            ))}
+          </div>
+        ) : (
+          <div className="empty-state">还没有收藏。看到值得回看的新闻，可以点「收藏」放到这里。</div>
+        )}
       </section>
     </main>
   );
