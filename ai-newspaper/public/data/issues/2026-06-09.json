@@ -1,0 +1,138 @@
+{
+  "id": "2026-06-09",
+  "date": "2026-06-09",
+  "weekday": "星期二",
+  "lunar": "四月廿四",
+  "issueNo": "2026-161",
+  "updatedAt": "07:30",
+  "pulse": [
+    { "label": "模型活跃度", "value": 91, "delta": "+7" },
+    { "label": "论文热度", "value": 76, "delta": "+3" },
+    { "label": "行业关注度", "value": 84, "delta": "+5" },
+    { "label": "融资热度", "value": 68, "delta": "-2" }
+  ],
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "OpenAI 推出新一代多模态代理接口，强调工具调用稳定性",
+      "source": "OpenAI Blog"
+    },
+    {
+      "time": "06:42",
+      "category": "研究",
+      "title": "斯坦福团队发布长视频推理评测，覆盖医疗、教育与代码场景",
+      "source": "arXiv"
+    },
+    {
+      "time": "06:10",
+      "category": "产品",
+      "title": "Notion AI 升级企业知识库搜索，可跨空间生成引用摘要",
+      "source": "Notion Blog"
+    },
+    {
+      "time": "05:40",
+      "category": "资本",
+      "title": "企业 AI 安全平台完成 1.2 亿美元 B 轮融资",
+      "source": "TechCrunch"
+    },
+    {
+      "time": "05:12",
+      "category": "政策",
+      "title": "欧盟公布生成式 AI 透明度模板草案",
+      "source": "EU AI Office"
+    },
+    {
+      "time": "04:55",
+      "category": "行业",
+      "title": "芯片云厂商扩展推理实例，主打低延迟视频生成",
+      "source": "The Information"
+    }
+  ],
+  "articles": [
+    {
+      "id": "lead-openai-agents",
+      "category": "模型",
+      "priority": "lead",
+      "title": "多模态代理进入工程化阶段，工具调用成为新竞争焦点",
+      "summary": "新一代模型接口把视觉、语音、代码执行和外部工具编排放在同一条链路里，厂商的竞争正在从单次回答质量转向复杂任务的可控执行。",
+      "body": "今天的主线不是单个模型分数刷新，而是代理系统的工程可用性。模型需要理解任务、调用工具、检查结果并在失败时回退。对团队来说，这意味着评测方式也要变化：除了回答是否正确，还要看工具调用链路是否稳定、引用是否可追溯、权限边界是否清晰。",
+      "source": "OpenAI Blog",
+      "readTime": "8 分钟",
+      "impact": "高",
+      "tags": ["Agent", "多模态", "工具调用"]
+    },
+    {
+      "id": "deepmind-tpu",
+      "category": "行业",
+      "priority": "feature",
+      "title": "推理成本继续下探，AI 云服务开始拼调度效率",
+      "summary": "多家云厂商把最新推理实例推向企业客户，重点不再只是峰值算力，而是吞吐、延迟和多租户稳定性。",
+      "body": "随着企业把生成式 AI 嵌入客服、办公和研发流程，推理成本成为更直接的预算项。今天几家厂商的更新都指向同一个方向：在保持模型体验的同时，让调用成本更容易预测。",
+      "source": "SemiAnalysis",
+      "readTime": "6 分钟",
+      "impact": "中",
+      "tags": ["算力", "云服务", "推理"]
+    },
+    {
+      "id": "video-benchmark",
+      "category": "研究",
+      "priority": "feature",
+      "title": "长视频理解评测升温，研究者关注时间一致性与因果推理",
+      "summary": "新的评测集合要求模型处理跨分钟级片段的角色、事件和动作关系，单帧识别能力已经不够。",
+      "body": "视频模型的下一步难点在于保持长时间范围内的记忆和一致判断。论文指出，现有模型在局部描述上进步明显，但面对跨片段的因果关系和反事实问题仍容易出错。",
+      "source": "arXiv",
+      "readTime": "7 分钟",
+      "impact": "中",
+      "tags": ["视频", "评测", "多模态"]
+    },
+    {
+      "id": "notion-ai-search",
+      "category": "产品",
+      "priority": "normal",
+      "title": "知识库 AI 从问答走向工作流，企业更在意权限和引用",
+      "summary": "协作工具正在把 AI 搜索、摘要和任务生成串起来，引用来源与权限继承成为采购时的关键问题。",
+      "body": "很多团队已经不缺聊天入口，真正的痛点是让 AI 在正确的知识边界内工作。产品更新普遍强调引用、版本和访问控制，说明企业落地正在进入细节阶段。",
+      "source": "Notion Blog",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": ["企业应用", "知识库", "权限"]
+    },
+    {
+      "id": "ai-policy-template",
+      "category": "政策",
+      "priority": "normal",
+      "title": "透明度模板草案发布，模型供应链披露压力增加",
+      "summary": "监管机构要求生成式 AI 服务说明训练数据类别、风险缓解措施和内容标识机制。",
+      "body": "这类模板不会立刻决定产品形态，但会影响企业采购和跨境上线节奏。对模型团队而言，文档化、审计和版本记录正在变成产品能力的一部分。",
+      "source": "EU AI Office",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": ["监管", "合规", "透明度"]
+    },
+    {
+      "id": "security-series-b",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 安全公司融资升温，需求集中在评测、审计与防泄漏",
+      "summary": "投资人继续押注企业 AI 安全栈，尤其是提示注入防护、数据外泄监测和红队评测平台。",
+      "body": "随着企业把模型接入真实业务系统，安全预算开始从概念验证转向常规支出。融资叙事也从'模型安全'变成'业务流程安全'。",
+      "source": "TechCrunch",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": ["安全", "融资", "企业"]
+    },
+    {
+      "id": "opinion-ui-agents",
+      "category": "观点",
+      "priority": "normal",
+      "title": "观点：AI 产品的下一轮体验差异，来自可解释的过程",
+      "summary": "当模型都能给出答案，用户会更在意它为什么这么做、用了哪些资料、能否撤销某一步。",
+      "body": "AI 产品不能只展示结果。尤其在办公和分析场景里，用户需要看到过程、证据和选择空间。好的体验会让模型像一位可靠同事，而不是一个黑箱按钮。",
+      "source": "Ben Evans",
+      "readTime": "6 分钟",
+      "impact": "低",
+      "tags": ["体验", "产品设计", "Agent"]
+    }
+  ]
+}
