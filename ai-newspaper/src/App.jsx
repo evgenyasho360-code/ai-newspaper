@@ -30,9 +30,9 @@ const fallbackIssues = [
         id: "fallback-lead",
         category: "模型",
         priority: "lead",
-        title: "AI 前沿日报已准备好读取每日 JSON 数据",
-        summary: "网页会优先读取 public/data/issues/index.json，并加载其中列出的每一期日报。",
-        body: "后续只要采集 skill 每天生成新的 YYYY-MM-DD.json，并更新 index.json，公开网页就会显示最新一期内容。",
+        title: "今日 AI 前沿日报正在更新",
+        summary: "我们正在整理今天最值得关注的 AI 进展，请稍后刷新查看完整内容。",
+        body: "本期内容会覆盖模型、研究、产品、行业、资本、政策与观点。页面暂时展示占位内容，更新完成后会自动呈现最新日报。",
         source: "AI Daily",
         url: "https://github.com/evgenyasho360-code/ai-newspaper",
         readTime: "3 分钟",
@@ -217,11 +217,6 @@ function App() {
                 <em>{item.articles.length} 篇</em>
               </button>
             ))}
-          </div>
-
-          <div className="source-note">
-            <strong>数据接入方式</strong>
-            <p>后续让采集 skill 每天生成一期 JSON，网页无需访问者安装 skill。</p>
           </div>
         </aside>
 
