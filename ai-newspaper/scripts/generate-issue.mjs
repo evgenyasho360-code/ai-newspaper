@@ -51,6 +51,7 @@ function normalizeIssue(source, date) {
     summary: article.summary ?? article.description ?? "待补充摘要。",
     body: article.body ?? article.content ?? article.summary ?? "待补充正文。",
     source: article.source ?? "AI Daily Skill",
+    url: article.url ?? article.link ?? "",
     readTime: article.readTime ?? "5 分钟",
     impact: article.impact ?? "中",
     tags: Array.isArray(article.tags) ? article.tags : ["AI"],
@@ -83,6 +84,7 @@ function normalizeIssue(source, date) {
         category: article.category,
         title: article.title,
         source: article.source,
+        url: article.url,
       })),
     articles: normalizedArticles.length > 0 ? normalizedArticles : createPlaceholderArticles(date),
   };
@@ -98,6 +100,7 @@ function createPlaceholderArticles(date) {
       summary: "这是一条占位内容，用来验证每日自动发布链路。接入采集 skill 后会被真实日报替换。",
       body: "当前脚本会写入当天 JSON 并更新期数索引。后续把 AI_DAILY_SOURCE_FILE 指向 skill 输出文件，或在 loadSkillOutput 中直接调用你的 skill 即可。",
       source: "AI Daily Pipeline",
+      url: "https://github.com/evgenyasho360-code/ai-newspaper",
       readTime: "3 分钟",
       impact: "中",
       tags: ["自动化", "部署"],
