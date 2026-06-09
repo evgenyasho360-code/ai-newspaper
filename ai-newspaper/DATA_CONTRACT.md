@@ -24,7 +24,8 @@ public/data/issues/2026-06-09.json
       "time": "07:15",
       "category": "模型",
       "title": "OpenAI 推出新一代多模态代理接口",
-      "source": "OpenAI Blog"
+      "source": "OpenAI Blog",
+      "url": "https://openai.com/blog/"
     }
   ],
   "articles": [
@@ -36,6 +37,7 @@ public/data/issues/2026-06-09.json
       "summary": "一句话摘要，适合头版扫描。",
       "body": "展开正文，说明为什么重要。",
       "source": "OpenAI Blog",
+      "url": "https://openai.com/blog/",
       "readTime": "8 分钟",
       "impact": "高",
       "tags": ["Agent", "多模态", "工具调用"]
@@ -49,7 +51,8 @@ public/data/issues/2026-06-09.json
 - `id`: 建议使用日期，便于历史期数索引。
 - `priority`: `lead` 会成为头版主新闻，`feature` 会优先进入重点区，其余可用 `normal`。
 - `category`: 当前页面支持 `模型`、`研究`、`产品`、`行业`、`资本`、`政策`、`观点`。
+- `url`: 原始信息链接。页面会用它打开原文；真实 skill 接入时强烈建议每条快讯和文章都提供。
 - `briefing`: 用于右侧快讯栏，适合短消息。
-- `articles`: 用于头版和分类版面，至少需要 `title`、`summary`、`body`、`source`。
+- `articles`: 用于头版和分类版面，至少需要 `title`、`summary`、`body`、`source`，最好包含 `url`。
 
 后续可以增加一个生成脚本，把你的 AI 信息采集 skill 输出转换成这个结构。
