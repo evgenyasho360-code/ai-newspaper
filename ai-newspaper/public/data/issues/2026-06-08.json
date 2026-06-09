@@ -1,0 +1,57 @@
+{
+  "id": "2026-06-08",
+  "date": "2026-06-08",
+  "weekday": "星期一",
+  "lunar": "四月廿三",
+  "issueNo": "2026-160",
+  "updatedAt": "07:20",
+  "pulse": [
+    { "label": "模型活跃度", "value": 84, "delta": "+2" },
+    { "label": "论文热度", "value": 73, "delta": "-1" },
+    { "label": "行业关注度", "value": 79, "delta": "+4" },
+    { "label": "融资热度", "value": 70, "delta": "+6" }
+  ],
+  "briefing": [
+    { "time": "07:02", "category": "产品", "title": "Adobe 更新 Firefly 视频能力", "source": "Adobe Blog" },
+    { "time": "06:30", "category": "模型", "title": "开源小模型在端侧评测中刷新中文任务成绩", "source": "Hugging Face" },
+    { "time": "05:55", "category": "资本", "title": "数据标注平台完成新一轮融资", "source": "Reuters" }
+  ],
+  "articles": [
+    {
+      "id": "firefly-video",
+      "category": "产品",
+      "priority": "lead",
+      "title": "创意工具继续 AI 化，视频生成开始进入生产面板",
+      "summary": "设计软件厂商把视频生成、画面扩展和素材管理放进同一工作流。",
+      "body": "创意工具的竞争正在从生成单张图像转向完整生产链路，团队更在意版权、版本和协作。",
+      "source": "Adobe Blog",
+      "readTime": "6 分钟",
+      "impact": "中",
+      "tags": ["视频", "创意工具"]
+    },
+    {
+      "id": "edge-models",
+      "category": "模型",
+      "priority": "feature",
+      "title": "端侧模型继续变小，隐私与离线体验成为卖点",
+      "summary": "手机和 PC 厂商开始把轻量模型能力放进系统级入口。",
+      "body": "端侧模型不追求通用最强，而追求响应快、成本低和数据不出端。",
+      "source": "Hugging Face",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": ["端侧", "小模型"]
+    },
+    {
+      "id": "data-labeling",
+      "category": "资本",
+      "priority": "normal",
+      "title": "高质量数据需求回潮，标注平台强调专家网络",
+      "summary": "模型能力提升后，垂直领域数据质量重新成为瓶颈。",
+      "body": "医疗、法律和金融场景需要专家参与数据构建，这让标注平台的服务形态更接近专业咨询。",
+      "source": "Reuters",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": ["数据", "融资"]
+    }
+  ]
+}
