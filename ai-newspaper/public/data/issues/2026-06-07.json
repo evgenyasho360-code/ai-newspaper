@@ -1,0 +1,45 @@
+{
+  "id": "2026-06-07",
+  "date": "2026-06-07",
+  "weekday": "星期日",
+  "lunar": "四月廿二",
+  "issueNo": "2026-159",
+  "updatedAt": "08:10",
+  "pulse": [
+    { "label": "模型活跃度", "value": 78, "delta": "-3" },
+    { "label": "论文热度", "value": 81, "delta": "+8" },
+    { "label": "行业关注度", "value": 71, "delta": "-2" },
+    { "label": "融资热度", "value": 62, "delta": "+1" }
+  ],
+  "briefing": [
+    { "time": "08:02", "category": "研究", "title": "新论文比较合成数据对推理能力的影响", "source": "arXiv" },
+    { "time": "07:22", "category": "观点", "title": "多位研究者讨论 scaling law 的边界", "source": "LessWrong" },
+    { "time": "06:18", "category": "行业", "title": "企业采购从试点转向部门级预算", "source": "CIO Dive" }
+  ],
+  "articles": [
+    {
+      "id": "synthetic-data",
+      "category": "研究",
+      "priority": "lead",
+      "title": "合成数据的有效边界成为周末研究热点",
+      "summary": "研究者发现，不同任务上的合成数据收益差异很大，质量控制比规模更关键。",
+      "body": "合成数据不是简单扩容工具。论文强调生成、过滤、混合和评测的闭环，尤其要避免模型把自身错误进一步放大。",
+      "source": "arXiv",
+      "readTime": "8 分钟",
+      "impact": "中",
+      "tags": ["合成数据", "训练"]
+    },
+    {
+      "id": "scaling-law",
+      "category": "观点",
+      "priority": "feature",
+      "title": "Scaling law 之外，产品团队开始寻找体验杠杆",
+      "summary": "更大的模型不总是带来更好的产品，流程设计和上下文组织正在变重要。",
+      "body": "当底层模型能力差距收窄，产品体验里的上下文、权限、协作和反馈机制会放大差异。",
+      "source": "LessWrong",
+      "readTime": "6 分钟",
+      "impact": "低",
+      "tags": ["观点", "产品"]
+    }
+  ]
+}
