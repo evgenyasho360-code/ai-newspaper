@@ -22,6 +22,7 @@ const fallbackIssues = [
         category: "模型",
         title: "日报数据加载中，若离线则显示这条兜底内容",
         source: "AI Daily",
+        url: "https://github.com/evgenyasho360-code/ai-newspaper",
       },
     ],
     articles: [
@@ -33,6 +34,7 @@ const fallbackIssues = [
         summary: "网页会优先读取 public/data/issues/index.json，并加载其中列出的每一期日报。",
         body: "后续只要采集 skill 每天生成新的 YYYY-MM-DD.json，并更新 index.json，公开网页就会显示最新一期内容。",
         source: "AI Daily",
+        url: "https://github.com/evgenyasho360-code/ai-newspaper",
         readTime: "3 分钟",
         impact: "中",
         tags: ["自动化", "日报"],
@@ -116,6 +118,18 @@ function App() {
     setCategory("全部");
     setQuery("");
     setExpandedId(nextIssue.articles[0]?.id ?? "");
+  }
+
+  function SourceLink({ item, prefix = "" }) {
+    if (!item.url) {
+      return <span>{prefix}{item.source}</span>;
+    }
+
+    return (
+      <a className="source-link" href={item.url} rel="noreferrer" target="_blank">
+        {prefix}{item.source} ↗
+      </a>
+    );
   }
 
   return (
@@ -226,7 +240,7 @@ function App() {
                 <h2>{leadArticle.title}</h2>
                 <p>{leadArticle.summary}</p>
                 <div className="article-meta">
-                  <span>来源：{leadArticle.source}</span>
+                  <SourceLink item={leadArticle} prefix="来源：" />
                   <span>阅读 {leadArticle.readTime}</span>
                 </div>
                 <button
@@ -253,7 +267,7 @@ function App() {
                 <h3>{article.title}</h3>
                 <p>{article.summary}</p>
                 <div className="article-meta">
-                  <span>{article.source}</span>
+                  <SourceLink item={article} />
                   <span>{article.readTime}</span>
                 </div>
                 <button
@@ -276,7 +290,15 @@ function App() {
           </div>
           <div className="briefing-list">
             {issue.briefing.map((item) => (
-              <a href="#" key={`${item.time}-${item.title}`} onClick={(event) => event.preventDefault()}>
+              <a
+                href={item.url ?? "#"}
+                key={`${item.time}-${item.title}`}
+                onClick={(event) => {
+                  if (!item.url) event.preventDefault();
+                }}
+                rel="noreferrer"
+                target={item.url ? "_blank" : undefined}
+              >
                 <time>{item.time}</time>
                 <span>{item.category}</span>
                 <strong>{item.title}</strong>
