@@ -319,9 +319,10 @@ input:focus {
 
 .article-kicker {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   gap: 8px;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   color: #6a6258;
 }
 
@@ -337,6 +338,15 @@ input:focus {
   font-size: 12px;
   line-height: 1;
   padding: 4px 8px;
+  white-space: nowrap;
+}
+
+.meta-pill {
+  border: 1px solid #b8afa3;
+  border-radius: 999px;
+  color: #453f38;
+  font-size: 13px;
+  padding: 4px 10px;
   white-space: nowrap;
 }
 
@@ -356,37 +366,6 @@ input:focus {
 .lead-story > .story-copy > p {
   font-size: 17px;
   line-height: 1.8;
-}
-
-.article-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 12px 0;
-}
-
-.article-meta span {
-  border: 1px solid #b8afa3;
-  border-radius: 999px;
-  color: #453f38;
-  font-size: 13px;
-  padding: 4px 10px;
-}
-
-.article-meta .source-link {
-  display: inline-flex;
-  align-items: center;
-  border: 1px solid #b8afa3;
-  border-radius: 999px;
-  color: #453f38;
-  font-size: 13px;
-  padding: 4px 10px;
-  text-decoration: none;
-}
-
-.article-meta .source-link:hover {
-  border-color: #96261f;
-  color: #96261f;
 }
 
 .article-body {
