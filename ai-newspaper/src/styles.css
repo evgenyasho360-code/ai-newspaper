@@ -329,12 +329,15 @@ input:focus {
   font-size: 14px;
 }
 
-.article-kicker em {
+.impact-stars {
   border: 1px solid #d9b6ad;
+  border-radius: 999px;
   color: #96261f;
-  font-style: normal;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: 12px;
-  padding: 1px 5px;
+  line-height: 1;
+  padding: 4px 8px;
+  white-space: nowrap;
 }
 
 .lead-story h2 {
@@ -400,7 +403,7 @@ input:focus {
 .favorite-actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
   align-items: center;
 }
 
@@ -409,23 +412,26 @@ input:focus {
 .favorite-button {
   display: inline-flex;
   align-items: center;
-  min-height: 38px;
+  min-height: 31px;
   border: 1px solid #b8afa3;
-  border-radius: 4px;
+  border-radius: 999px;
   background: rgba(255, 255, 255, 0.32);
-  color: #171411;
-  padding: 6px 12px;
+  color: #453f38;
+  font-size: 13px;
+  padding: 4px 10px;
   text-decoration: none;
 }
 
 .article-actions .source-link:hover,
 .favorite-actions .source-link:hover,
 .favorite-button:hover {
-  border-color: #171411;
+  border-color: #96261f;
+  color: #96261f;
 }
 
 .favorite-button.active {
   border-color: #96261f;
+  background: rgba(150, 38, 31, 0.08);
   color: #96261f;
 }
 
