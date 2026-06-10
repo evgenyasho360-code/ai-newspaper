@@ -263,13 +263,11 @@ function App() {
                 <div className="article-kicker">
                   <span>{leadArticle.category}</span>
                   <ImpactStars value={leadArticle.impact} />
+                  <span className="meta-pill">{leadArticle.source}</span>
+                  <span className="meta-pill">阅读 {leadArticle.readTime}</span>
                 </div>
                 <h2>{leadArticle.title}</h2>
                 <p>{leadArticle.summary}</p>
-                <div className="article-meta">
-                  <span>{leadArticle.source}</span>
-                  <span>阅读 {leadArticle.readTime}</span>
-                </div>
                 <p className="article-body">{leadArticle.body}</p>
                 <ArticleActions article={leadArticle} />
               </div>
@@ -284,13 +282,11 @@ function App() {
                 <div className="article-kicker">
                   <span>{article.category}</span>
                   <ImpactStars value={article.impact} />
+                  <span className="meta-pill">{article.source}</span>
+                  <span className="meta-pill">{article.readTime}</span>
                 </div>
                 <h3>{article.title}</h3>
                 <p>{article.summary}</p>
-                <div className="article-meta">
-                  <span>{article.source}</span>
-                  <span>{article.readTime}</span>
-                </div>
                 <p className="article-body compact">{article.body}</p>
                 <ArticleActions article={article} />
               </article>
