@@ -43,6 +43,22 @@ const fallbackIssues = [
   },
 ];
 
+function isPublishableArticle(article) {
+  return Boolean(
+    article?.title &&
+      article?.summary &&
+      article?.body &&
+      article?.source &&
+      article.source !== "AI Daily Pipeline" &&
+      !article.id?.includes("placeholder"),
+  );
+}
+
+function isPublishableIssue(issue) {
+  const validArticles = Array.isArray(issue?.articles) ? issue.articles.filter(isPublishableArticle) : [];
+  return Boolean(issue?.id && validArticles.length >= 2);
+}
+
 function App() {
   const [issues, setIssues] = useState(fallbackIssues);
   const [issueId, setIssueId] = useState(fallbackIssues[0].id);
@@ -74,7 +90,7 @@ function App() {
           }),
         );
 
-        const validIssues = loadedIssues.filter((item) => item?.id && item?.articles?.length);
+        const validIssues = loadedIssues.filter(isPublishableIssue);
         if (!ignore && validIssues.length > 0) {
           setIssues(validIssues);
           setIssueId(validIssues[0].id);
