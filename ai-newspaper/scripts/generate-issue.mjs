@@ -3,6 +3,7 @@ import path from "node:path";
 
 const issuesDir = path.resolve("public/data/issues");
 const sourceFile = process.env.AI_DAILY_SOURCE_FILE;
+const minArticles = Number(process.env.AI_DAILY_MIN_ARTICLES ?? 3);
 
 function getShanghaiDate() {
   const parts = new Intl.DateTimeFormat("en-CA", {
@@ -86,26 +87,24 @@ function normalizeIssue(source, date) {
         source: article.source,
         url: article.url,
       })),
-    articles: normalizedArticles.length > 0 ? normalizedArticles : createPlaceholderArticles(date),
+    articles: normalizedArticles,
   };
 }
 
-function createPlaceholderArticles(date) {
-  return [
-    {
-      id: `${date}-placeholder`,
-      category: "观点",
-      priority: "lead",
-      title: "今日 AI 日报生成脚本已就绪，等待接入真实 skill 输出",
-      summary: "这是一条占位内容，用来验证每日自动发布链路。接入采集 skill 后会被真实日报替换。",
-      body: "当前脚本会写入当天 JSON 并更新期数索引。后续把 AI_DAILY_SOURCE_FILE 指向 skill 输出文件，或在 loadSkillOutput 中直接调用你的 skill 即可。",
-      source: "AI Daily Pipeline",
-      url: "https://github.com/evgenyasho360-code/ai-newspaper",
-      readTime: "3 分钟",
-      impact: "中",
-      tags: ["自动化", "部署"],
-    },
-  ];
+function isPublishableArticle(article) {
+  return Boolean(
+    article?.title &&
+      article?.summary &&
+      article?.body &&
+      article?.source &&
+      article.source !== "AI Daily Pipeline" &&
+      !article.id?.includes("placeholder"),
+  );
+}
+
+function isPublishableIssue(issue) {
+  const validArticles = Array.isArray(issue?.articles) ? issue.articles.filter(isPublishableArticle) : [];
+  return Boolean(issue?.id && issue?.date && validArticles.length >= minArticles);
 }
 
 async function updateIndex(newFile) {
@@ -128,6 +127,11 @@ async function main() {
   const date = process.env.AI_DAILY_DATE ?? getShanghaiDate();
   const source = await loadSkillOutput();
   const issue = normalizeIssue(source, date);
+  if (!isPublishableIssue(issue)) {
+    console.log(`Skipped ${date}: publishable article count is below ${minArticles}.`);
+    return;
+  }
+
   const filename = `${issue.id}.json`;
 
   await mkdir(issuesDir, { recursive: true });
