@@ -151,6 +151,16 @@ function App() {
     );
   }
 
+  function ImpactStars({ value }) {
+    const score = value === "高" ? 3 : value === "低" ? 1 : 2;
+    return (
+      <span aria-label={`${score} 星`} className="impact-stars">
+        {"★".repeat(score)}
+        {"☆".repeat(3 - score)}
+      </span>
+    );
+  }
+
   function ArticleActions({ article }) {
     const favoriteKey = getFavoriteKey(article);
     const isFavorite = favoriteIds.includes(favoriteKey);
@@ -252,7 +262,7 @@ function App() {
               <div className="story-copy">
                 <div className="article-kicker">
                   <span>{leadArticle.category}</span>
-                  <em>{leadArticle.impact}影响</em>
+                  <ImpactStars value={leadArticle.impact} />
                 </div>
                 <h2>{leadArticle.title}</h2>
                 <p>{leadArticle.summary}</p>
@@ -273,7 +283,7 @@ function App() {
               <article className="feature-story" key={article.id}>
                 <div className="article-kicker">
                   <span>{article.category}</span>
-                  <em>{article.impact}影响</em>
+                  <ImpactStars value={article.impact} />
                 </div>
                 <h3>{article.title}</h3>
                 <p>{article.summary}</p>
