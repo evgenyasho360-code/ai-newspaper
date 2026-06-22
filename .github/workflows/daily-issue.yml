@@ -23,12 +23,19 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
+          cache-dependency-path: ai-newspaper/package-lock.json
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
+
+      - name: Collect AI news
+        run: npm run collect:news
 
       - name: Generate daily issue
         run: npm run generate:issue
+        env:
+          AI_DAILY_SOURCE_FILE: .cache/ai-daily-source.json
 
       - name: Build site
         run: npm run build
