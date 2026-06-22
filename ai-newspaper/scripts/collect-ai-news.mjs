@@ -105,11 +105,11 @@ function parseFeed(xml, feed) {
 
 function categorize(item) {
   const text = `${item.title} ${item.summary}`.toLowerCase();
-  if (/(policy|regulation|safety|governance|law|act)/.test(text)) return "政策";
-  if (/(funding|raises|valuation|invest|acquisition|ipo)/.test(text)) return "资本";
-  if (/(benchmark|paper|research|arxiv|dataset|evaluation)/.test(text)) return "研究";
-  if (/(model|agent|reasoning|multimodal|llm|language model|gemini|gpt|claude)/.test(text)) return "模型";
-  if (/(product|launch|release|api|app|tool|platform)/.test(text)) return "产品";
+  if (/\b(policy|regulation|safety|governance|law|act)\b/.test(text)) return "政策";
+  if (/\b(funding|raises|valuation|invest|investment|acquisition|ipo)\b/.test(text)) return "资本";
+  if (/\b(benchmark|paper|research|arxiv|dataset|evaluation|evaluations)\b/.test(text)) return "研究";
+  if (/\b(model|models|agent|agents|reasoning|multimodal|llm|language model|gemini|gpt|claude)\b/.test(text)) return "模型";
+  if (/\b(product|launch|release|api|app|tool|tools|platform)\b/.test(text)) return "产品";
   return item.category;
 }
 
