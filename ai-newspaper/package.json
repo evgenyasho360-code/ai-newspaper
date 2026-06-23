@@ -7,6 +7,7 @@
     "dev": "vite --host 127.0.0.1",
     "collect:news": "node scripts/collect-ai-news.mjs",
     "generate:issue": "node scripts/generate-issue.mjs",
+    "backfill:june": "node scripts/backfill-issues.mjs",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1"
   },
