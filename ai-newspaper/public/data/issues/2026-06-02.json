@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-02",
+  "date": "2026-06-02",
+  "weekday": "星期二",
+  "issueNo": "20260602",
+  "updatedAt": "19:45",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Hcompany/holo31"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/travelers"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "Codex for every role, tool, and workflow",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/codex-for-knowledge-work"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "Our views on AI policy and political advocacy",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-02-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Holo3.1: Fast & Local Computer Use Agents」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Holo3.1: Fast & Local Computer Use Agents」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-02-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during ",
+      "body": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/travelers",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-02-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "Codex for every role, tool, and workflow",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "body": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-02-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for you",
+      "body": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-02-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation,",
+      "body": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-01-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "Our views on AI policy and political advocacy",
+      "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group s",
+      "body": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-01-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-01-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    }
+  ]
+}

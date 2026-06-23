@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-15",
+  "date": "2026-06-15",
+  "weekday": "星期一",
+  "issueNo": "20260615",
+  "updatedAt": "19:46",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "Introducing the OpenAI Partner Network",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-openai-partner-network"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/preply"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/bbva"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+    },
+    {
+      "time": "09:45",
+      "category": "产品",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-14-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "body": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-12-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "body": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-12-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "body": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/preply",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "body": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/bbva",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s the",
+      "body": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-6",
+      "category": "产品",
+      "priority": "normal",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated co",
+      "body": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "body": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-8",
+      "category": "产品",
+      "priority": "normal",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    }
+  ]
+}

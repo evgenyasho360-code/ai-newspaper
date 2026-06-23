@@ -1,58 +1,106 @@
 {
-  "id": "2026-06-09",
-  "date": "2026-06-09",
-  "weekday": "星期二",
-  "issueNo": "20260609",
+  "id": "2026-06-10",
+  "date": "2026-06-10",
+  "weekday": "星期三",
+  "issueNo": "20260610",
   "updatedAt": "19:46",
   "briefing": [
     {
       "time": "07:15",
+      "category": "模型",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "Investing in multi-agent AI safety research",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/lseg"
+    },
+    {
+      "time": "08:45",
       "category": "模型",
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "source": "Google DeepMind Blog",
       "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/"
     },
     {
-      "time": "07:45",
+      "time": "09:15",
       "category": "模型",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "source": "Google DeepMind Blog",
       "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/"
     },
     {
-      "time": "08:15",
+      "time": "09:45",
       "category": "研究",
       "title": "Powering the future of robotics in Europe",
       "source": "Google DeepMind Blog",
       "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/"
-    },
-    {
-      "time": "08:45",
-      "category": "模型",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/nextdoor"
-    },
-    {
-      "time": "09:15",
-      "category": "模型",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
-    },
-    {
-      "time": "09:45",
-      "category": "模型",
-      "title": "What Codex unlocks for Notion",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/notion"
     }
   ],
   "articles": [
     {
-      "id": "2026-06-09-1",
+      "id": "2026-06-10-1",
       "category": "模型",
       "priority": "lead",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false clai",
+      "body": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-10-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "Investing in multi-agent AI safety research",
+      "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "body": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-06-10-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employe",
+      "body": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/lseg",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-09-4",
+      "category": "模型",
+      "priority": "normal",
       "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
       "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
       "body": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
@@ -66,9 +114,9 @@
       ]
     },
     {
-      "id": "2026-06-09-2",
+      "id": "2026-06-09-5",
       "category": "模型",
-      "priority": "feature",
+      "priority": "normal",
       "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
       "summary": "Google DeepMind Blog 发布了新的 AI 相关信息，主题为「Introducing Gemma 4 12B: a unified, encoder-free multimodal model」。点击原文可查看完整内容。",
       "body": "Google DeepMind Blog 发布了新的 AI 相关信息，主题为「Introducing Gemma 4 12B: a unified, encoder-free multimodal model」。点击原文可查看完整内容。",
@@ -82,9 +130,9 @@
       ]
     },
     {
-      "id": "2026-06-09-3",
+      "id": "2026-06-09-6",
       "category": "研究",
-      "priority": "feature",
+      "priority": "normal",
       "title": "Powering the future of robotics in Europe",
       "summary": "Google DeepMind Blog 发布了新的 AI 相关信息，主题为「Powering the future of robotics in Europe」。点击原文可查看完整内容。",
       "body": "Google DeepMind Blog 发布了新的 AI 相关信息，主题为「Powering the future of robotics in Europe」。点击原文可查看完整内容。",
@@ -98,7 +146,7 @@
       ]
     },
     {
-      "id": "2026-06-09-4",
+      "id": "2026-06-09-7",
       "category": "模型",
       "priority": "normal",
       "title": "How engineers at Nextdoor use Codex to build without limits",
@@ -114,7 +162,7 @@
       ]
     },
     {
-      "id": "2026-06-09-5",
+      "id": "2026-06-09-8",
       "category": "模型",
       "priority": "normal",
       "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
@@ -126,54 +174,6 @@
       "impact": "高",
       "tags": [
         "模型",
-        "Hugging Face"
-      ]
-    },
-    {
-      "id": "2026-06-09-6",
-      "category": "模型",
-      "priority": "normal",
-      "title": "What Codex unlocks for Notion",
-      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "body": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/notion",
-      "readTime": "3 分钟",
-      "impact": "低",
-      "tags": [
-        "模型",
-        "OpenAI"
-      ]
-    },
-    {
-      "id": "2026-06-09-7",
-      "category": "政策",
-      "priority": "normal",
-      "title": "Industrial policy for the Intelligence Age",
-      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilien",
-      "body": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "readTime": "3 分钟",
-      "impact": "低",
-      "tags": [
-        "政策",
-        "OpenAI"
-      ]
-    },
-    {
-      "id": "2026-06-09-8",
-      "category": "产品",
-      "priority": "normal",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Migrating Your GitHub CI to Hugging Face Jobs」。点击原文可查看完整内容。",
-      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Migrating Your GitHub CI to Hugging Face Jobs」。点击原文可查看完整内容。",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "readTime": "3 分钟",
-      "impact": "低",
-      "tags": [
-        "产品",
         "Hugging Face"
       ]
     }

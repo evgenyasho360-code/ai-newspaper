@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-11",
+  "date": "2026-06-11",
+  "weekday": "星期四",
+  "issueNo": "20260611",
+  "updatedAt": "19:46",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/bbva"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "OpenAI to acquire Ona",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-to-acquire-ona"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-on-oracle-cloud"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-11-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "body": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/bbva",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s the",
+      "body": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated co",
+      "body": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "body": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/torch-mlp-fusion",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-10-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "body": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-10-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "summary": "Google DeepMind Blog 发布了新的 AI 相关信息，主题为「DiffusionGemma: 4x faster text generation」。点击原文可查看完整内容。",
+      "body": "Google DeepMind Blog 发布了新的 AI 相关信息，主题为「DiffusionGemma: 4x faster text generation」。点击原文可查看完整内容。",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-06-10-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false clai",
+      "body": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    }
+  ]
+}

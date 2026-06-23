@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-01",
+  "date": "2026-06-01",
+  "weekday": "星期一",
+  "issueNo": "20260601",
+  "updatedAt": "19:45",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/stargate-michigan-data-center"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/boston-childrens-hospital"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/braintrust"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-01-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-01-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-01-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and suppo",
+      "body": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-01-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, ",
+      "body": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-05-29-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease case",
+      "body": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-05-29-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "body": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/braintrust",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-05-29-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense,",
+      "body": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-05-29-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "body": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    }
+  ]
+}

@@ -2,56 +2,180 @@
   "id": "2026-06-08",
   "date": "2026-06-08",
   "weekday": "星期一",
-  "lunar": "四月廿三",
-  "issueNo": "2026-160",
-  "updatedAt": "07:20",
-  "pulse": [
-    { "label": "模型活跃度", "value": 84, "delta": "+2" },
-    { "label": "论文热度", "value": 73, "delta": "-1" },
-    { "label": "行业关注度", "value": 79, "delta": "+4" },
-    { "label": "融资热度", "value": 70, "delta": "+6" }
-  ],
+  "issueNo": "20260608",
+  "updatedAt": "19:45",
   "briefing": [
-    { "time": "07:02", "category": "产品", "title": "Adobe 更新 Firefly 视频能力", "source": "Adobe Blog" },
-    { "time": "06:30", "category": "模型", "title": "开源小模型在端侧评测中刷新中文任务成绩", "source": "Hugging Face" },
-    { "time": "05:55", "category": "资本", "title": "数据标注平台完成新一轮融资", "source": "Reuters" }
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "Built to benefit everyone: our plan",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/economic-research-exchange"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
+    }
   ],
   "articles": [
     {
-      "id": "firefly-video",
-      "category": "产品",
+      "id": "2026-06-08-1",
+      "category": "模型",
       "priority": "lead",
-      "title": "创意工具继续 AI 化，视频生成开始进入生产面板",
-      "summary": "设计软件厂商把视频生成、画面扩展和素材管理放进同一工作流。",
-      "body": "创意工具的竞争正在从生成单张图像转向完整生产链路，团队更在意版权、版本和协作。",
-      "source": "Adobe Blog",
-      "readTime": "6 分钟",
-      "impact": "中",
-      "tags": ["视频", "创意工具"]
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "body": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
     },
     {
-      "id": "edge-models",
+      "id": "2026-06-08-2",
       "category": "模型",
       "priority": "feature",
-      "title": "端侧模型继续变小，隐私与离线体验成为卖点",
-      "summary": "手机和 PC 厂商开始把轻量模型能力放进系统级入口。",
-      "body": "端侧模型不追求通用最强，而追求响应快、成本低和数据不出端。",
-      "source": "Hugging Face",
-      "readTime": "5 分钟",
-      "impact": "中",
-      "tags": ["端侧", "小模型"]
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "body": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
     },
     {
-      "id": "data-labeling",
-      "category": "资本",
+      "id": "2026-06-08-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "Built to benefit everyone: our plan",
+      "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "body": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-08-4",
+      "category": "研究",
       "priority": "normal",
-      "title": "高质量数据需求回潮，标注平台强调专家网络",
-      "summary": "模型能力提升后，垂直领域数据质量重新成为瓶颈。",
-      "body": "医疗、法律和金融场景需要专家参与数据构建，这让标注平台的服务形态更接近专业咨询。",
-      "source": "Reuters",
-      "readTime": "4 分钟",
-      "impact": "低",
-      "tags": ["数据", "融资"]
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected res",
+      "body": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-08-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「The Open Source Community is backing OpenEnv for Agentic RL」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「The Open Source Community is backing OpenEnv for Agentic RL」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-04-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-04-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture",
+      "body": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/endava-frontiers",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-04-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "body": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
     }
   ]
 }

@@ -1,74 +1,58 @@
 {
-  "id": "2026-06-07",
-  "date": "2026-06-07",
-  "weekday": "星期日",
-  "issueNo": "20260607",
+  "id": "2026-06-04",
+  "date": "2026-06-04",
+  "weekday": "星期四",
+  "issueNo": "20260604",
   "updatedAt": "19:45",
   "briefing": [
     {
       "time": "07:15",
-      "category": "政策",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
-    },
-    {
-      "time": "07:45",
       "category": "模型",
       "title": "How Endava is redesigning software delivery around AI agents",
       "source": "OpenAI News",
       "url": "https://openai.com/index/endava-frontiers"
     },
     {
-      "time": "08:15",
+      "time": "07:45",
       "category": "模型",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "source": "OpenAI News",
       "url": "https://openai.com/index/chatgpt-memory-dreaming"
     },
     {
-      "time": "08:45",
+      "time": "08:15",
       "category": "模型",
       "title": "Biodefense in the Intelligence Age",
       "source": "OpenAI News",
       "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
     },
     {
-      "time": "09:15",
+      "time": "08:45",
       "category": "模型",
       "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
       "source": "Hugging Face Blog",
       "url": "https://huggingface.co/blog/hf-cli-for-agents"
     },
     {
-      "time": "09:45",
+      "time": "09:15",
       "category": "研究",
       "title": "Introducing new capabilities to GPT-Rosalind",
       "source": "OpenAI News",
       "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+    },
+    {
+      "time": "09:45",
+      "category": "产品",
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots"
     }
   ],
   "articles": [
     {
       "id": "2026-06-04-1",
-      "category": "政策",
-      "priority": "lead",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI」。点击原文可查看完整内容。",
-      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI」。点击原文可查看完整内容。",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "readTime": "3 分钟",
-      "impact": "高",
-      "tags": [
-        "政策",
-        "Hugging Face"
-      ]
-    },
-    {
-      "id": "2026-06-04-2",
       "category": "模型",
-      "priority": "feature",
+      "priority": "lead",
       "title": "How Endava is redesigning software delivery around AI agents",
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture",
       "body": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
@@ -82,7 +66,7 @@
       ]
     },
     {
-      "id": "2026-06-04-3",
+      "id": "2026-06-04-2",
       "category": "模型",
       "priority": "feature",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
@@ -98,9 +82,9 @@
       ]
     },
     {
-      "id": "2026-06-04-4",
+      "id": "2026-06-04-3",
       "category": "模型",
-      "priority": "normal",
+      "priority": "feature",
       "title": "Biodefense in the Intelligence Age",
       "summary": "An action plan for AI-powered biological resilience",
       "body": "An action plan for AI-powered biological resilience",
@@ -114,7 +98,7 @@
       ]
     },
     {
-      "id": "2026-06-04-5",
+      "id": "2026-06-04-4",
       "category": "模型",
       "priority": "normal",
       "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
@@ -130,7 +114,7 @@
       ]
     },
     {
-      "id": "2026-06-03-6",
+      "id": "2026-06-03-5",
       "category": "研究",
       "priority": "normal",
       "title": "Introducing new capabilities to GPT-Rosalind",
@@ -146,7 +130,7 @@
       ]
     },
     {
-      "id": "2026-06-03-7",
+      "id": "2026-06-03-6",
       "category": "产品",
       "priority": "normal",
       "title": "Direct Preference Optimization Beyond Chatbots",
@@ -162,7 +146,7 @@
       ]
     },
     {
-      "id": "2026-06-03-8",
+      "id": "2026-06-03-7",
       "category": "模型",
       "priority": "normal",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
@@ -174,6 +158,22 @@
       "impact": "高",
       "tags": [
         "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-03-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "OpenAI public policy agenda",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits ",
+      "body": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
         "OpenAI"
       ]
     }

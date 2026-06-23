@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-19",
+  "date": "2026-06-19",
+  "weekday": "星期五",
+  "issueNo": "20260619",
+  "updatedAt": "19:46",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "Improving health intelligence in ChatGPT",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/peft-beyond-lora"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-18-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MosaicLeaks: Can your research agent keep a secret?」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MosaicLeaks: Can your research agent keep a secret?」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-18-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "body": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-18-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "Improving health intelligence in ChatGPT",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physici",
+      "body": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-18-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "body": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-18-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LoRA: Can you beat the most popular fine-tuning technique?」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LoRA: Can you beat the most popular fine-tuning technique?」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-18-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Is it agentic enough? Benchmarking open models on your own tooling」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Is it agentic enough? Benchmarking open models on your own tooling」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-17-7",
+      "category": "产品",
+      "priority": "normal",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MolmoMotion: Language-guided 3D motion forecasting」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MolmoMotion: Language-guided 3D motion forecasting」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-17-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    }
+  ]
+}

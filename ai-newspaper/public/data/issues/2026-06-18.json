@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-18",
+  "date": "2026-06-18",
+  "weekday": "星期四",
+  "issueNo": "20260618",
+  "updatedAt": "19:46",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "Improving health intelligence in ChatGPT",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/peft-beyond-lora"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/molmomotion"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-18-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "Improving health intelligence in ChatGPT",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physici",
+      "body": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-18-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "body": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-18-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LoRA: Can you beat the most popular fine-tuning technique?」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LoRA: Can you beat the most popular fine-tuning technique?」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-18-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Is it agentic enough? Benchmarking open models on your own tooling」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Is it agentic enough? Benchmarking open models on your own tooling」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-17-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MolmoMotion: Language-guided 3D motion forecasting」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MolmoMotion: Language-guided 3D motion forecasting」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-17-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-17-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry researc",
+      "body": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-17-8",
+      "category": "产品",
+      "priority": "normal",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「GLM-5.2: Built for Long-Horizon Tasks」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「GLM-5.2: Built for Long-Horizon Tasks」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    }
+  ]
+}

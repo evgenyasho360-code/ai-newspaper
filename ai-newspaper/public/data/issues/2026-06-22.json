@@ -3,56 +3,136 @@
   "date": "2026-06-22",
   "weekday": "星期一",
   "issueNo": "20260622",
-  "updatedAt": "16:57",
+  "updatedAt": "19:46",
   "briefing": [
     {
       "time": "07:15",
-      "category": "模型",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+      "category": "产品",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
     },
     {
       "time": "07:45",
-      "category": "研究",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      "category": "模型",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/daybreak-securing-the-world"
     },
     {
       "time": "08:15",
       "category": "模型",
-      "title": "New usage analytics and updated spend controls for enterprises",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
       "source": "OpenAI News",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      "url": "https://openai.com/index/patch-the-planet"
     },
     {
       "time": "08:45",
-      "category": "研究",
-      "title": "Improving health intelligence in ChatGPT",
+      "category": "模型",
+      "title": "Codex-maxxing for long-running work",
       "source": "OpenAI News",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      "url": "https://openai.com/index/codex-maxxing-long-running-work"
     },
     {
       "time": "09:15",
       "category": "模型",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/local-models-pr-triage"
     },
     {
       "time": "09:45",
-      "category": "产品",
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/peft-beyond-lora"
+      "category": "模型",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
     }
   ],
   "articles": [
     {
-      "id": "2026-06-21-1",
-      "category": "模型",
+      "id": "2026-06-22-1",
+      "category": "产品",
       "priority": "lead",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-22-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at s",
+      "body": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-22-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert r",
+      "body": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/patch-the-planet",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-22-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Codex-maxxing for long-running work",
+      "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "body": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-22-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「We got local models to triage the OpenClaw repo for FREE!*」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「We got local models to triage the OpenClaw repo for FREE!*」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-21-6",
+      "category": "模型",
+      "priority": "normal",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
       "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
       "body": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
@@ -66,9 +146,9 @@
       ]
     },
     {
-      "id": "2026-06-18-2",
+      "id": "2026-06-18-7",
       "category": "研究",
-      "priority": "feature",
+      "priority": "normal",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MosaicLeaks: Can your research agent keep a secret?」。点击原文可查看完整内容。",
       "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MosaicLeaks: Can your research agent keep a secret?」。点击原文可查看完整内容。",
@@ -82,9 +162,9 @@
       ]
     },
     {
-      "id": "2026-06-18-3",
+      "id": "2026-06-18-8",
       "category": "模型",
-      "priority": "feature",
+      "priority": "normal",
       "title": "New usage analytics and updated spend controls for enterprises",
       "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
       "body": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
@@ -95,86 +175,6 @@
       "tags": [
         "模型",
         "OpenAI"
-      ]
-    },
-    {
-      "id": "2026-06-18-4",
-      "category": "研究",
-      "priority": "normal",
-      "title": "Improving health intelligence in ChatGPT",
-      "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physici",
-      "body": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "readTime": "3 分钟",
-      "impact": "高",
-      "tags": [
-        "研究",
-        "OpenAI"
-      ]
-    },
-    {
-      "id": "2026-06-18-5",
-      "category": "模型",
-      "priority": "normal",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "body": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-      "source": "OpenAI News",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "readTime": "3 分钟",
-      "impact": "高",
-      "tags": [
-        "模型",
-        "OpenAI"
-      ]
-    },
-    {
-      "id": "2026-06-18-6",
-      "category": "产品",
-      "priority": "normal",
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LoRA: Can you beat the most popular fine-tuning technique?」。点击原文可查看完整内容。",
-      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Beyond LoRA: Can you beat the most popular fine-tuning technique?」。点击原文可查看完整内容。",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "readTime": "3 分钟",
-      "impact": "低",
-      "tags": [
-        "产品",
-        "Hugging Face"
-      ]
-    },
-    {
-      "id": "2026-06-18-7",
-      "category": "模型",
-      "priority": "normal",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Is it agentic enough? Benchmarking open models on your own tooling」。点击原文可查看完整内容。",
-      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Is it agentic enough? Benchmarking open models on your own tooling」。点击原文可查看完整内容。",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "readTime": "3 分钟",
-      "impact": "高",
-      "tags": [
-        "模型",
-        "Hugging Face"
-      ]
-    },
-    {
-      "id": "2026-06-17-8",
-      "category": "产品",
-      "priority": "normal",
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MolmoMotion: Language-guided 3D motion forecasting」。点击原文可查看完整内容。",
-      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「MolmoMotion: Language-guided 3D motion forecasting」。点击原文可查看完整内容。",
-      "source": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
-      "readTime": "3 分钟",
-      "impact": "低",
-      "tags": [
-        "产品",
-        "Hugging Face"
       ]
     }
   ]

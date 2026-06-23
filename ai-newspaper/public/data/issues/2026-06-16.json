@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-16",
+  "date": "2026-06-16",
+  "weekday": "星期二",
+  "issueNo": "20260616",
+  "updatedAt": "19:46",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "Securing the future of AI agents",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/deployment-simulation"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "Introducing the OpenAI Partner Network",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-openai-partner-network"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/preply"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/bbva"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-16-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "Securing the future of AI agents",
+      "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "body": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-06-16-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and ev",
+      "body": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/deployment-simulation",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-14-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "body": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-12-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "body": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-12-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "body": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/preply",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "body": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/bbva",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s the",
+      "body": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-11-8",
+      "category": "产品",
+      "priority": "normal",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated co",
+      "body": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    }
+  ]
+}
