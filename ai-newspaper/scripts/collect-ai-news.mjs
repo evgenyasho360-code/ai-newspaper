@@ -4,6 +4,7 @@ import path from "node:path";
 const outputFile = process.env.AI_DAILY_SOURCE_FILE ?? ".cache/ai-daily-source.json";
 const maxArticles = Number(process.env.AI_DAILY_MAX_ARTICLES ?? 8);
 const lookbackDays = Number(process.env.AI_DAILY_LOOKBACK_DAYS ?? 14);
+const targetDate = process.env.AI_DAILY_DATE ?? getShanghaiDate();
 
 const feeds = [
   {
@@ -13,7 +14,7 @@ const feeds = [
   },
   {
     name: "Google DeepMind Blog",
-    url: "https://deepmind.google/discover/blog/rss.xml/",
+    url: "https://deepmind.google/blog/rss.xml",
     category: "研究",
   },
   {
@@ -33,6 +34,8 @@ const feeds = [
   },
 ];
 
+const arxivSearchCategories = ["cs.AI", "cs.LG", "cs.CL", "cs.CV", "cs.RO"];
+
 function getShanghaiDate() {
   const parts = new Intl.DateTimeFormat("en-CA", {
     timeZone: "Asia/Shanghai",
@@ -50,6 +53,23 @@ function getChineseWeekday(date) {
     timeZone: "Asia/Shanghai",
     weekday: "long",
   }).format(new Date(`${date}T00:00:00+08:00`));
+}
+
+function getTargetWindow(date) {
+  const end = new Date(`${date}T23:59:59+08:00`).getTime();
+  const start = end - lookbackDays * 24 * 60 * 60 * 1000;
+  return { start, end };
+}
+
+function formatArxivDate(date) {
+  return new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  })
+    .format(date)
+    .replaceAll("-", "");
 }
 
 function decodeEntities(text) {
@@ -99,6 +119,24 @@ function parseFeed(xml, feed) {
       summary: getTag(block, "description") || getTag(block, "summary") || getTag(block, "content"),
       publishedAt: Number.isNaN(date.valueOf()) ? new Date().toISOString() : date.toISOString(),
       category: feed.category,
+    };
+  });
+}
+
+function parseArxivSearch(xml) {
+  const entries = [...xml.matchAll(/<entry\b[\s\S]*?<\/entry>/gi)].map((match) => match[0]);
+  return entries.map((block) => {
+    const title = getTag(block, "title");
+    const summary = getTag(block, "summary");
+    const publishedAt = getTag(block, "published") || getTag(block, "updated");
+    const categoryMatch = block.match(/<category[^>]+term=["']([^"']+)["'][^>]*>/i);
+    return {
+      title,
+      source: "arXiv",
+      url: getAtomLink(block),
+      summary,
+      publishedAt,
+      category: categoryMatch?.[1] === "cs.CV" ? "模型" : "研究",
     };
   });
 }
@@ -159,12 +197,37 @@ async function fetchFeed(feed) {
   return parseFeed(await response.text(), feed);
 }
 
+async function fetchArxivSearch() {
+  const { start, end } = getTargetWindow(targetDate);
+  const startDate = formatArxivDate(new Date(start));
+  const endDate = formatArxivDate(new Date(end));
+  const categoryQuery = arxivSearchCategories.map((category) => `cat:${category}`).join("+OR+");
+  const searchQuery = `(${categoryQuery})+AND+submittedDate:[${startDate}0000+TO+${endDate}2359]`;
+  const url = `https://export.arxiv.org/api/query?search_query=${searchQuery}&start=0&max_results=40&sortBy=submittedDate&sortOrder=descending`;
+  const response = await fetch(url, {
+    headers: {
+      "user-agent": "AI Newspaper Daily Collector/1.0",
+      accept: "application/atom+xml, application/xml, text/xml",
+    },
+  });
+  if (!response.ok) throw new Error(`arXiv search responded ${response.status}`);
+  return parseArxivSearch(await response.text());
+}
+
 async function main() {
-  const cutoff = Date.now() - lookbackDays * 24 * 60 * 60 * 1000;
-  const settled = await Promise.allSettled(feeds.map(fetchFeed));
+  const { start, end } = getTargetWindow(targetDate);
+  const settled = await Promise.allSettled([...feeds.map(fetchFeed), fetchArxivSearch()]);
+  for (const result of settled) {
+    if (result.status === "rejected") {
+      console.warn(result.reason?.message ?? result.reason);
+    }
+  }
   const items = settled
     .flatMap((result) => (result.status === "fulfilled" ? result.value : []))
-    .filter((item) => item.title && item.url && new Date(item.publishedAt).getTime() >= cutoff)
+    .filter((item) => {
+      const publishedTime = new Date(item.publishedAt).getTime();
+      return item.title && item.url && publishedTime >= start && publishedTime <= end;
+    })
     .sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime());
 
   const uniqueItems = [];
@@ -179,10 +242,10 @@ async function main() {
 
   const articles = uniqueItems.map(makeArticle);
   const issue = {
-    id: process.env.AI_DAILY_DATE ?? getShanghaiDate(),
-    date: process.env.AI_DAILY_DATE ?? getShanghaiDate(),
-    weekday: getChineseWeekday(process.env.AI_DAILY_DATE ?? getShanghaiDate()),
-    issueNo: (process.env.AI_DAILY_DATE ?? getShanghaiDate()).replaceAll("-", ""),
+    id: targetDate,
+    date: targetDate,
+    weekday: getChineseWeekday(targetDate),
+    issueNo: targetDate.replaceAll("-", ""),
     updatedAt: new Intl.DateTimeFormat("zh-CN", {
       timeZone: "Asia/Shanghai",
       hour: "2-digit",
