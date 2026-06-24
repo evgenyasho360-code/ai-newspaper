@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-24",
+  "date": "2026-06-24",
+  "weekday": "星期三",
+  "issueNo": "20260624",
+  "updatedAt": "09:26",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "Helping build shared standards for advanced AI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
+    },
+    {
+      "time": "08:45",
+      "category": "产品",
+      "title": "How Omio is building the future of conversational travel",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/omio"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci"
+    },
+    {
+      "time": "09:45",
+      "category": "产品",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/cross-origin-storage"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-23-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune r",
+      "body": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-23-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "Helping build shared standards for advanced AI",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foun",
+      "body": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-23-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Build real agentic apps using CUGA: two dozen working examples on a lightweight harness」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Build real agentic apps using CUGA: two dozen working examples on a lightweight harness」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-23-4",
+      "category": "产品",
+      "priority": "normal",
+      "title": "How Omio is building the future of conversational travel",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "body": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/omio",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-06-23-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Shipping huggingface_hub every week with AI, open tools, and a human in the loop」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Shipping huggingface_hub every week with AI, open tools, and a human in the loop」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-23-6",
+      "category": "产品",
+      "priority": "normal",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Experimenting with the proposed Cross-Origin Storage API in Transformers.js」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Experimenting with the proposed Cross-Origin Storage API in Transformers.js」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-22-7",
+      "category": "产品",
+      "priority": "normal",
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-22-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at s",
+      "body": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    }
+  ]
+}
