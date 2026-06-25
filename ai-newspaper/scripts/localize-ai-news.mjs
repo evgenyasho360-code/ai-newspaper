@@ -141,7 +141,7 @@ function zhTopic(article, title) {
 function zhSummary(article, title) {
   const source = zhSource(article.source);
   const topic = zhTopic(article, title);
-  return `${source} 发布了「${title}」。${topic}`;
+  return `${source}发布了「${title}」。${topic}`;
 }
 
 export function localizeArticle(article) {
