@@ -8,6 +8,7 @@
     "collect:news": "node scripts/collect-ai-news.mjs",
     "generate:issue": "node scripts/generate-issue.mjs",
     "backfill:june": "node scripts/backfill-issues.mjs",
+    "localize:issues": "node scripts/localize-ai-news.mjs",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1"
   },
