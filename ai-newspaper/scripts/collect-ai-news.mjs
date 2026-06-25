@@ -1,5 +1,6 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { localizeIssue } from "./localize-ai-news.mjs";
 
 const outputFile = process.env.AI_DAILY_SOURCE_FILE ?? ".cache/ai-daily-source.json";
 const maxArticles = Number(process.env.AI_DAILY_MAX_ARTICLES ?? 8);
@@ -263,7 +264,7 @@ async function main() {
   };
 
   await mkdir(path.dirname(outputFile), { recursive: true });
-  await writeFile(outputFile, `${JSON.stringify(issue, null, 2)}\n`, "utf8");
+  await writeFile(outputFile, `${JSON.stringify(localizeIssue(issue), null, 2)}\n`, "utf8");
   console.log(`Collected ${articles.length} AI news articles into ${outputFile}`);
 }
 
