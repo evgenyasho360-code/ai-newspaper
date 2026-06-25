@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-25",
+  "date": "2026-06-25",
+  "weekday": "星期四",
+  "issueNo": "20260625",
+  "updatedAt": "09:32",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "Variational Autoencoder Layer",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25900v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25894v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25886v1"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "An Analysis of Posterior Collapse, Parameterization and Initialization in Variational Deep Gaussian Processes",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25882v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-24-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "Google DeepMind Blog 发布了新的 AI 相关信息，主题为「Introducing computer use in Gemini 3.5 Flash」。点击原文可查看完整内容。",
+      "body": "Google DeepMind Blog 发布了新的 AI 相关信息，主题为「Introducing computer use in Gemini 3.5 Flash」。点击原文可查看完整内容。",
+      "source": "Google DeepMind Blog",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-06-24-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "summary": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel」。点击原文可查看完整内容。",
+      "body": "Hugging Face Blog 发布了新的 AI 相关信息，主题为「Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel」。点击原文可查看完整内容。",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-24-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "Variational Autoencoder Layer",
+      "summary": "Variational Autoencoders (VAEs) belong to a family of autoencoders with probabilistic properties, making them well suited for generating data by produ",
+      "body": "Variational Autoencoders (VAEs) belong to a family of autoencoders with probabilistic properties, making them well suited for generating data by producing a smooth and continuous latent space. Despite being introduced over a decade ago, the method continues to be widely adopted in both research and industry for diverse applications. While VAEs are typically ",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25900v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-24-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data",
+      "summary": "Medical vision-language models typically generate diagnoses through single-pass inference without indicating which image regions support their conclus",
+      "body": "Medical vision-language models typically generate diagnoses through single-pass inference without indicating which image regions support their conclusions. This lack of spatial grounding limits clinical utility: outputs cannot be audited, and models may hallucinate findings on normal scans. We present BrReMark (Brain Rethink via ROI Marking), a framework tha",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25894v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-24-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors",
+      "summary": "Existing texture datasets for tactile sensing primarily consist of sensor readings from a specific sensor interacting with available surfaces/objects ",
+      "body": "Existing texture datasets for tactile sensing primarily consist of sensor readings from a specific sensor interacting with available surfaces/objects rather than describing the textures themselves, limiting fair comparison between tactile sensors and hindering reproducible research. In this work, we introduce a 3D-printable dataset of mathematically defined ",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25886v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-24-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "An Analysis of Posterior Collapse, Parameterization and Initialization in Variational Deep Gaussian Processes",
+      "summary": "DGPs are probabilistic models with remarkable prediction performance that concatenate GPs across several layers. Exact inference in DGPs is intractabl",
+      "body": "DGPs are probabilistic models with remarkable prediction performance that concatenate GPs across several layers. Exact inference in DGPs is intractable, and variational inference is often used to approximate the posterior with a parametric distribution tuned by minimizing the Kullback-Leibler divergence. Moreover, finding a good VI approximation is challengi",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25882v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-24-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "USS: Unified Spatial-Semantic Prompts for Embodied Visual Tracking with Latent Dynamics Learning",
+      "summary": "Embodied Visual Tracking (EVT) requires an agent to continuously follow a specified target while actively moving through dynamic environments. However",
+      "body": "Embodied Visual Tracking (EVT) requires an agent to continuously follow a specified target while actively moving through dynamic environments. However, prevailing EVT paradigms predominantly rely on language-based target indication. While language is expressive and convenient, cluttered scenes often contain multiple objects that satisfy the same semantic des",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25880v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-24-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI-Assisted Computational Reproducibility on the FABRIC Testbed",
+      "summary": "Computational reproducibility remains difficult despite being central to scientific research. In this paper, we show how the international FABRIC test",
+      "body": "Computational reproducibility remains difficult despite being central to scientific research. In this paper, we show how the international FABRIC testbed, combined with large language model (LLM) coding assistants through LoomAI, can simplify reproducing published experiments across multiple domains. We reproduced three case studies on FABRIC, covering BBR-f",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.25879v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
