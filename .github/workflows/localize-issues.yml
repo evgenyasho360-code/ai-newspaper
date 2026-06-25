@@ -1,0 +1,45 @@
+name: Localize AI issues
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/localize-issues.yml"
+      - "ai-newspaper/scripts/localize-ai-news.mjs"
+
+permissions:
+  contents: write
+
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ai-newspaper
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Localize issues
+        run: npm run localize:issues
+
+      - name: Build site
+        run: npm run build
+
+      - name: Commit localized issues
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/issues/*.json
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: localize AI issues to Chinese"
+          git push
