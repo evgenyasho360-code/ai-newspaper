@@ -1,0 +1,181 @@
+{
+  "id": "2026-06-26",
+  "date": "2026-06-26",
+  "weekday": "星期五",
+  "issueNo": "20260626",
+  "updatedAt": "09:37",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Run a vLLM Server on HF Jobs in One Command",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/vllm-jobs"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27226v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27223v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Which tokens does a hybrid model predict better?",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27216v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27215v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-06-26-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Run a vLLM Server on HF Jobs in One Command",
+      "summary": "Hugging Face 博客发布了「AI 动态：Run a vLLM Server on HF Jobs in One Command」。这条产品动态聚焦「AI 动态：Run a vLLM Server on HF Jobs in One Command」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Run a vLLM Server on HF Jobs in One Command」。这条产品动态聚焦「AI 动态：Run a vLLM Server on HF Jobs in One Command」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-25-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement",
+      "summary": "arXiv发布了「AI 动态：Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement」。这项研究关注「AI 动态：Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement」。这项研究关注「AI 动态：Ask, Don't Judge: Binary Questions for Interpretable LLM Evaluation and Self-Improvement」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27226v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-25-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting",
+      "summary": "arXiv发布了「AI 动态：SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting」。这项研究关注「AI 动态：SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting」。这项研究关注「AI 动态：SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27223v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-25-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Which tokens does a hybrid model predict better?",
+      "summary": "Hugging Face 博客发布了「AI 动态：Which tokens does a hybrid model predict better?」。这条模型动态围绕「AI 动态：Which tokens does a hybrid model predict better?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Which tokens does a hybrid model predict better?」。这条模型动态围绕「AI 动态：Which tokens does a hybrid model predict better?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-06-25-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization",
+      "summary": "arXiv发布了「AI 动态：Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization」。这项研究关注「AI 动态：Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization」。这项研究关注「AI 动态：Hierarchical Muon: Tiled Newton-Schulz Updates for Efficient Muon Optimization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27216v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-25-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text",
+      "summary": "arXiv发布了「AI 动态：Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text」。这项研究关注「AI 动态：Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text」。这项研究关注「AI 动态：Vulnerability of Natural Language Classifiers to Evolutionary Generated Adversarial Text」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27215v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-25-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes",
+      "summary": "arXiv发布了「AI 动态：Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes」。这条政策动态围绕「AI 动态：Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes」。这条政策动态围绕「AI 动态：Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27210v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-06-25-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Syntactic Belief Update as the Driver of Garden Path Processing Difficulty",
+      "summary": "arXiv发布了「AI 动态：Syntactic Belief Update as the Driver of Garden Path Processing Difficulty」。这项研究关注「AI 动态：Syntactic Belief Update as the Driver of Garden Path Processing Difficulty」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Syntactic Belief Update as the Driver of Garden Path Processing Difficulty」。这项研究关注「AI 动态：Syntactic Belief Update as the Driver of Garden Path Processing Difficulty」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.27206v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
