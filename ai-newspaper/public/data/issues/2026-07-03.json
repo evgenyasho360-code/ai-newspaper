@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-03",
+  "date": "2026-07-03",
+  "weekday": "星期五",
+  "issueNo": "20260703",
+  "updatedAt": "09:11",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00001"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Bounded Morality: Defining the Space of Moral Computation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00002"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00032"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00035"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Solution space path planning for supporting en-route air traffic control",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00064"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00147"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-02-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+      "summary": "arXiv cs.AI发布了「AI 动态：Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction」。这项研究关注「AI 动态：Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction」。这项研究关注「AI 动态：Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00001",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-02-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Bounded Morality: Defining the Space of Moral Computation",
+      "summary": "arXiv cs.AI发布了「AI 动态：Bounded Morality: Defining the Space of Moral Computation」。这项研究关注「AI 动态：Bounded Morality: Defining the Space of Moral Computation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Bounded Morality: Defining the Space of Moral Computation」。这项研究关注「AI 动态：Bounded Morality: Defining the Space of Moral Computation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00002",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-02-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
+      "summary": "arXiv cs.AI发布了「AI 动态：The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons」。这项研究关注「AI 动态：The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons」。这项研究关注「AI 动态：The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00032",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-02-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
+      "summary": "arXiv cs.AI发布了「AI 动态：Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection」。这项研究关注「AI 动态：Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection」。这项研究关注「AI 动态：Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00035",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-02-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Solution space path planning for supporting en-route air traffic control",
+      "summary": "arXiv cs.AI发布了「AI 动态：Solution space path planning for supporting en-route air traffic control」。这项研究关注「AI 动态：Solution space path planning for supporting en-route air traffic control」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Solution space path planning for supporting en-route air traffic control」。这项研究关注「AI 动态：Solution space path planning for supporting en-route air traffic control」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00064",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-02-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation",
+      "summary": "arXiv cs.AI发布了「AI 动态：RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation」。这项研究关注「AI 动态：RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation」。这项研究关注「AI 动态：RareDxR1: Autonomous Medical Reasoning for Rare Disease Diagnosis Beyond Human Annotation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00147",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-02-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry",
+      "summary": "arXiv cs.AI发布了「AI 动态：A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry」。这项研究关注「AI 动态：A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry」。这项研究关注「AI 动态：A Contextual-Bandit Oversight Game with Two-Sided Informational Asymmetry」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00155",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-02-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming",
+      "summary": "arXiv cs.AI发布了「AI 动态：Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming」。这项研究关注「AI 动态：Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming」。这项研究关注「AI 动态：Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.00211",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
