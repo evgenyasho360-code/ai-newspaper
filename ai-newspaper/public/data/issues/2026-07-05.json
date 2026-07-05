@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-05",
+  "date": "2026-07-05",
+  "weekday": "星期日",
+  "issueNo": "20260705",
+  "updatedAt": "09:16",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02517v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Alignment Is All You Need For X-to-4D Generation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02516v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02515v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Distributed Attacks in Persistent-State AI Control",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02514v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02513v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-03-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Google DeepMind and A24 announce first-of-its-kind research partnership」。这项研究关注「AI 动态：Google DeepMind and A24 announce first-of-its-kind research partnership」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Google DeepMind and A24 announce first-of-its-kind research partnership」。这项研究关注「AI 动态：Google DeepMind and A24 announce first-of-its-kind research partnership」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-07-02-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "summary": "arXiv发布了「AI 动态：WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory」。这条模型动态围绕「AI 动态：WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory」。这条模型动态围绕「AI 动态：WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02517v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-02-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Alignment Is All You Need For X-to-4D Generation",
+      "summary": "arXiv发布了「AI 动态：Alignment Is All You Need For X-to-4D Generation」。这项研究关注「AI 动态：Alignment Is All You Need For X-to-4D Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Alignment Is All You Need For X-to-4D Generation」。这项研究关注「AI 动态：Alignment Is All You Need For X-to-4D Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02516v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-02-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "summary": "arXiv发布了「AI 动态：PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation」。这条模型动态围绕「AI 动态：PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation」。这条模型动态围绕「AI 动态：PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02515v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-02-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Distributed Attacks in Persistent-State AI Control",
+      "summary": "arXiv发布了「AI 动态：Distributed Attacks in Persistent-State AI Control」。这项研究关注「AI 动态：Distributed Attacks in Persistent-State AI Control」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Distributed Attacks in Persistent-State AI Control」。这项研究关注「AI 动态：Distributed Attacks in Persistent-State AI Control」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02514v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-02-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "summary": "arXiv发布了「AI 动态：LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning」。这项研究关注「AI 动态：LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning」。这项研究关注「AI 动态：LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02513v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-02-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "summary": "arXiv发布了「AI 动态：Program-as-Weights: A Programming Paradigm for Fuzzy Functions」。这项研究关注「AI 动态：Program-as-Weights: A Programming Paradigm for Fuzzy Functions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Program-as-Weights: A Programming Paradigm for Fuzzy Functions」。这项研究关注「AI 动态：Program-as-Weights: A Programming Paradigm for Fuzzy Functions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02512v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-02-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Online Safety Monitoring for LLMs",
+      "summary": "arXiv发布了「AI 动态：Online Safety Monitoring for LLMs」。这条政策动态围绕「AI 动态：Online Safety Monitoring for LLMs」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Online Safety Monitoring for LLMs」。这条政策动态围绕「AI 动态：Online Safety Monitoring for LLMs」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.02510v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    }
+  ]
+}
