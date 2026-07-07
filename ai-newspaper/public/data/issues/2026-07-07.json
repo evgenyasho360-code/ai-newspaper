@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-07",
+  "date": "2026-07-07",
+  "weekday": "星期二",
+  "issueNo": "20260707",
+  "updatedAt": "09:17",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/lerobot-release-v060"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：PRX Part 4: Our Data Strategy",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "AI 动态：🤗 Kernels: Major Updates",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/revamped-kernels"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.03587v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Modular Foundation Models for Time-Series Perception in Digital Twins",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.03585v1"
+    },
+    {
+      "time": "09:45",
+      "category": "资本",
+      "title": "AI 动态：PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.03581v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-07-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "summary": "Hugging Face 博客发布了「AI 动态：LeRobot v0.6.0: Imagine, Evaluate, Improve」。这条产品动态聚焦「AI 动态：LeRobot v0.6.0: Imagine, Evaluate, Improve」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：LeRobot v0.6.0: Imagine, Evaluate, Improve」。这条产品动态聚焦「AI 动态：LeRobot v0.6.0: Imagine, Evaluate, Improve」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-06-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：PRX Part 4: Our Data Strategy",
+      "summary": "Hugging Face 博客发布了「AI 动态：PRX Part 4: Our Data Strategy」。这条产品动态聚焦「AI 动态：PRX Part 4: Our Data Strategy」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：PRX Part 4: Our Data Strategy」。这条产品动态聚焦「AI 动态：PRX Part 4: Our Data Strategy」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-06-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：🤗 Kernels: Major Updates",
+      "summary": "Hugging Face 博客发布了「AI 动态：🤗 Kernels: Major Updates」。这条产品动态聚焦「AI 动态：🤗 Kernels: Major Updates」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：🤗 Kernels: Major Updates」。这条产品动态聚焦「AI 动态：🤗 Kernels: Major Updates」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-03-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection",
+      "summary": "arXiv发布了「AI 动态：Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection」。这项研究关注「AI 动态：Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection」。这项研究关注「AI 动态：Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.03587v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-03-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Modular Foundation Models for Time-Series Perception in Digital Twins",
+      "summary": "arXiv发布了「AI 动态：Modular Foundation Models for Time-Series Perception in Digital Twins」。这项研究关注「AI 动态：Modular Foundation Models for Time-Series Perception in Digital Twins」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Modular Foundation Models for Time-Series Perception in Digital Twins」。这项研究关注「AI 动态：Modular Foundation Models for Time-Series Perception in Digital Twins」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.03585v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-03-6",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition",
+      "summary": "arXiv发布了「AI 动态：PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition」。这条资本动态聚焦「AI 动态：PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition」。这条资本动态聚焦「AI 动态：PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.03581v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-03-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：When Geometry Aligns: Dihedral Hidden-State Transformations in UNet, ViT, and DiT Architectures",
+      "summary": "arXiv发布了「AI 动态：When Geometry Aligns: Dihedral Hidden-State Transformations in UNet, ViT, and DiT Architectures」。这条模型动态围绕「AI 动态：When Geometry Aligns: Dihedral Hidden-State Transformations in UNet, ViT, and DiT Architectures」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：When Geometry Aligns: Dihedral Hidden-State Transformations in UNet, ViT, and DiT Architectures」。这条模型动态围绕「AI 动态：When Geometry Aligns: Dihedral Hidden-State Transformations in UNet, ViT, and DiT Architectures」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.03580v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-03-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Motion Estimation Techniques for Volumetric Video Attribute Compression",
+      "summary": "arXiv发布了「AI 动态：Motion Estimation Techniques for Volumetric Video Attribute Compression」。这项研究关注「AI 动态：Motion Estimation Techniques for Volumetric Video Attribute Compression」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Motion Estimation Techniques for Volumetric Video Attribute Compression」。这项研究关注「AI 动态：Motion Estimation Techniques for Volumetric Video Attribute Compression」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.03576v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
