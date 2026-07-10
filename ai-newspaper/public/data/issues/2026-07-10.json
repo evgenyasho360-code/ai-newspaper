@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-10",
+  "date": "2026-07-10",
+  "weekday": "星期五",
+  "issueNo": "20260710",
+  "updatedAt": "09:11",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08772v1"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08771v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08770v1"
+    },
+    {
+      "time": "08:45",
+      "category": "资本",
+      "title": "AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08769v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08768v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08766v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-09-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations",
+      "summary": "arXiv发布了「AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations」。这项研究关注「AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations」。这项研究关注「AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08772v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
+      "summary": "arXiv发布了「AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device」。这条模型动态围绕「AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device」。这条模型动态围绕「AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08771v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "summary": "arXiv发布了「AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models」。这条模型动态围绕「AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models」。这条模型动态围绕「AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08770v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-4",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
+      "summary": "arXiv发布了「AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction」。这条资本动态聚焦「AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction」。这条资本动态聚焦「AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08769v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "summary": "arXiv发布了「AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks」。这项研究关注「AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks」。这项研究关注「AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08768v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+      "summary": "arXiv发布了「AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators」。这条政策动态围绕「AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators」。这条政策动态围绕「AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08766v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+      "summary": "arXiv发布了「AI 动态：Enhancing In-context Panoramic Generation via Geometric-aware Pretraining」。这项研究关注「AI 动态：Enhancing In-context Panoramic Generation via Geometric-aware Pretraining」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Enhancing In-context Panoramic Generation via Geometric-aware Pretraining」。这项研究关注「AI 动态：Enhancing In-context Panoramic Generation via Geometric-aware Pretraining」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08765v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：OpenCoF: Learning to Reason Through Video Generation",
+      "summary": "arXiv发布了「AI 动态：OpenCoF: Learning to Reason Through Video Generation」。这项研究关注「AI 动态：OpenCoF: Learning to Reason Through Video Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：OpenCoF: Learning to Reason Through Video Generation」。这项研究关注「AI 动态：OpenCoF: Learning to Reason Through Video Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08763v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
