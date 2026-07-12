@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-12",
+  "date": "2026-07-12",
+  "weekday": "星期日",
+  "issueNo": "20260712",
+  "updatedAt": "09:06",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：How Deutsche Telekom is rewiring telecommunications with AI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/deutsche-telekom"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/torch-attention-profile"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08772v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08771v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08770v1"
+    },
+    {
+      "time": "09:45",
+      "category": "资本",
+      "title": "AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08769v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-10-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary": "OpenAI 新闻发布了「AI 动态：How Deutsche Telekom is rewiring telecommunications with AI」。这条模型动态围绕「AI 动态：How Deutsche Telekom is rewiring telecommunications with AI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How Deutsche Telekom is rewiring telecommunications with AI」。这条模型动态围绕「AI 动态：How Deutsche Telekom is rewiring telecommunications with AI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-10-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile",
+      "summary": "Hugging Face 博客发布了「AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile」。这条产品动态聚焦「AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile」。这条产品动态聚焦「AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-09-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations",
+      "summary": "arXiv发布了「AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations」。这项研究关注「AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations」。这项研究关注「AI 动态：Wat3R: Underwater 3D Geometry Learning without Annotations」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08772v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
+      "summary": "arXiv发布了「AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device」。这条模型动态围绕「AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device」。这条模型动态围绕「AI 动态：ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08771v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "summary": "arXiv发布了「AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models」。这条模型动态围绕「AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models」。这条模型动态围绕「AI 动态：LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08770v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-6",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
+      "summary": "arXiv发布了「AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction」。这条资本动态聚焦「AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction」。这条资本动态聚焦「AI 动态：Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08769v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "summary": "arXiv发布了「AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks」。这项研究关注「AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks」。这项研究关注「AI 动态：UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08768v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-07-09-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+      "summary": "arXiv发布了「AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators」。这条政策动态围绕「AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators」。这条政策动态围绕「AI 动态：OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2607.08766v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    }
+  ]
+}
