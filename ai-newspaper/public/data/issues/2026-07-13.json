@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-13",
+  "date": "2026-07-13",
+  "weekday": "星期一",
+  "issueNo": "20260713",
+  "updatedAt": "09:06",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：How Deutsche Telekom is rewiring telecommunications with AI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/deutsche-telekom"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/torch-attention-profile"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：GPT-5.6: Frontier intelligence that scales with your ambition",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gpt-5-6"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：ChatGPT is now a partner for your most ambitious work",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：GPT-5.5 Bio Bug Bounty",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/bio-bug-bounty"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-10-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：How Deutsche Telekom is rewiring telecommunications with AI",
+      "summary": "OpenAI 新闻发布了「AI 动态：How Deutsche Telekom is rewiring telecommunications with AI」。这条模型动态围绕「AI 动态：How Deutsche Telekom is rewiring telecommunications with AI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How Deutsche Telekom is rewiring telecommunications with AI」。这条模型动态围绕「AI 动态：How Deutsche Telekom is rewiring telecommunications with AI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-10-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile",
+      "summary": "Hugging Face 博客发布了「AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile」。这条产品动态聚焦「AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile」。这条产品动态聚焦「AI 动态：Profiling in PyTorch (Part 3): Attention is all you profile」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/torch-attention-profile",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-09-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "summary": "OpenAI 新闻发布了「AI 动态：GPT-5.6 is now the preferred model in Microsoft 365 Copilot」。这条模型动态围绕「AI 动态：GPT-5.6 is now the preferred model in Microsoft 365 Copilot」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：GPT-5.6 is now the preferred model in Microsoft 365 Copilot」。这条模型动态围绕「AI 动态：GPT-5.6 is now the preferred model in Microsoft 365 Copilot」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-09-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "OpenAI 新闻发布了「AI 动态：GPT-5.6: Frontier intelligence that scales with your ambition」。这条模型动态围绕「AI 动态：GPT-5.6: Frontier intelligence that scales with your ambition」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：GPT-5.6: Frontier intelligence that scales with your ambition」。这条模型动态围绕「AI 动态：GPT-5.6: Frontier intelligence that scales with your ambition」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gpt-5-6",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-09-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：ChatGPT is now a partner for your most ambitious work",
+      "summary": "OpenAI 新闻发布了「AI 动态：ChatGPT is now a partner for your most ambitious work」。这条模型动态围绕「AI 动态：ChatGPT is now a partner for your most ambitious work」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：ChatGPT is now a partner for your most ambitious work」。这条模型动态围绕「AI 动态：ChatGPT is now a partner for your most ambitious work」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-09-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：GPT-5.5 Bio Bug Bounty",
+      "summary": "OpenAI 新闻发布了「AI 动态：GPT-5.5 Bio Bug Bounty」。这条模型动态围绕「AI 动态：GPT-5.5 Bio Bug Bounty」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：GPT-5.5 Bio Bug Bounty」。这条模型动态围绕「AI 动态：GPT-5.5 Bio Bug Bounty」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-08-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Data for Agents",
+      "summary": "Hugging Face 博客发布了「AI 动态：Data for Agents」。这条模型动态围绕「AI 动态：Data for Agents」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Data for Agents」。这条模型动态围绕「AI 动态：Data for Agents」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-08-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Our approach to government and national security partnerships",
+      "summary": "OpenAI 新闻发布了「AI 动态：Our approach to government and national security partnerships」。这条政策动态围绕「AI 动态：Our approach to government and national security partnerships」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Our approach to government and national security partnerships」。这条政策动态围绕「AI 动态：Our approach to government and national security partnerships」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    }
+  ]
+}
