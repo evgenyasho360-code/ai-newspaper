@@ -126,6 +126,7 @@ function App() {
   const leadArticle = filteredArticles.find((article) => article.priority === "lead") ?? filteredArticles[0];
   const supportingArticles = filteredArticles.filter((article) => article.id !== leadArticle?.id);
   const visibleArchiveIssues = issues.slice(0, RECENT_ISSUE_LIMIT);
+  const issueDates = useMemo(() => issues.map((item) => item.date).filter(Boolean).sort(), [issues]);
 
   const favoriteArticles = useMemo(() => {
     return favoriteIds
@@ -142,6 +143,22 @@ function App() {
     setIssueId(nextId);
     setCategory("全部");
     setQuery("");
+  }
+
+  function changeIssueByDate(nextDate) {
+    if (!nextDate) return;
+
+    const datedIssues = [...issues]
+      .filter((item) => item.date)
+      .sort((first, second) => first.date.localeCompare(second.date));
+    const nextIssue =
+      datedIssues.find((item) => item.date === nextDate) ??
+      [...datedIssues].reverse().find((item) => item.date < nextDate) ??
+      datedIssues[0];
+
+    if (nextIssue) {
+      changeIssue(nextIssue.id);
+    }
   }
 
   function getFavoriteKey(article) {
@@ -216,13 +233,13 @@ function App() {
       <section className="control-bar" aria-label="日报筛选">
         <label className="issue-picker">
           <span>选择日期</span>
-          <select value={issueId} onChange={(event) => changeIssue(event.target.value)}>
-            {issues.map((item) => (
-              <option value={item.id} key={item.id}>
-                {item.date}
-              </option>
-            ))}
-          </select>
+          <input
+            max={issueDates.at(-1)}
+            min={issueDates[0]}
+            onChange={(event) => changeIssueByDate(event.target.value)}
+            type="date"
+            value={issue.date}
+          />
         </label>
 
         <nav className="category-tabs" aria-label="分类">
