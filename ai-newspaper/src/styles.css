@@ -599,7 +599,7 @@ input:focus {
     width: 100%;
   }
 
-  .issue-picker select,
+  .issue-picker input,
   .search-box input {
     flex: 1 1 auto;
   }
