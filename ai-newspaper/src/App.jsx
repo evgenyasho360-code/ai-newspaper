@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 
 const categories = ["全部", "模型", "研究", "产品", "行业", "资本", "政策", "观点"];
+const RECENT_ISSUE_LIMIT = 7;
 
 const fallbackIssues = [
   {
@@ -81,7 +82,7 @@ function App() {
         if (!indexResponse.ok) return;
 
         const indexData = await indexResponse.json();
-        const files = Array.isArray(indexData.issues) ? indexData.issues : [];
+        const files = Array.isArray(indexData.issues) ? indexData.issues.slice(0, RECENT_ISSUE_LIMIT) : [];
         const loadedIssues = await Promise.all(
           files.map(async (file) => {
             const issueResponse = await fetch(`/data/issues/${file}`, { cache: "no-store" });
@@ -265,7 +266,6 @@ function App() {
               </button>
             ))}
           </div>
-
         </aside>
 
         <section className="front-page" aria-label="今日头版">
