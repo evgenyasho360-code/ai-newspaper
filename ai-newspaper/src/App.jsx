@@ -82,7 +82,7 @@ function App() {
         if (!indexResponse.ok) return;
 
         const indexData = await indexResponse.json();
-        const files = Array.isArray(indexData.issues) ? indexData.issues.slice(0, RECENT_ISSUE_LIMIT) : [];
+        const files = Array.isArray(indexData.issues) ? indexData.issues : [];
         const loadedIssues = await Promise.all(
           files.map(async (file) => {
             const issueResponse = await fetch(`/data/issues/${file}`, { cache: "no-store" });
@@ -125,6 +125,7 @@ function App() {
 
   const leadArticle = filteredArticles.find((article) => article.priority === "lead") ?? filteredArticles[0];
   const supportingArticles = filteredArticles.filter((article) => article.id !== leadArticle?.id);
+  const visibleArchiveIssues = issues.slice(0, RECENT_ISSUE_LIMIT);
 
   const favoriteArticles = useMemo(() => {
     return favoriteIds
@@ -253,7 +254,7 @@ function App() {
             <h2>历史期数</h2>
           </div>
           <div className="issue-list">
-            {issues.map((item) => (
+            {visibleArchiveIssues.map((item) => (
               <button
                 className={item.id === issueId ? "selected" : ""}
                 key={item.id}
