@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-17",
+  "date": "2026-07-17",
+  "weekday": "星期五",
+  "issueNo": "20260717",
+  "updatedAt": "09:03",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：Why teens deserve access to safe AI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Newer Models, Same Advantage",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Our approach to bioresilience",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.13037"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.13049"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-16-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "summary": "Hugging Face 博客发布了「AI 动态：NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval」。这条产品动态聚焦「AI 动态：NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval」。这条产品动态聚焦「AI 动态：NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-16-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Why teens deserve access to safe AI",
+      "summary": "OpenAI 新闻发布了「AI 动态：Why teens deserve access to safe AI」。这条产品动态聚焦「AI 动态：Why teens deserve access to safe AI」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：Why teens deserve access to safe AI」。这条产品动态聚焦「AI 动态：Why teens deserve access to safe AI」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-16-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Newer Models, Same Advantage",
+      "summary": "Hugging Face 博客发布了「AI 动态：Newer Models, Same Advantage」。这条模型动态围绕「AI 动态：Newer Models, Same Advantage」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Newer Models, Same Advantage」。这条模型动态围绕「AI 动态：Newer Models, Same Advantage」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-16-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Our approach to bioresilience",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Our approach to bioresilience」。这条模型动态围绕「AI 动态：Our approach to bioresilience」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Our approach to bioresilience」。这条模型动态围绕「AI 动态：Our approach to bioresilience」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-07-16-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+      "summary": "arXiv cs.AI发布了「AI 动态：OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets」。这项研究关注「AI 动态：OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets」。这项研究关注「AI 动态：OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.13037",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-16-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+      "summary": "arXiv cs.AI发布了「AI 动态：SPINE: Bridging the Cyber-Physical Gap with Agentic AI」。这项研究关注「AI 动态：SPINE: Bridging the Cyber-Physical Gap with Agentic AI」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：SPINE: Bridging the Cyber-Physical Gap with Agentic AI」。这项研究关注「AI 动态：SPINE: Bridging the Cyber-Physical Gap with Agentic AI」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.13049",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-16-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "summary": "arXiv cs.AI发布了「AI 动态：Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution」。这项研究关注「AI 动态：Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution」。这项研究关注「AI 动态：Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.13069",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-16-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+      "summary": "arXiv cs.AI发布了「AI 动态：Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL」。这项研究关注「AI 动态：Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL」。这项研究关注「AI 动态：Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.13073",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
