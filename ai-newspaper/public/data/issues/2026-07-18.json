@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-18",
+  "date": "2026-07-18",
+  "weekday": "星期六",
+  "issueNo": "20260718",
+  "updatedAt": "08:57",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：A scorecard for the AI age",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14093"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14095"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：IMEX Interaction-Based Model Explanation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14096"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14097"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-17-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary": "Hugging Face 博客发布了「AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers」。这条模型动态围绕「AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers」。这条模型动态围绕「AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-17-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：A scorecard for the AI age",
+      "summary": "OpenAI 新闻发布了「AI 动态：A scorecard for the AI age」。这条模型动态围绕「AI 动态：A scorecard for the AI age」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：A scorecard for the AI age」。这条模型动态围绕「AI 动态：A scorecard for the AI age」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-17-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
+      "summary": "arXiv cs.AI发布了「AI 动态：Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue」。这条政策动态围绕「AI 动态：Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue」。这条政策动态围绕「AI 动态：Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14093",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-17-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
+      "summary": "arXiv cs.AI发布了「AI 动态：HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs」。这项研究关注「AI 动态：HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs」。这项研究关注「AI 动态：HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14095",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-17-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：IMEX Interaction-Based Model Explanation",
+      "summary": "arXiv cs.AI发布了「AI 动态：IMEX Interaction-Based Model Explanation」。这项研究关注「AI 动态：IMEX Interaction-Based Model Explanation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：IMEX Interaction-Based Model Explanation」。这项研究关注「AI 动态：IMEX Interaction-Based Model Explanation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14096",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-17-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
+      "summary": "arXiv cs.AI发布了「AI 动态：RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics」。这项研究关注「AI 动态：RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics」。这项研究关注「AI 动态：RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14097",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-17-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：DialogueVPR: Towards Conversational Visual Place Recognition",
+      "summary": "arXiv cs.AI发布了「AI 动态：DialogueVPR: Towards Conversational Visual Place Recognition」。这项研究关注「AI 动态：DialogueVPR: Towards Conversational Visual Place Recognition」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：DialogueVPR: Towards Conversational Visual Place Recognition」。这项研究关注「AI 动态：DialogueVPR: Towards Conversational Visual Place Recognition」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14115",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-17-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Interpretable Language Model for Closed-Loop Type 1 Diabetes Control",
+      "summary": "arXiv cs.AI发布了「AI 动态：Interpretable Language Model for Closed-Loop Type 1 Diabetes Control」。这条政策动态围绕「AI 动态：Interpretable Language Model for Closed-Loop Type 1 Diabetes Control」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Interpretable Language Model for Closed-Loop Type 1 Diabetes Control」。这条政策动态围绕「AI 动态：Interpretable Language Model for Closed-Loop Type 1 Diabetes Control」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.14126",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
