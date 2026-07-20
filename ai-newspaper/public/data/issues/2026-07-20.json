@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-20",
+  "date": "2026-07-20",
+  "weekday": "星期一",
+  "issueNo": "20260720",
+  "updatedAt": "11:07",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：A scorecard for the AI age",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "AI 动态：Why teens deserve access to safe AI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Newer Models, Same Advantage",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Our approach to bioresilience",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：How Cars24 scales conversations and builds faster with OpenAI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/cars24"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-17-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary": "Hugging Face 博客发布了「AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers」。这条模型动态围绕「AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers」。这条模型动态围绕「AI 动态：Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-17-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：A scorecard for the AI age",
+      "summary": "OpenAI 新闻发布了「AI 动态：A scorecard for the AI age」。这条模型动态围绕「AI 动态：A scorecard for the AI age」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：A scorecard for the AI age」。这条模型动态围绕「AI 动态：A scorecard for the AI age」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-16-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Why teens deserve access to safe AI",
+      "summary": "OpenAI 新闻发布了「AI 动态：Why teens deserve access to safe AI」。这条产品动态聚焦「AI 动态：Why teens deserve access to safe AI」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：Why teens deserve access to safe AI」。这条产品动态聚焦「AI 动态：Why teens deserve access to safe AI」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-16-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Newer Models, Same Advantage",
+      "summary": "Hugging Face 博客发布了「AI 动态：Newer Models, Same Advantage」。这条模型动态围绕「AI 动态：Newer Models, Same Advantage」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Newer Models, Same Advantage」。这条模型动态围绕「AI 动态：Newer Models, Same Advantage」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-16-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Our approach to bioresilience",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Our approach to bioresilience」。这条模型动态围绕「AI 动态：Our approach to bioresilience」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Our approach to bioresilience」。这条模型动态围绕「AI 动态：Our approach to bioresilience」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-07-16-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：How Cars24 scales conversations and builds faster with OpenAI",
+      "summary": "OpenAI 新闻发布了「AI 动态：How Cars24 scales conversations and builds faster with OpenAI」。这条模型动态围绕「AI 动态：How Cars24 scales conversations and builds faster with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How Cars24 scales conversations and builds faster with OpenAI」。这条模型动态围绕「AI 动态：How Cars24 scales conversations and builds faster with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/cars24",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-16-7",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Security incident disclosure — July 2026",
+      "summary": "Hugging Face 博客发布了「AI 动态：Security incident disclosure — July 2026」。这条产品动态聚焦「AI 动态：Security incident disclosure — July 2026」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Security incident disclosure — July 2026」。这条产品动态聚焦「AI 动态：Security incident disclosure — July 2026」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-15-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：What building Shippy taught us about building agents",
+      "summary": "Hugging Face 博客发布了「AI 动态：What building Shippy taught us about building agents」。这条模型动态围绕「AI 动态：What building Shippy taught us about building agents」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：What building Shippy taught us about building agents」。这条模型动态围绕「AI 动态：What building Shippy taught us about building agents」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    }
+  ]
+}
