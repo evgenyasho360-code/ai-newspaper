@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-21",
+  "date": "2026-07-21",
+  "weekday": "星期二",
+  "issueNo": "20260721",
+  "updatedAt": "09:00",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Introducing Cosmos 3 Edge",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：Safety and alignment in an era of long-horizon models",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15280"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15281"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Cura 1T: Specialized Model for Agentic Healthcare",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15314"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15367"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-20-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Introducing Cosmos 3 Edge",
+      "summary": "Hugging Face 博客发布了「AI 动态：Introducing Cosmos 3 Edge」。这条产品动态聚焦「AI 动态：Introducing Cosmos 3 Edge」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Introducing Cosmos 3 Edge」。这条产品动态聚焦「AI 动态：Introducing Cosmos 3 Edge」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-20-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI 新闻发布了「AI 动态：Safety and alignment in an era of long-horizon models」。这条政策动态围绕「AI 动态：Safety and alignment in an era of long-horizon models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Safety and alignment in an era of long-horizon models」。这条政策动态围绕「AI 动态：Safety and alignment in an era of long-horizon models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-20-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+      "summary": "arXiv cs.AI发布了「AI 动态：GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis」。这项研究关注「AI 动态：GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis」。这项研究关注「AI 动态：GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15280",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-20-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+      "summary": "arXiv cs.AI发布了「AI 动态：Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction」。这项研究关注「AI 动态：Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction」。这项研究关注「AI 动态：Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15281",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-20-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Cura 1T: Specialized Model for Agentic Healthcare",
+      "summary": "arXiv cs.AI发布了「AI 动态：Cura 1T: Specialized Model for Agentic Healthcare」。这项研究关注「AI 动态：Cura 1T: Specialized Model for Agentic Healthcare」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Cura 1T: Specialized Model for Agentic Healthcare」。这项研究关注「AI 动态：Cura 1T: Specialized Model for Agentic Healthcare」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15314",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-20-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+      "summary": "arXiv cs.AI发布了「AI 动态：AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery」。这条政策动态围绕「AI 动态：AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery」。这条政策动态围绕「AI 动态：AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15367",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-20-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+      "summary": "arXiv cs.AI发布了「AI 动态：Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning」。这条政策动态围绕「AI 动态：Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning」。这条政策动态围绕「AI 动态：Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15388",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-20-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+      "summary": "arXiv cs.AI发布了「AI 动态：DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings」。这项研究关注「AI 动态：DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings」。这项研究关注「AI 动态：DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.15418",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
