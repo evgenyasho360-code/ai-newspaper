@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-22",
+  "date": "2026-07-22",
+  "weekday": "星期三",
+  "issueNo": "20260722",
+  "updatedAt": "08:56",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：The State of Simulation for Physical AI: An Overview",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Introducing the ChatGPT for small business program",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.16195"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.16196"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-21-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：The State of Simulation for Physical AI: An Overview",
+      "summary": "Hugging Face 博客发布了「AI 动态：The State of Simulation for Physical AI: An Overview」。这条产品动态聚焦「AI 动态：The State of Simulation for Physical AI: An Overview」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：The State of Simulation for Physical AI: An Overview」。这条产品动态聚焦「AI 动态：The State of Simulation for Physical AI: An Overview」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-21-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing the ChatGPT for small business program",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing the ChatGPT for small business program」。这条模型动态围绕「AI 动态：Introducing the ChatGPT for small business program」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing the ChatGPT for small business program」。这条模型动态围绕「AI 动态：Introducing the ChatGPT for small business program」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-21-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber」。这条模型动态围绕「AI 动态：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber」。这条模型动态围绕「AI 动态：Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-07-21-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "summary": "OpenAI 新闻发布了「AI 动态：OpenAI and Hugging Face partner to address security incident during model evaluation」。这项研究关注「AI 动态：OpenAI and Hugging Face partner to address security incident during model evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：OpenAI and Hugging Face partner to address security incident during model evaluation」。这项研究关注「AI 动态：OpenAI and Hugging Face partner to address security incident during model evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-21-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Rater State Bias in RLHF Preference Data: An Audit Framework",
+      "summary": "arXiv cs.AI发布了「AI 动态：Rater State Bias in RLHF Preference Data: An Audit Framework」。这条政策动态围绕「AI 动态：Rater State Bias in RLHF Preference Data: An Audit Framework」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Rater State Bias in RLHF Preference Data: An Audit Framework」。这条政策动态围绕「AI 动态：Rater State Bias in RLHF Preference Data: An Audit Framework」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.16195",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-21-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+      "summary": "arXiv cs.AI发布了「AI 动态：Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions」。这项研究关注「AI 动态：Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions」。这项研究关注「AI 动态：Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.16196",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-21-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Some Large Language Models Exhibit Consistent Risk Attitudes",
+      "summary": "arXiv cs.AI发布了「AI 动态：Some Large Language Models Exhibit Consistent Risk Attitudes」。这项研究关注「AI 动态：Some Large Language Models Exhibit Consistent Risk Attitudes」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Some Large Language Models Exhibit Consistent Risk Attitudes」。这项研究关注「AI 动态：Some Large Language Models Exhibit Consistent Risk Attitudes」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.16197",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-21-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+      "summary": "arXiv cs.AI发布了「AI 动态：A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges」。这项研究关注「AI 动态：A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges」。这项研究关注「AI 动态：A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.16198",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
