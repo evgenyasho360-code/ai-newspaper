@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-23",
+  "date": "2026-07-23",
+  "weekday": "星期四",
+  "issueNo": "20260723",
+  "updatedAt": "09:03",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+    },
+    {
+      "time": "07:45",
+      "category": "资本",
+      "title": "AI 动态：Building AI infrastructure with the Effingham County community",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "AI 动态：How news organizations are using AI to advance their vital missions",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Advancing the next era of national science",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Introducing OpenAI Presence",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-openai-presence"
+    },
+    {
+      "time": "09:45",
+      "category": "资本",
+      "title": "AI 动态：SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.18239"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-22-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission」。这项研究关注「AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission」。这项研究关注「AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-07-22-2",
+      "category": "资本",
+      "priority": "feature",
+      "title": "AI 动态：Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI 新闻发布了「AI 动态：Building AI infrastructure with the Effingham County community」。这条资本动态聚焦「AI 动态：Building AI infrastructure with the Effingham County community」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "OpenAI 新闻发布了「AI 动态：Building AI infrastructure with the Effingham County community」。这条资本动态聚焦「AI 动态：Building AI infrastructure with the Effingham County community」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-22-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：How news organizations are using AI to advance their vital missions",
+      "summary": "OpenAI 新闻发布了「AI 动态：How news organizations are using AI to advance their vital missions」。这条产品动态聚焦「AI 动态：How news organizations are using AI to advance their vital missions」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：How news organizations are using AI to advance their vital missions」。这条产品动态聚焦「AI 动态：How news organizations are using AI to advance their vital missions」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-22-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Advancing the next era of national science",
+      "summary": "OpenAI 新闻发布了「AI 动态：Advancing the next era of national science」。这条模型动态围绕「AI 动态：Advancing the next era of national science」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Advancing the next era of national science」。这条模型动态围绕「AI 动态：Advancing the next era of national science」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-22-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Introducing OpenAI Presence",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing OpenAI Presence」。这条模型动态围绕「AI 动态：Introducing OpenAI Presence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing OpenAI Presence」。这条模型动态围绕「AI 动态：Introducing OpenAI Presence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-22-6",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+      "summary": "arXiv cs.AI发布了「AI 动态：SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI」。这条资本动态聚焦「AI 动态：SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv cs.AI发布了「AI 动态：SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI」。这条资本动态聚焦「AI 动态：SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.18239",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-22-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
+      "summary": "arXiv cs.AI发布了「AI 动态：Calibrated Selective Fact-Checking via Evidence Chain Evaluation」。这条政策动态围绕「AI 动态：Calibrated Selective Fact-Checking via Evidence Chain Evaluation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Calibrated Selective Fact-Checking via Evidence Chain Evaluation」。这条政策动态围绕「AI 动态：Calibrated Selective Fact-Checking via Evidence Chain Evaluation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.18240",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-22-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
+      "summary": "arXiv cs.AI发布了「AI 动态：BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data」。这项研究关注「AI 动态：BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data」。这项研究关注「AI 动态：BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.18241",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
