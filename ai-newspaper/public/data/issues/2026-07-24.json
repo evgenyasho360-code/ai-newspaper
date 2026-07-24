@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-24",
+  "date": "2026-07-24",
+  "weekday": "星期五",
+  "issueNo": "20260724",
+  "updatedAt": "08:56",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19349"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19350"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19351"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19353"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19354"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Information Discernment in Large Language Models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19355"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-23-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
+      "summary": "arXiv cs.AI发布了「AI 动态：FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads」。这项研究关注「AI 动态：FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads」。这项研究关注「AI 动态：FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19349",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-23-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
+      "summary": "arXiv cs.AI发布了「AI 动态：Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience」。这项研究关注「AI 动态：Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience」。这项研究关注「AI 动态：Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19350",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-23-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
+      "summary": "arXiv cs.AI发布了「AI 动态：OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks」。这条政策动态围绕「AI 动态：OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks」。这条政策动态围绕「AI 动态：OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19351",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-23-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
+      "summary": "arXiv cs.AI发布了「AI 动态：Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX」。这项研究关注「AI 动态：Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX」。这项研究关注「AI 动态：Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19353",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-23-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
+      "summary": "arXiv cs.AI发布了「AI 动态：FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation」。这项研究关注「AI 动态：FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation」。这项研究关注「AI 动态：FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19354",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-23-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Information Discernment in Large Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：Information Discernment in Large Language Models」。这项研究关注「AI 动态：Information Discernment in Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Information Discernment in Large Language Models」。这项研究关注「AI 动态：Information Discernment in Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19355",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-23-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：NEXUS: Structured Runtime Safety for Tool-Using LLM Agents",
+      "summary": "arXiv cs.AI发布了「AI 动态：NEXUS: Structured Runtime Safety for Tool-Using LLM Agents」。这条政策动态围绕「AI 动态：NEXUS: Structured Runtime Safety for Tool-Using LLM Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：NEXUS: Structured Runtime Safety for Tool-Using LLM Agents」。这条政策动态围绕「AI 动态：NEXUS: Structured Runtime Safety for Tool-Using LLM Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19356",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-23-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems",
+      "summary": "arXiv cs.AI发布了「AI 动态：Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems」。这项研究关注「AI 动态：Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems」。这项研究关注「AI 动态：Stochastic Primal-Dual Decoding for Multiobjective Generative Recommender Systems」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.19357",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
