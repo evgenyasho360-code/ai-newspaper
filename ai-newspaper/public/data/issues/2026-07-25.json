@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-25",
+  "date": "2026-07-25",
+  "weekday": "星期六",
+  "issueNo": "20260725",
+  "updatedAt": "09:03",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20452"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20462"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20463"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20464"
+    },
+    {
+      "time": "09:15",
+      "category": "资本",
+      "title": "AI 动态：JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20466"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20467"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-24-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+      "summary": "arXiv cs.AI发布了「AI 动态：AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics」。这项研究关注「AI 动态：AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics」。这项研究关注「AI 动态：AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20452",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-24-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+      "summary": "arXiv cs.AI发布了「AI 动态：Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts」。这项研究关注「AI 动态：Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts」。这项研究关注「AI 动态：Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20462",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-24-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models」。这项研究关注「AI 动态：ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models」。这项研究关注「AI 动态：ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20463",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-24-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+      "summary": "arXiv cs.AI发布了「AI 动态：Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs」。这项研究关注「AI 动态：Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs」。这项研究关注「AI 动态：Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20464",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-24-5",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+      "summary": "arXiv cs.AI发布了「AI 动态：JAXBench: Benchmarking Autonomous TPU Kernel Optimization」。这条资本动态聚焦「AI 动态：JAXBench: Benchmarking Autonomous TPU Kernel Optimization」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv cs.AI发布了「AI 动态：JAXBench: Benchmarking Autonomous TPU Kernel Optimization」。这条资本动态聚焦「AI 动态：JAXBench: Benchmarking Autonomous TPU Kernel Optimization」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20466",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-24-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+      "summary": "arXiv cs.AI发布了「AI 动态：DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding」。这项研究关注「AI 动态：DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding」。这项研究关注「AI 动态：DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20467",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-24-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents",
+      "summary": "arXiv cs.AI发布了「AI 动态：InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents」。这项研究关注「AI 动态：InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents」。这项研究关注「AI 动态：InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20468",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-24-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions",
+      "summary": "arXiv cs.AI发布了「AI 动态：DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions」。这项研究关注「AI 动态：DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions」。这项研究关注「AI 动态：DecodeShare: Tracing the Shared Subspace of LLM Decode-Time Decisions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.20469",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
