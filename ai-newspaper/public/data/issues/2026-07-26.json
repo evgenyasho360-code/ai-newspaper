@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-26",
+  "date": "2026-07-26",
+  "weekday": "星期日",
+  "issueNo": "20260726",
+  "updatedAt": "09:08",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Launching Health in ChatGPT",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/health-in-chatgpt"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
+    },
+    {
+      "time": "08:45",
+      "category": "资本",
+      "title": "AI 动态：Building AI infrastructure with the Effingham County community",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "AI 动态：How news organizations are using AI to advance their vital missions",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：Advancing the next era of national science",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-23-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Launching Health in ChatGPT",
+      "summary": "OpenAI 新闻发布了「AI 动态：Launching Health in ChatGPT」。这条模型动态围绕「AI 动态：Launching Health in ChatGPT」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Launching Health in ChatGPT」。这条模型动态围绕「AI 动态：Launching Health in ChatGPT」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-23-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "Hugging Face 博客发布了「AI 动态：Bringing Nunchaku 4-bit Diffusion Inference to Diffusers」。这条产品动态聚焦「AI 动态：Bringing Nunchaku 4-bit Diffusion Inference to Diffusers」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Bringing Nunchaku 4-bit Diffusion Inference to Diffusers」。这条产品动态聚焦「AI 动态：Bringing Nunchaku 4-bit Diffusion Inference to Diffusers」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-22-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission」。这项研究关注「AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission」。这项研究关注「AI 动态：Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-07-22-4",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Building AI infrastructure with the Effingham County community",
+      "summary": "OpenAI 新闻发布了「AI 动态：Building AI infrastructure with the Effingham County community」。这条资本动态聚焦「AI 动态：Building AI infrastructure with the Effingham County community」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "OpenAI 新闻发布了「AI 动态：Building AI infrastructure with the Effingham County community」。这条资本动态聚焦「AI 动态：Building AI infrastructure with the Effingham County community」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-22-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：How news organizations are using AI to advance their vital missions",
+      "summary": "OpenAI 新闻发布了「AI 动态：How news organizations are using AI to advance their vital missions」。这条产品动态聚焦「AI 动态：How news organizations are using AI to advance their vital missions」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：How news organizations are using AI to advance their vital missions」。这条产品动态聚焦「AI 动态：How news organizations are using AI to advance their vital missions」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-22-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Advancing the next era of national science",
+      "summary": "OpenAI 新闻发布了「AI 动态：Advancing the next era of national science」。这条模型动态围绕「AI 动态：Advancing the next era of national science」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Advancing the next era of national science」。这条模型动态围绕「AI 动态：Advancing the next era of national science」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-22-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Introducing OpenAI Presence",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing OpenAI Presence」。这条模型动态围绕「AI 动态：Introducing OpenAI Presence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing OpenAI Presence」。这条模型动态围绕「AI 动态：Introducing OpenAI Presence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-22-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "summary": "OpenAI 新闻发布了「AI 动态：NTT DATA Group cuts incident analysis to 30 minutes with Codex」。这条模型动态围绕「AI 动态：NTT DATA Group cuts incident analysis to 30 minutes with Codex」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：NTT DATA Group cuts incident analysis to 30 minutes with Codex」。这条模型动态围绕「AI 动态：NTT DATA Group cuts incident analysis to 30 minutes with Codex」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/ntt-data",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    }
+  ]
+}
