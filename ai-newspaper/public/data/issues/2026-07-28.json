@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-28",
+  "date": "2026-07-28",
+  "weekday": "星期二",
+  "issueNo": "20260728",
+  "updatedAt": "08:56",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21623"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：On the Depth Scalability of Logic Gate Networks",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21633"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21634"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21635"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21636"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-27-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+      "summary": "Hugging Face 博客发布了「AI 动态：NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics」。这条产品动态聚焦「AI 动态：NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics」。这条产品动态聚焦「AI 动态：NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-27-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+      "summary": "arXiv cs.LG发布了「AI 动态：Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees」。这项研究关注「AI 动态：Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees」。这项研究关注「AI 动态：Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21623",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-07-27-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：On the Depth Scalability of Logic Gate Networks",
+      "summary": "arXiv cs.LG发布了「AI 动态：On the Depth Scalability of Logic Gate Networks」。这项研究关注「AI 动态：On the Depth Scalability of Logic Gate Networks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：On the Depth Scalability of Logic Gate Networks」。这项研究关注「AI 动态：On the Depth Scalability of Logic Gate Networks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21633",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-07-27-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
+      "summary": "arXiv cs.LG发布了「AI 动态：MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion」。这项研究关注「AI 动态：MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion」。这项研究关注「AI 动态：MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21634",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-07-27-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions",
+      "summary": "arXiv cs.LG发布了「AI 动态：Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions」。这条政策动态围绕「AI 动态：Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.LG发布了「AI 动态：Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions」。这条政策动态围绕「AI 动态：Toward User-Conditioned Evaluation of Personal LLM Agents under Temporal Interventions」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21635",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-07-27-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models",
+      "summary": "arXiv cs.LG发布了「AI 动态：Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models」。这项研究关注「AI 动态：Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models」。这项研究关注「AI 动态：Measuring the Dependency Gap: Diagnosing Inter-Column Fidelity in Tabular Generative Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21636",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-07-27-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning",
+      "summary": "arXiv cs.LG发布了「AI 动态：Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning」。这项研究关注「AI 动态：Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning」。这项研究关注「AI 动态：Quasi-Monte Carlo Initialization for Meta-Reinforcement Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21637",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-07-27-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations",
+      "summary": "arXiv cs.LG发布了「AI 动态：Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations」。这条政策动态围绕「AI 动态：Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.LG发布了「AI 动态：Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations」。这条政策动态围绕「AI 动态：Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2607.21644",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.LG"
+      ]
+    }
+  ]
+}
