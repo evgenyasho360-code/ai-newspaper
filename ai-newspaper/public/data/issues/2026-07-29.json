@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-29",
+  "date": "2026-07-29",
+  "weekday": "星期三",
+  "issueNo": "20260729",
+  "updatedAt": "08:59",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Scientific computing in the age of agentic AI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "AI 动态：LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Concept-based Visual Counterfactual Explanations with Diffusion Models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22544"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22548"
+    },
+    {
+      "time": "09:45",
+      "category": "资本",
+      "title": "AI 动态：QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22549"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-28-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Scientific computing in the age of agentic AI",
+      "summary": "OpenAI 新闻发布了「AI 动态：Scientific computing in the age of agentic AI」。这条模型动态围绕「AI 动态：Scientific computing in the age of agentic AI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Scientific computing in the age of agentic AI」。这条模型动态围绕「AI 动态：Scientific computing in the age of agentic AI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-28-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "summary": "Hugging Face 博客发布了「AI 动态：The OlmoEarth Platform: Geospatial inference at planetary scale」。这条产品动态聚焦「AI 动态：The OlmoEarth Platform: Geospatial inference at planetary scale」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：The OlmoEarth Platform: Geospatial inference at planetary scale」。这条产品动态聚焦「AI 动态：The OlmoEarth Platform: Geospatial inference at planetary scale」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-28-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "summary": "Hugging Face 博客发布了「AI 动态：LFM2.5-Encoders for Fast Long-Context Inference on CPU」。这条产品动态聚焦「AI 动态：LFM2.5-Encoders for Fast Long-Context Inference on CPU」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：LFM2.5-Encoders for Fast Long-Context Inference on CPU」。这条产品动态聚焦「AI 动态：LFM2.5-Encoders for Fast Long-Context Inference on CPU」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-28-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Concept-based Visual Counterfactual Explanations with Diffusion Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：Concept-based Visual Counterfactual Explanations with Diffusion Models」。这条政策动态围绕「AI 动态：Concept-based Visual Counterfactual Explanations with Diffusion Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Concept-based Visual Counterfactual Explanations with Diffusion Models」。这条政策动态围绕「AI 动态：Concept-based Visual Counterfactual Explanations with Diffusion Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22544",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-28-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
+      "summary": "arXiv cs.AI发布了「AI 动态：SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series」。这项研究关注「AI 动态：SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series」。这项研究关注「AI 动态：SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22548",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-28-6",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
+      "summary": "arXiv cs.AI发布了「AI 动态：QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction」。这条资本动态聚焦「AI 动态：QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv cs.AI发布了「AI 动态：QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction」。这条资本动态聚焦「AI 动态：QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22549",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-28-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
+      "summary": "arXiv cs.AI发布了「AI 动态：Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy」。这项研究关注「AI 动态：Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy」。这项研究关注「AI 动态：Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22554",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-28-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
+      "summary": "arXiv cs.AI发布了「AI 动态：DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs」。这项研究关注「AI 动态：DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs」。这项研究关注「AI 动态：DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.22555",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
