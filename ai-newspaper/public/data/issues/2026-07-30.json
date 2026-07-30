@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-30",
+  "date": "2026-07-30",
+  "weekday": "星期四",
+  "issueNo": "20260730",
+  "updatedAt": "08:55",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Do Models Fake Alignment Without Clear Consequences?",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24758"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24759"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24762"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-29-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "summary": "Google DeepMind 博客发布了「AI 动态：We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control」。这项研究关注「AI 动态：We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control」。这项研究关注「AI 动态：We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-07-29-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "summary": "OpenAI 新闻发布了「AI 动态：How enabling two settings tripled our scores on the ARC-AGI-3 benchmark」。这项研究关注「AI 动态：How enabling two settings tripled our scores on the ARC-AGI-3 benchmark」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：How enabling two settings tripled our scores on the ARC-AGI-3 benchmark」。这项研究关注「AI 动态：How enabling two settings tripled our scores on the ARC-AGI-3 benchmark」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-29-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary": "OpenAI 新闻发布了「AI 动态：Accelerating scientific discovery with ChatGPT for Academic Researchers」。这项研究关注「AI 动态：Accelerating scientific discovery with ChatGPT for Academic Researchers」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Accelerating scientific discovery with ChatGPT for Academic Researchers」。这项研究关注「AI 动态：Accelerating scientific discovery with ChatGPT for Academic Researchers」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-29-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Do Models Fake Alignment Without Clear Consequences?",
+      "summary": "arXiv cs.AI发布了「AI 动态：Do Models Fake Alignment Without Clear Consequences?」。这条政策动态围绕「AI 动态：Do Models Fake Alignment Without Clear Consequences?」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Do Models Fake Alignment Without Clear Consequences?」。这条政策动态围绕「AI 动态：Do Models Fake Alignment Without Clear Consequences?」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24758",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-29-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "summary": "arXiv cs.AI发布了「AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents」。这项研究关注「AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents」。这项研究关注「AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-29-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "summary": "arXiv cs.AI发布了「AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels」。这项研究关注「AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels」。这项研究关注「AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24762",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-29-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models」。这项研究关注「AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models」。这项研究关注「AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-29-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models」。这项研究关注「AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models」。这项研究关注「AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24764",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
