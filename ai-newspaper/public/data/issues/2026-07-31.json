@@ -1,0 +1,181 @@
+{
+  "id": "2026-07-31",
+  "date": "2026-07-31",
+  "weekday": "星期五",
+  "issueNo": "20260731",
+  "updatedAt": "09:07",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Advancing the price-performance frontier with GPT-5.6",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Do Models Fake Alignment Without Clear Consequences?",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24758"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24759"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24762"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-30-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "summary": "Hugging Face 博客发布了「AI 动态：GPU Management: Why Idle GPUs Are the New Grounded Aircraft」。这条产品动态聚焦「AI 动态：GPU Management: Why Idle GPUs Are the New Grounded Aircraft」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：GPU Management: Why Idle GPUs Are the New Grounded Aircraft」。这条产品动态聚焦「AI 动态：GPU Management: Why Idle GPUs Are the New Grounded Aircraft」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-07-30-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration」。这条模型动态围绕「AI 动态：Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration」。这条模型动态围绕「AI 动态：Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-07-30-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Advancing the price-performance frontier with GPT-5.6",
+      "summary": "OpenAI 新闻发布了「AI 动态：Advancing the price-performance frontier with GPT-5.6」。这条模型动态围绕「AI 动态：Advancing the price-performance frontier with GPT-5.6」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Advancing the price-performance frontier with GPT-5.6」。这条模型动态围绕「AI 动态：Advancing the price-performance frontier with GPT-5.6」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-30-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Do Models Fake Alignment Without Clear Consequences?",
+      "summary": "arXiv cs.AI发布了「AI 动态：Do Models Fake Alignment Without Clear Consequences?」。这条政策动态围绕「AI 动态：Do Models Fake Alignment Without Clear Consequences?」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Do Models Fake Alignment Without Clear Consequences?」。这条政策动态围绕「AI 动态：Do Models Fake Alignment Without Clear Consequences?」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24758",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-30-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "summary": "arXiv cs.AI发布了「AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents」。这项研究关注「AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents」。这项研究关注「AI 动态：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-30-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+      "summary": "arXiv cs.AI发布了「AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels」。这项研究关注「AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels」。这项研究关注「AI 动态：Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24762",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-30-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models」。这项研究关注「AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models」。这项研究关注「AI 动态：CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24763",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-30-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models」。这项研究关注「AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models」。这项研究关注「AI 动态：GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.24764",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
