@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-01",
+  "date": "2026-08-01",
+  "weekday": "星期六",
+  "issueNo": "20260801",
+  "updatedAt": "09:05",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "政策",
+      "title": "AI 动态：Advancing responsible AI across Europe",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Building abundant intelligence",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/building-abundant-intelligence"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：Univé builds an AI-ready workforce",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/unive"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.26119"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.26120"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.26155"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-07-31-1",
+      "category": "政策",
+      "priority": "lead",
+      "title": "AI 动态：Advancing responsible AI across Europe",
+      "summary": "OpenAI 新闻发布了「AI 动态：Advancing responsible AI across Europe」。这条政策动态围绕「AI 动态：Advancing responsible AI across Europe」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Advancing responsible AI across Europe」。这条政策动态围绕「AI 动态：Advancing responsible AI across Europe」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-31-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Building abundant intelligence",
+      "summary": "OpenAI 新闻发布了「AI 动态：Building abundant intelligence」。这条模型动态围绕「AI 动态：Building abundant intelligence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Building abundant intelligence」。这条模型动态围绕「AI 动态：Building abundant intelligence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-31-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Univé builds an AI-ready workforce",
+      "summary": "OpenAI 新闻发布了「AI 动态：Univé builds an AI-ready workforce」。这条政策动态围绕「AI 动态：Univé builds an AI-ready workforce」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Univé builds an AI-ready workforce」。这条政策动态围绕「AI 动态：Univé builds an AI-ready workforce」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/unive",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-07-31-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models」。这条政策动态围绕「AI 动态：Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models」。这条政策动态围绕「AI 动态：Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.26119",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-31-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+      "summary": "arXiv cs.AI发布了「AI 动态：Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems」。这项研究关注「AI 动态：Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems」。这项研究关注「AI 动态：Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.26120",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-31-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+      "summary": "arXiv cs.AI发布了「AI 动态：ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science」。这项研究关注「AI 动态：ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science」。这项研究关注「AI 动态：ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.26155",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-31-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "summary": "arXiv cs.AI发布了「AI 动态：When benchmark inferences do not compose: Projectibility in AI evaluation」。这项研究关注「AI 动态：When benchmark inferences do not compose: Projectibility in AI evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：When benchmark inferences do not compose: Projectibility in AI evaluation」。这项研究关注「AI 动态：When benchmark inferences do not compose: Projectibility in AI evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.26159",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-07-31-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+      "summary": "arXiv cs.AI发布了「AI 动态：GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning」。这项研究关注「AI 动态：GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning」。这项研究关注「AI 动态：GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.26160",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
