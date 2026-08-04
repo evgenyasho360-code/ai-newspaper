@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-04",
+  "date": "2026-08-04",
+  "weekday": "星期二",
+  "issueNo": "20260804",
+  "updatedAt": "09:01",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：How we built a realtime system for responsive voice AI in six months",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28629"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28631"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28632"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28642"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28657"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-03-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：How we built a realtime system for responsive voice AI in six months",
+      "summary": "OpenAI 新闻发布了「AI 动态：How we built a realtime system for responsive voice AI in six months」。这条模型动态围绕「AI 动态：How we built a realtime system for responsive voice AI in six months」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How we built a realtime system for responsive voice AI in six months」。这条模型动态围绕「AI 动态：How we built a realtime system for responsive voice AI in six months」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-03-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "summary": "arXiv cs.AI发布了「AI 动态：OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems」。这条政策动态围绕「AI 动态：OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems」。这条政策动态围绕「AI 动态：OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-03-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
+      "summary": "arXiv cs.AI发布了「AI 动态：Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review」。这项研究关注「AI 动态：Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review」。这项研究关注「AI 动态：Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28631",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-03-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
+      "summary": "arXiv cs.AI发布了「AI 动态：LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis」。这项研究关注「AI 动态：LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis」。这项研究关注「AI 动态：LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28632",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-03-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+      "summary": "arXiv cs.AI发布了「AI 动态：ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning」。这项研究关注「AI 动态：ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning」。这项研究关注「AI 动态：ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28642",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-03-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter",
+      "summary": "arXiv cs.AI发布了「AI 动态：TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter」。这条政策动态围绕「AI 动态：TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter」。这条政策动态围绕「AI 动态：TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28657",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-03-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding",
+      "summary": "arXiv cs.AI发布了「AI 动态：Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding」。这项研究关注「AI 动态：Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding」。这项研究关注「AI 动态：Empowering Cross-Domain Sequential Recommendation with Hybrid Tokenization and Serial-Parallel Decoding」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28659",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-03-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents",
+      "summary": "arXiv cs.AI发布了「AI 动态：An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents」。这项研究关注「AI 动态：An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents」。这项研究关注「AI 动态：An Ontology-Guided, Deduplication-Aware Extraction Layer for Knowledge Graph Construction from Heterogeneous Documents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2607.28662",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
