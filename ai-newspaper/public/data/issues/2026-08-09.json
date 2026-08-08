@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-09",
+  "date": "2026-08-09",
+  "weekday": "星期日",
+  "issueNo": "20260809",
+  "updatedAt": "07:56",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/tutormoments"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Responding to the next frontier of critical cyber capabilities",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：How HSP GRUPPE builds AI capabilities for tax advisory",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/hsp-gruppe"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Learning When to Trust via Selective Context Preference Optimization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.06377v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.06375v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.06374v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-07-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "summary": "Hugging Face 博客发布了「AI 动态：TutorMoments: Do AI tutors know when to help and when to hold back?」。这条产品动态聚焦「AI 动态：TutorMoments: Do AI tutors know when to help and when to hold back?」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：TutorMoments: Do AI tutors know when to help and when to hold back?」。这条产品动态聚焦「AI 动态：TutorMoments: Do AI tutors know when to help and when to hold back?」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-07-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI 新闻发布了「AI 动态：Responding to the next frontier of critical cyber capabilities」。这项研究关注「AI 动态：Responding to the next frontier of critical cyber capabilities」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Responding to the next frontier of critical cyber capabilities」。这项研究关注「AI 动态：Responding to the next frontier of critical cyber capabilities」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-07-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "OpenAI 新闻发布了「AI 动态：How HSP GRUPPE builds AI capabilities for tax advisory」。这条模型动态围绕「AI 动态：How HSP GRUPPE builds AI capabilities for tax advisory」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How HSP GRUPPE builds AI capabilities for tax advisory」。这条模型动态围绕「AI 动态：How HSP GRUPPE builds AI capabilities for tax advisory」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-06-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Learning When to Trust via Selective Context Preference Optimization",
+      "summary": "arXiv发布了「AI 动态：Learning When to Trust via Selective Context Preference Optimization」。这项研究关注「AI 动态：Learning When to Trust via Selective Context Preference Optimization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Learning When to Trust via Selective Context Preference Optimization」。这项研究关注「AI 动态：Learning When to Trust via Selective Context Preference Optimization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.06377v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-06-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+      "summary": "arXiv发布了「AI 动态：$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation」。这项研究关注「AI 动态：$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation」。这项研究关注「AI 动态：$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.06375v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-06-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+      "summary": "arXiv发布了「AI 动态：DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation」。这条政策动态围绕「AI 动态：DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation」。这条政策动态围绕「AI 动态：DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.06374v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-06-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：The Bitter Lesson of Tool Calling",
+      "summary": "arXiv发布了「AI 动态：The Bitter Lesson of Tool Calling」。这条政策动态围绕「AI 动态：The Bitter Lesson of Tool Calling」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：The Bitter Lesson of Tool Calling」。这条政策动态围绕「AI 动态：The Bitter Lesson of Tool Calling」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.06370v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-06-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+      "summary": "arXiv发布了「AI 动态：Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering」。这项研究关注「AI 动态：Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering」。这项研究关注「AI 动态：Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.06366v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
