@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-11",
+  "date": "2026-08-11",
+  "weekday": "星期二",
+  "issueNo": "20260811",
+  "updatedAt": "08:02",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：What building an AI-native finance function taught me",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/model-ml"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "AI 动态：Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Expanding Daybreak as the Cyber Defense Window Narrows",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-10-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：What building an AI-native finance function taught me",
+      "summary": "OpenAI 新闻发布了「AI 动态：What building an AI-native finance function taught me」。这条模型动态围绕「AI 动态：What building an AI-native finance function taught me」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：What building an AI-native finance function taught me」。这条模型动态围绕「AI 动态：What building an AI-native finance function taught me」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-10-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "summary": "Hugging Face 博客发布了「AI 动态：Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS」。这条模型动态围绕「AI 动态：Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS」。这条模型动态围绕「AI 动态：Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-10-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "OpenAI 新闻发布了「AI 动态：OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas」。这条模型动态围绕「AI 动态：OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas」。这条模型动态围绕「AI 动态：OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-10-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "summary": "OpenAI 新闻发布了「AI 动态：Model ML completes finance work more efficiently with GPT-5.6 Sol」。这项研究关注「AI 动态：Model ML completes finance work more efficiently with GPT-5.6 Sol」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Model ML completes finance work more efficiently with GPT-5.6 Sol」。这项研究关注「AI 动态：Model ML completes finance work more efficiently with GPT-5.6 Sol」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/model-ml",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-10-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "summary": "Hugging Face 博客发布了「AI 动态：Making Knowledge Distillation Cheap Enough to Run at Scale」。这条产品动态聚焦「AI 动态：Making Knowledge Distillation Cheap Enough to Run at Scale」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Making Knowledge Distillation Cheap Enough to Run at Scale」。这条产品动态聚焦「AI 动态：Making Knowledge Distillation Cheap Enough to Run at Scale」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-10-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Expanding Daybreak as the Cyber Defense Window Narrows",
+      "summary": "OpenAI 新闻发布了「AI 动态：Expanding Daybreak as the Cyber Defense Window Narrows」。这项研究关注「AI 动态：Expanding Daybreak as the Cyber Defense Window Narrows」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Expanding Daybreak as the Cyber Defense Window Narrows」。这项研究关注「AI 动态：Expanding Daybreak as the Cyber Defense Window Narrows」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-10-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Putting frontier cyber models in more trusted hands",
+      "summary": "OpenAI 新闻发布了「AI 动态：Putting frontier cyber models in more trusted hands」。这条模型动态围绕「AI 动态：Putting frontier cyber models in more trusted hands」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Putting frontier cyber models in more trusted hands」。这条模型动态围绕「AI 动态：Putting frontier cyber models in more trusted hands」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-10-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+      "summary": "arXiv cs.AI发布了「AI 动态：Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning」。这项研究关注「AI 动态：Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning」。这项研究关注「AI 动态：Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.06394",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
