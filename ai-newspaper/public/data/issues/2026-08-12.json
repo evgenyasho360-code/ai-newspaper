@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-12",
+  "date": "2026-08-12",
+  "weekday": "星期三",
+  "issueNo": "20260812",
+  "updatedAt": "08:08",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Thinking of ACE? We Can Do It with Fewer Tokens",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Testing ads in ChatGPT",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Daybreak models are now available on AWS",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Towards an Argumentative Foundation for Evaluative AI",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.07473"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.07474"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.07476"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-11-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Thinking of ACE? We Can Do It with Fewer Tokens",
+      "summary": "Hugging Face 博客发布了「AI 动态：Thinking of ACE? We Can Do It with Fewer Tokens」。这条产品动态聚焦「AI 动态：Thinking of ACE? We Can Do It with Fewer Tokens」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Thinking of ACE? We Can Do It with Fewer Tokens」。这条产品动态聚焦「AI 动态：Thinking of ACE? We Can Do It with Fewer Tokens」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-11-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Testing ads in ChatGPT",
+      "summary": "OpenAI 新闻发布了「AI 动态：Testing ads in ChatGPT」。这条模型动态围绕「AI 动态：Testing ads in ChatGPT」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Testing ads in ChatGPT」。这条模型动态围绕「AI 动态：Testing ads in ChatGPT」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-11-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Daybreak models are now available on AWS",
+      "summary": "OpenAI 新闻发布了「AI 动态：Daybreak models are now available on AWS」。这条模型动态围绕「AI 动态：Daybreak models are now available on AWS」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Daybreak models are now available on AWS」。这条模型动态围绕「AI 动态：Daybreak models are now available on AWS」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-11-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Towards an Argumentative Foundation for Evaluative AI",
+      "summary": "arXiv cs.AI发布了「AI 动态：Towards an Argumentative Foundation for Evaluative AI」。这项研究关注「AI 动态：Towards an Argumentative Foundation for Evaluative AI」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Towards an Argumentative Foundation for Evaluative AI」。这项研究关注「AI 动态：Towards an Argumentative Foundation for Evaluative AI」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.07473",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-11-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains",
+      "summary": "arXiv cs.AI发布了「AI 动态：Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains」。这条政策动态围绕「AI 动态：Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains」。这条政策动态围绕「AI 动态：Flow-by-Flow:Content-Judgment Bypass for Governing AI Output in High-Loss Domains」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.07474",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-11-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility",
+      "summary": "arXiv cs.AI发布了「AI 动态：Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility」。这条政策动态围绕「AI 动态：Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility」。这条政策动态围绕「AI 动态：Determinization in Structure Theories: A Unified Framework via Closure, Comparability, and Joint Admissibility」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.07476",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-11-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Emotion in an active inference model of human driving",
+      "summary": "arXiv cs.AI发布了「AI 动态：Emotion in an active inference model of human driving」。这项研究关注「AI 动态：Emotion in an active inference model of human driving」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Emotion in an active inference model of human driving」。这项研究关注「AI 动态：Emotion in an active inference model of human driving」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.07480",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-11-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Training Variable Long Sequences with Data-Centric Parallel",
+      "summary": "arXiv cs.AI发布了「AI 动态：Training Variable Long Sequences with Data-Centric Parallel」。这项研究关注「AI 动态：Training Variable Long Sequences with Data-Centric Parallel」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Training Variable Long Sequences with Data-Centric Parallel」。这项研究关注「AI 动态：Training Variable Long Sequences with Data-Centric Parallel」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.07524",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
