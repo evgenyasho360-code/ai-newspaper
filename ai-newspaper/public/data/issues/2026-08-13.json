@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-13",
+  "date": "2026-08-13",
+  "weekday": "星期四",
+  "issueNo": "20260813",
+  "updatedAt": "08:08",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Putting sign language AI into users’ hands",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "AI 动态：LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：From assistance to execution: How enterprises put AI to work",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.09949"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.09967"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-12-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "summary": "Hugging Face 博客发布了「AI 动态：Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis」。这条产品动态聚焦「AI 动态：Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis」。这条产品动态聚焦「AI 动态：Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-12-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Putting sign language AI into users’ hands",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Putting sign language AI into users’ hands」。这条模型动态围绕「AI 动态：Putting sign language AI into users’ hands」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Putting sign language AI into users’ hands」。这条模型动态围绕「AI 动态：Putting sign language AI into users’ hands」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-08-12-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "summary": "Hugging Face 博客发布了「AI 动态：LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge」。这条产品动态聚焦「AI 动态：LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge」。这条产品动态聚焦「AI 动态：LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-12-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI 新闻发布了「AI 动态：From assistance to execution: How enterprises put AI to work」。这项研究关注「AI 动态：From assistance to execution: How enterprises put AI to work」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：From assistance to execution: How enterprises put AI to work」。这项研究关注「AI 动态：From assistance to execution: How enterprises put AI to work」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-12-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Closed-Loop LLM Co-Pilots for Digital Agriculture",
+      "summary": "arXiv cs.AI发布了「AI 动态：Closed-Loop LLM Co-Pilots for Digital Agriculture」。这项研究关注「AI 动态：Closed-Loop LLM Co-Pilots for Digital Agriculture」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Closed-Loop LLM Co-Pilots for Digital Agriculture」。这项研究关注「AI 动态：Closed-Loop LLM Co-Pilots for Digital Agriculture」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.09949",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-12-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+      "summary": "arXiv cs.AI发布了「AI 动态：SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning」。这条政策动态围绕「AI 动态：SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning」。这条政策动态围绕「AI 动态：SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.09967",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-12-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+      "summary": "arXiv cs.AI发布了「AI 动态：MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis」。这项研究关注「AI 动态：MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis」。这项研究关注「AI 动态：MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.09986",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-12-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+      "summary": "arXiv cs.AI发布了「AI 动态：Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint」。这项研究关注「AI 动态：Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint」。这项研究关注「AI 动态：Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.09998",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
