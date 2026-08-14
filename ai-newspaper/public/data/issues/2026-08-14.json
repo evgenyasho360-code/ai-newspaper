@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-14",
+  "date": "2026-08-14",
+  "weekday": "星期五",
+  "issueNo": "20260814",
+  "updatedAt": "08:09",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Introducing Gemini 3.7 Flash",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：The builder’s guide to GPT‑5.6",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/previewing-ultrafast"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.11207"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-13-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "summary": "Hugging Face 博客发布了「AI 动态：Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets」。这条模型动态围绕「AI 动态：Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets」。这条模型动态围绕「AI 动态：Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-13-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing Gemini 3.7 Flash",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 3.7 Flash」。这条模型动态围绕「AI 动态：Introducing Gemini 3.7 Flash」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 3.7 Flash」。这条模型动态围绕「AI 动态：Introducing Gemini 3.7 Flash」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-08-13-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：The builder’s guide to GPT‑5.6",
+      "summary": "OpenAI 新闻发布了「AI 动态：The builder’s guide to GPT‑5.6」。这条模型动态围绕「AI 动态：The builder’s guide to GPT‑5.6」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：The builder’s guide to GPT‑5.6」。这条模型动态围绕「AI 动态：The builder’s guide to GPT‑5.6」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-13-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "OpenAI 新闻发布了「AI 动态：Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed」。这条模型动态围绕「AI 动态：Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed」。这条模型动态围绕「AI 动态：Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-13-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI 新闻发布了「AI 动态：OpenAI appoints Dali Rajic as Chief Revenue Officer」。这条模型动态围绕「AI 动态：OpenAI appoints Dali Rajic as Chief Revenue Officer」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：OpenAI appoints Dali Rajic as Chief Revenue Officer」。这条模型动态围绕「AI 动态：OpenAI appoints Dali Rajic as Chief Revenue Officer」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-13-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+      "summary": "arXiv cs.AI发布了「AI 动态：Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes」。这条政策动态围绕「AI 动态：Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes」。这条政策动态围绕「AI 动态：Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.11207",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-13-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+      "summary": "arXiv cs.AI发布了「AI 动态：Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration」。这项研究关注「AI 动态：Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration」。这项研究关注「AI 动态：Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.11210",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-13-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+      "summary": "arXiv cs.AI发布了「AI 动态：A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph」。这项研究关注「AI 动态：A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph」。这项研究关注「AI 动态：A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.11211",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
