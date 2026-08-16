@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-17",
+  "date": "2026-08-17",
+  "weekday": "星期一",
+  "issueNo": "20260817",
+  "updatedAt": "07:46",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：State of Open Models: Summer 2026 Observations",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13560v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13558v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：V-RAE: Rethinking Video Latent Spaces for Generation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13556v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13555v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Defensive Boosting for Online Probabilistic Forecasting",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13554v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-14-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：State of Open Models: Summer 2026 Observations",
+      "summary": "Hugging Face 博客发布了「AI 动态：State of Open Models: Summer 2026 Observations」。这条模型动态围绕「AI 动态：State of Open Models: Summer 2026 Observations」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：State of Open Models: Summer 2026 Observations」。这条模型动态围绕「AI 动态：State of Open Models: Summer 2026 Observations」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-13-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "summary": "arXiv发布了「AI 动态：AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design」。这项研究关注「AI 动态：AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design」。这项研究关注「AI 动态：AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13560v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-13-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "summary": "arXiv发布了「AI 动态：OmniScientist: An Omni-Modal Omni-Discipline AI Scientist」。这项研究关注「AI 动态：OmniScientist: An Omni-Modal Omni-Discipline AI Scientist」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：OmniScientist: An Omni-Modal Omni-Discipline AI Scientist」。这项研究关注「AI 动态：OmniScientist: An Omni-Modal Omni-Discipline AI Scientist」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13558v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-13-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：V-RAE: Rethinking Video Latent Spaces for Generation",
+      "summary": "arXiv发布了「AI 动态：V-RAE: Rethinking Video Latent Spaces for Generation」。这条模型动态围绕「AI 动态：V-RAE: Rethinking Video Latent Spaces for Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：V-RAE: Rethinking Video Latent Spaces for Generation」。这条模型动态围绕「AI 动态：V-RAE: Rethinking Video Latent Spaces for Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13556v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-13-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "summary": "arXiv发布了「AI 动态：HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark」。这项研究关注「AI 动态：HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark」。这项研究关注「AI 动态：HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13555v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-13-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Defensive Boosting for Online Probabilistic Forecasting",
+      "summary": "arXiv发布了「AI 动态：Defensive Boosting for Online Probabilistic Forecasting」。这项研究关注「AI 动态：Defensive Boosting for Online Probabilistic Forecasting」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Defensive Boosting for Online Probabilistic Forecasting」。这项研究关注「AI 动态：Defensive Boosting for Online Probabilistic Forecasting」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13554v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-13-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+      "summary": "arXiv发布了「AI 动态：PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives」。这项研究关注「AI 动态：PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives」。这项研究关注「AI 动态：PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13552v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-13-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
+      "summary": "arXiv发布了「AI 动态：Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure」。这项研究关注「AI 动态：Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure」。这项研究关注「AI 动态：Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.13549v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
