@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-18",
+  "date": "2026-08-18",
+  "weekday": "星期二",
+  "issueNo": "20260818",
+  "updatedAt": "07:48",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：The Defender’s Window",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/the-defenders-window"
+    },
+    {
+      "time": "08:15",
+      "category": "资本",
+      "title": "AI 动态：OpenAI joins PORTS-Pike project",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.13564"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.13565"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Modular Cognitive Architecture Emerges in Large Language Models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.13567"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-17-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "summary": "Hugging Face 博客发布了「AI 动态：Same Cluster, 33 Points More Utilization: What Changed Was the Order」。这条产品动态聚焦「AI 动态：Same Cluster, 33 Points More Utilization: What Changed Was the Order」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Same Cluster, 33 Points More Utilization: What Changed Was the Order」。这条产品动态聚焦「AI 动态：Same Cluster, 33 Points More Utilization: What Changed Was the Order」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-17-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：The Defender’s Window",
+      "summary": "OpenAI 新闻发布了「AI 动态：The Defender’s Window」。这条模型动态围绕「AI 动态：The Defender’s Window」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：The Defender’s Window」。这条模型动态围绕「AI 动态：The Defender’s Window」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/the-defenders-window",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-17-3",
+      "category": "资本",
+      "priority": "feature",
+      "title": "AI 动态：OpenAI joins PORTS-Pike project",
+      "summary": "OpenAI 新闻发布了「AI 动态：OpenAI joins PORTS-Pike project」。这条资本动态聚焦「AI 动态：OpenAI joins PORTS-Pike project」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "OpenAI 新闻发布了「AI 动态：OpenAI joins PORTS-Pike project」。这条资本动态聚焦「AI 动态：OpenAI joins PORTS-Pike project」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-17-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "summary": "arXiv cs.AI发布了「AI 动态：Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation」。这项研究关注「AI 动态：Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation」。这项研究关注「AI 动态：Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.13564",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-17-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "summary": "arXiv cs.AI发布了「AI 动态：Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking」。这条政策动态围绕「AI 动态：Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking」。这条政策动态围绕「AI 动态：Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.13565",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-17-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Modular Cognitive Architecture Emerges in Large Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：Modular Cognitive Architecture Emerges in Large Language Models」。这项研究关注「AI 动态：Modular Cognitive Architecture Emerges in Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Modular Cognitive Architecture Emerges in Large Language Models」。这项研究关注「AI 动态：Modular Cognitive Architecture Emerges in Large Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.13567",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-17-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "summary": "arXiv cs.AI发布了「AI 动态：A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing」。这项研究关注「AI 动态：A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing」。这项研究关注「AI 动态：A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.13573",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-17-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "summary": "arXiv cs.AI发布了「AI 动态：Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents」。这条政策动态围绕「AI 动态：Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents」。这条政策动态围绕「AI 动态：Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.13574",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
