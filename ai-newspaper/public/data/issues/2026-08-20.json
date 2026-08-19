@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-20",
+  "date": "2026-08-20",
+  "weekday": "星期四",
+  "issueNo": "20260820",
+  "updatedAt": "07:48",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "政策",
+      "title": "AI 动态：Offering Zero Data Retention for frontier models",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/qad"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Replit expands access to software creation with GPT-5.6 Luna",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/replit"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.16890"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.16891"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.16956"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-19-1",
+      "category": "政策",
+      "priority": "lead",
+      "title": "AI 动态：Offering Zero Data Retention for frontier models",
+      "summary": "OpenAI 新闻发布了「AI 动态：Offering Zero Data Retention for frontier models」。这条政策动态围绕「AI 动态：Offering Zero Data Retention for frontier models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Offering Zero Data Retention for frontier models」。这条政策动态围绕「AI 动态：Offering Zero Data Retention for frontier models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-19-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "summary": "Hugging Face 博客发布了「AI 动态：LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation」。这条产品动态聚焦「AI 动态：LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation」。这条产品动态聚焦「AI 动态：LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-19-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Replit expands access to software creation with GPT-5.6 Luna",
+      "summary": "OpenAI 新闻发布了「AI 动态：Replit expands access to software creation with GPT-5.6 Luna」。这条模型动态围绕「AI 动态：Replit expands access to software creation with GPT-5.6 Luna」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Replit expands access to software creation with GPT-5.6 Luna」。这条模型动态围绕「AI 动态：Replit expands access to software creation with GPT-5.6 Luna」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/replit",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-19-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+      "summary": "arXiv cs.AI发布了「AI 动态：GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents」。这项研究关注「AI 动态：GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents」。这项研究关注「AI 动态：GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.16890",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-19-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+      "summary": "arXiv cs.AI发布了「AI 动态：Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution」。这条政策动态围绕「AI 动态：Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution」。这条政策动态围绕「AI 动态：Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.16891",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-19-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
+      "summary": "arXiv cs.AI发布了「AI 动态：The Price of Thinking: Reasoning Effort as a Model-Specific API Contract」。这项研究关注「AI 动态：The Price of Thinking: Reasoning Effort as a Model-Specific API Contract」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：The Price of Thinking: Reasoning Effort as a Model-Specific API Contract」。这项研究关注「AI 动态：The Price of Thinking: Reasoning Effort as a Model-Specific API Contract」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.16956",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-19-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+      "summary": "arXiv cs.AI发布了「AI 动态：FedPref: Federated Preference Learning for Structured Radiology Report Extraction」。这项研究关注「AI 动态：FedPref: Federated Preference Learning for Structured Radiology Report Extraction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：FedPref: Federated Preference Learning for Structured Radiology Report Extraction」。这项研究关注「AI 动态：FedPref: Federated Preference Learning for Structured Radiology Report Extraction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.16971",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-19-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：The Problem Is the Problem: Towards Scalable Mathematical Discovery",
+      "summary": "arXiv cs.AI发布了「AI 动态：The Problem Is the Problem: Towards Scalable Mathematical Discovery」。这项研究关注「AI 动态：The Problem Is the Problem: Towards Scalable Mathematical Discovery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：The Problem Is the Problem: Towards Scalable Mathematical Discovery」。这项研究关注「AI 动态：The Problem Is the Problem: Towards Scalable Mathematical Discovery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.16977",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
