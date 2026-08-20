@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-21",
+  "date": "2026-08-21",
+  "weekday": "星期五",
+  "issueNo": "20260821",
+  "updatedAt": "07:51",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：Introducing AI Futures",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-ai-futures"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18078"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Position: Profiling Game Worlds by Transition Complexity",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18079"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18080"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Position: Behavioral Systems Require Behavioral Tests",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18081"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-20-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "summary": "Hugging Face 博客发布了「AI 动态：Up to 3.2x Faster Inference with LFM2.5-DSpark」。这条产品动态聚焦「AI 动态：Up to 3.2x Faster Inference with LFM2.5-DSpark」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Up to 3.2x Faster Inference with LFM2.5-DSpark」。这条产品动态聚焦「AI 动态：Up to 3.2x Faster Inference with LFM2.5-DSpark」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-20-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Introducing AI Futures",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing AI Futures」。这条政策动态围绕「AI 动态：Introducing AI Futures」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing AI Futures」。这条政策动态围绕「AI 动态：Introducing AI Futures」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-20-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "summary": "arXiv cs.AI发布了「AI 动态：Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions」。这项研究关注「AI 动态：Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions」。这项研究关注「AI 动态：Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18078",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-20-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Position: Profiling Game Worlds by Transition Complexity",
+      "summary": "arXiv cs.AI发布了「AI 动态：Position: Profiling Game Worlds by Transition Complexity」。这项研究关注「AI 动态：Position: Profiling Game Worlds by Transition Complexity」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Position: Profiling Game Worlds by Transition Complexity」。这项研究关注「AI 动态：Position: Profiling Game Worlds by Transition Complexity」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18079",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-20-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "summary": "arXiv cs.AI发布了「AI 动态：Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges」。这项研究关注「AI 动态：Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges」。这项研究关注「AI 动态：Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18080",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-20-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Position: Behavioral Systems Require Behavioral Tests",
+      "summary": "arXiv cs.AI发布了「AI 动态：Position: Behavioral Systems Require Behavioral Tests」。这项研究关注「AI 动态：Position: Behavioral Systems Require Behavioral Tests」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Position: Behavioral Systems Require Behavioral Tests」。这项研究关注「AI 动态：Position: Behavioral Systems Require Behavioral Tests」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18081",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-20-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models」。这条政策动态围绕「AI 动态：Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models」。这条政策动态围绕「AI 动态：Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18086",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-20-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+      "summary": "arXiv cs.AI发布了「AI 动态：A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring」。这条政策动态围绕「AI 动态：A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring」。这条政策动态围绕「AI 动态：A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.18088",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
