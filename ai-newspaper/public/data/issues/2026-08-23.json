@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-23",
+  "date": "2026-08-23",
+  "weekday": "星期日",
+  "issueNo": "20260823",
+  "updatedAt": "07:48",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Measuring benchmark optimization in speech recognition",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Information on trajectories: martingales and random times",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20337v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20338v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20335v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20336v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-21-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind 博客发布了「AI 动态：From Atari to EVE Online: Building on 15 Years of AI Research in Games」。这项研究关注「AI 动态：From Atari to EVE Online: Building on 15 Years of AI Research in Games」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：From Atari to EVE Online: Building on 15 Years of AI Research in Games」。这项研究关注「AI 动态：From Atari to EVE Online: Building on 15 Years of AI Research in Games」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-08-21-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Measuring benchmark optimization in speech recognition",
+      "summary": "Hugging Face 博客发布了「AI 动态：Measuring benchmark optimization in speech recognition」。这项研究关注「AI 动态：Measuring benchmark optimization in speech recognition」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Hugging Face 博客发布了「AI 动态：Measuring benchmark optimization in speech recognition」。这项研究关注「AI 动态：Measuring benchmark optimization in speech recognition」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-20-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Information on trajectories: martingales and random times",
+      "summary": "arXiv发布了「AI 动态：Information on trajectories: martingales and random times」。这条模型动态围绕「AI 动态：Information on trajectories: martingales and random times」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Information on trajectories: martingales and random times」。这条模型动态围绕「AI 动态：Information on trajectories: martingales and random times」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20337v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-20-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+      "summary": "arXiv发布了「AI 动态：ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models」。这条政策动态围绕「AI 动态：ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models」。这条政策动态围绕「AI 动态：ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20338v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-20-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "summary": "arXiv发布了「AI 动态：4DAnyone: Create Anyone in 4D from a Casual Monocular Video」。这项研究关注「AI 动态：4DAnyone: Create Anyone in 4D from a Casual Monocular Video」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：4DAnyone: Create Anyone in 4D from a Casual Monocular Video」。这项研究关注「AI 动态：4DAnyone: Create Anyone in 4D from a Casual Monocular Video」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20335v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-20-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "summary": "arXiv发布了「AI 动态：WithEveryone: Unified Planning and Identity Grounding for Group Image Generation」。这项研究关注「AI 动态：WithEveryone: Unified Planning and Identity Grounding for Group Image Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：WithEveryone: Unified Planning and Identity Grounding for Group Image Generation」。这项研究关注「AI 动态：WithEveryone: Unified Planning and Identity Grounding for Group Image Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20336v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-20-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
+      "summary": "arXiv发布了「AI 动态：Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models」。这条政策动态围绕「AI 动态：Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models」。这条政策动态围绕「AI 动态：Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20334v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-20-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+      "summary": "arXiv发布了「AI 动态：G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation」。这项研究关注「AI 动态：G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation」。这项研究关注「AI 动态：G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.20331v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
