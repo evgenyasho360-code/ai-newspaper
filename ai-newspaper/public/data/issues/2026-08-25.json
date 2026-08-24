@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-25",
+  "date": "2026-08-25",
+  "weekday": "星期二",
+  "issueNo": "20260825",
+  "updatedAt": "07:48",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20341"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20342"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20378"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20379"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20384"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-24-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "OpenAI 新闻发布了「AI 动态：Advancing price-performance for developers with GPT‑5.6 in Kiro」。这条模型动态围绕「AI 动态：Advancing price-performance for developers with GPT‑5.6 in Kiro」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Advancing price-performance for developers with GPT‑5.6 in Kiro」。这条模型动态围绕「AI 动态：Advancing price-performance for developers with GPT‑5.6 in Kiro」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-24-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "summary": "arXiv cs.AI发布了「AI 动态：SDAD: Spec-Driven Agentic Development for the AI-Native SDLC」。这条政策动态围绕「AI 动态：SDAD: Spec-Driven Agentic Development for the AI-Native SDLC」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：SDAD: Spec-Driven Agentic Development for the AI-Native SDLC」。这条政策动态围绕「AI 动态：SDAD: Spec-Driven Agentic Development for the AI-Native SDLC」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20341",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-24-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure",
+      "summary": "arXiv cs.AI发布了「AI 动态：PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure」。这项研究关注「AI 动态：PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure」。这项研究关注「AI 动态：PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20342",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-24-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification",
+      "summary": "arXiv cs.AI发布了「AI 动态：Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification」。这条政策动态围绕「AI 动态：Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification」。这条政策动态围绕「AI 动态：Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20378",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-24-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "summary": "arXiv cs.AI发布了「AI 动态：A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications」。这条政策动态围绕「AI 动态：A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications」。这条政策动态围绕「AI 动态：A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-24-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles",
+      "summary": "arXiv cs.AI发布了「AI 动态：Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles」。这项研究关注「AI 动态：Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles」。这项研究关注「AI 动态：Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20384",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-24-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness",
+      "summary": "arXiv cs.AI发布了「AI 动态：Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness」。这项研究关注「AI 动态：Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness」。这项研究关注「AI 动态：Representation Affects Retrieval: A Case Study of Skill Discovery and Routing in a Multimodal Agent Harness」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20389",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-24-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory",
+      "summary": "arXiv cs.AI发布了「AI 动态：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory」。这项研究关注「AI 动态：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory」。这项研究关注「AI 动态：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.20397",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
