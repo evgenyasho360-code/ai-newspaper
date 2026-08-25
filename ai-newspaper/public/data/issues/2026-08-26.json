@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-26",
+  "date": "2026-08-26",
+  "weekday": "星期三",
+  "issueNo": "20260826",
+  "updatedAt": "07:49",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Granite 4.2 LLMs: How They&apos;re Built",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：The full stack behind abundant intelligence",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/jalapeno-first-results"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.21362"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.21363"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-25-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Granite 4.2 LLMs: How They&apos;re Built",
+      "summary": "Hugging Face 博客发布了「AI 动态：Granite 4.2 LLMs: How They&apos;re Built」。这条产品动态聚焦「AI 动态：Granite 4.2 LLMs: How They&apos;re Built」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Granite 4.2 LLMs: How They&apos;re Built」。这条产品动态聚焦「AI 动态：Granite 4.2 LLMs: How They&apos;re Built」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-25-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+      "summary": "Hugging Face 博客发布了「AI 动态：Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original」。这条模型动态围绕「AI 动态：Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original」。这条模型动态围绕「AI 动态：Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-08-25-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：The full stack behind abundant intelligence",
+      "summary": "OpenAI 新闻发布了「AI 动态：The full stack behind abundant intelligence」。这条模型动态围绕「AI 动态：The full stack behind abundant intelligence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：The full stack behind abundant intelligence」。这条模型动态围绕「AI 动态：The full stack behind abundant intelligence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-25-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary": "OpenAI 新闻发布了「AI 动态：Jalapeño’s first results show industry-leading speed and efficiency in AI inference」。这条模型动态围绕「AI 动态：Jalapeño’s first results show industry-leading speed and efficiency in AI inference」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Jalapeño’s first results show industry-leading speed and efficiency in AI inference」。这条模型动态围绕「AI 动态：Jalapeño’s first results show industry-leading speed and efficiency in AI inference」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-25-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+      "summary": "arXiv cs.AI发布了「AI 动态：KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference」。这项研究关注「AI 动态：KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference」。这项研究关注「AI 动态：KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.21362",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-25-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance",
+      "summary": "arXiv cs.AI发布了「AI 动态：AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance」。这条政策动态围绕「AI 动态：AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance」。这条政策动态围绕「AI 动态：AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.21363",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-25-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Reviewing Model Collapse and Countermeasures",
+      "summary": "arXiv cs.AI发布了「AI 动态：Reviewing Model Collapse and Countermeasures」。这项研究关注「AI 动态：Reviewing Model Collapse and Countermeasures」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Reviewing Model Collapse and Countermeasures」。这项研究关注「AI 动态：Reviewing Model Collapse and Countermeasures」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.21366",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-25-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：AI Learning and Conceptual Transfer in the Game of Hidden Rules",
+      "summary": "arXiv cs.AI发布了「AI 动态：AI Learning and Conceptual Transfer in the Game of Hidden Rules」。这项研究关注「AI 动态：AI Learning and Conceptual Transfer in the Game of Hidden Rules」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：AI Learning and Conceptual Transfer in the Game of Hidden Rules」。这项研究关注「AI 动态：AI Learning and Conceptual Transfer in the Game of Hidden Rules」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.21372",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
