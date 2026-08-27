@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-27",
+  "date": "2026-08-27",
+  "weekday": "星期四",
+  "issueNo": "20260827",
+  "updatedAt": "12:39",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23568"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23569"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23622"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23626"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23631"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Function-Level Execution Feedback for Code Preference Optimization",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23632"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-27-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+      "summary": "arXiv cs.AI发布了「AI 动态：RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation」。这项研究关注「AI 动态：RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation」。这项研究关注「AI 动态：RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23568",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-27-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence",
+      "summary": "arXiv cs.AI发布了「AI 动态：ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence」。这项研究关注「AI 动态：ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence」。这项研究关注「AI 动态：ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23569",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-27-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：LLM Agents Perform Controlled Experiments Using Simulation Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：LLM Agents Perform Controlled Experiments Using Simulation Models」。这项研究关注「AI 动态：LLM Agents Perform Controlled Experiments Using Simulation Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：LLM Agents Perform Controlled Experiments Using Simulation Models」。这项研究关注「AI 动态：LLM Agents Perform Controlled Experiments Using Simulation Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23622",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-27-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts",
+      "summary": "arXiv cs.AI发布了「AI 动态：A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts」。这项研究关注「AI 动态：A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts」。这项研究关注「AI 动态：A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23626",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-27-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery",
+      "summary": "arXiv cs.AI发布了「AI 动态：TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery」。这项研究关注「AI 动态：TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery」。这项研究关注「AI 动态：TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23631",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-27-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Function-Level Execution Feedback for Code Preference Optimization",
+      "summary": "arXiv cs.AI发布了「AI 动态：Function-Level Execution Feedback for Code Preference Optimization」。这项研究关注「AI 动态：Function-Level Execution Feedback for Code Preference Optimization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Function-Level Execution Feedback for Code Preference Optimization」。这项研究关注「AI 动态：Function-Level Execution Feedback for Code Preference Optimization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23632",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-27-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+      "summary": "arXiv cs.AI发布了「AI 动态：Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes」。这项研究关注「AI 动态：Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes」。这项研究关注「AI 动态：Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23640",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-27-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：How much of a measured AI preference is the model, and how much is the instrument?",
+      "summary": "arXiv cs.AI发布了「AI 动态：How much of a measured AI preference is the model, and how much is the instrument?」。这项研究关注「AI 动态：How much of a measured AI preference is the model, and how much is the instrument?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：How much of a measured AI preference is the model, and how much is the instrument?」。这项研究关注「AI 动态：How much of a measured AI preference is the model, and how much is the instrument?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.23641",
+      "readTime": "6 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
