@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-28",
+  "date": "2026-08-28",
+  "weekday": "星期五",
+  "issueNo": "20260828",
+  "updatedAt": "15:01",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26107"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26109"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26111"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26113"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26114"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26116"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-28-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
+      "summary": "arXiv cs.AI发布了「AI 动态：EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction」。这项研究关注「AI 动态：EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction」。这项研究关注「AI 动态：EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26107",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-28-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
+      "summary": "arXiv cs.AI发布了「AI 动态：Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset」。这条政策动态围绕「AI 动态：Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset」。这条政策动态围绕「AI 动态：Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26109",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-28-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
+      "summary": "arXiv cs.AI发布了「AI 动态：Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap」。这项研究关注「AI 动态：Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap」。这项研究关注「AI 动态：Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26111",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-28-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
+      "summary": "arXiv cs.AI发布了「AI 动态：PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices」。这项研究关注「AI 动态：PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices」。这项研究关注「AI 动态：PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26113",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-28-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+      "summary": "arXiv cs.AI发布了「AI 动态：CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering」。这项研究关注「AI 动态：CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering」。这项研究关注「AI 动态：CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26114",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-28-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
+      "summary": "arXiv cs.AI发布了「AI 动态：The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning」。这条政策动态围绕「AI 动态：The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning」。这条政策动态围绕「AI 动态：The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26116",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-28-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
+      "summary": "arXiv cs.AI发布了「AI 动态：The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting」。这项研究关注「AI 动态：The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting」。这项研究关注「AI 动态：The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26134",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-08-28-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
+      "summary": "arXiv cs.AI发布了「AI 动态：LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs」。这项研究关注「AI 动态：LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs」。这项研究关注「AI 动态：LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.26145",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
