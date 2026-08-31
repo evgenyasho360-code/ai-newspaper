@@ -1,0 +1,181 @@
+{
+  "id": "2026-08-31",
+  "date": "2026-08-31",
+  "weekday": "星期一",
+  "issueNo": "20260831",
+  "updatedAt": "09:31",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28478v1"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28476v1"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：COVER: Identifiable Evaluation of Coalition Routing",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28475v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28468v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28467v1"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28461v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-28-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge",
+      "summary": "arXiv发布了「AI 动态：Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge」。这项研究关注「AI 动态：Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge」。这项研究关注「AI 动态：Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28478v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-28-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL",
+      "summary": "arXiv发布了「AI 动态：ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL」。这条模型动态围绕「AI 动态：ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL」。这条模型动态围绕「AI 动态：ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28476v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-28-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：COVER: Identifiable Evaluation of Coalition Routing",
+      "summary": "arXiv发布了「AI 动态：COVER: Identifiable Evaluation of Coalition Routing」。这条政策动态围绕「AI 动态：COVER: Identifiable Evaluation of Coalition Routing」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：COVER: Identifiable Evaluation of Coalition Routing」。这条政策动态围绕「AI 动态：COVER: Identifiable Evaluation of Coalition Routing」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28475v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-28-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
+      "summary": "arXiv发布了「AI 动态：Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade」。这条模型动态围绕「AI 动态：Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade」。这条模型动态围绕「AI 动态：Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28468v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-28-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation",
+      "summary": "arXiv发布了「AI 动态：Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation」。这项研究关注「AI 动态：Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation」。这项研究关注「AI 动态：Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28467v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-28-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V",
+      "summary": "arXiv发布了「AI 动态：Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V」。这条模型动态围绕「AI 动态：Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V」。这条模型动态围绕「AI 动态：Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28461v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-28-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation",
+      "summary": "arXiv发布了「AI 动态：LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation」。这项研究关注「AI 动态：LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation」。这项研究关注「AI 动态：LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28460v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-08-28-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents",
+      "summary": "arXiv发布了「AI 动态：Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents」。这项研究关注「AI 动态：Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents」。这项研究关注「AI 动态：Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2608.28458v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
