@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-01",
+  "date": "2026-09-01",
+  "weekday": "星期二",
+  "issueNo": "20260901",
+  "updatedAt": "09:59",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Polimill builds Japan's next-generation public AI infrastructure",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/polimill"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：A milestone in expanding access to AI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27507"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27512"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27513"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：A Deeper Analysis of Block-Sparse Featurizers",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27515"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-08-31-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "OpenAI 新闻发布了「AI 动态：Polimill builds Japan's next-generation public AI infrastructure」。这条模型动态围绕「AI 动态：Polimill builds Japan's next-generation public AI infrastructure」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Polimill builds Japan's next-generation public AI infrastructure」。这条模型动态围绕「AI 动态：Polimill builds Japan's next-generation public AI infrastructure」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/polimill",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-31-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：A milestone in expanding access to AI",
+      "summary": "OpenAI 新闻发布了「AI 动态：A milestone in expanding access to AI」。这条模型动态围绕「AI 动态：A milestone in expanding access to AI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：A milestone in expanding access to AI」。这条模型动态围绕「AI 动态：A milestone in expanding access to AI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-08-31-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+      "summary": "arXiv cs.LG发布了「AI 动态：Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization」。这条政策动态围绕「AI 动态：Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.LG发布了「AI 动态：Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization」。这条政策动态围绕「AI 动态：Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27507",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-08-31-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap",
+      "summary": "arXiv cs.LG发布了「AI 动态：Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap」。这项研究关注「AI 动态：Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap」。这项研究关注「AI 动态：Quantization-Triggered Backdoors in Language Models: Cross-Quantizer Transferability and the Validation--Deployment Gap」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27512",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-08-31-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization",
+      "summary": "arXiv cs.LG发布了「AI 动态：DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization」。这项研究关注「AI 动态：DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization」。这项研究关注「AI 动态：DAMP: Decay-Aware Mixed-Precision Recurrent-State Quantization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27513",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-08-31-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：A Deeper Analysis of Block-Sparse Featurizers",
+      "summary": "arXiv cs.LG发布了「AI 动态：A Deeper Analysis of Block-Sparse Featurizers」。这项研究关注「AI 动态：A Deeper Analysis of Block-Sparse Featurizers」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：A Deeper Analysis of Block-Sparse Featurizers」。这项研究关注「AI 动态：A Deeper Analysis of Block-Sparse Featurizers」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27515",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-08-31-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging",
+      "summary": "arXiv cs.LG发布了「AI 动态：When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging」。这项研究关注「AI 动态：When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging」。这项研究关注「AI 动态：When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27518",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    },
+    {
+      "id": "2026-08-31-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics",
+      "summary": "arXiv cs.LG发布了「AI 动态：Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics」。这项研究关注「AI 动态：Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.LG发布了「AI 动态：Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics」。这项研究关注「AI 动态：Dandelion: A Spherical Flower for Neural Simulation of Planetary Dynamics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.LG",
+      "url": "https://arxiv.org/abs/2608.27521",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.LG"
+      ]
+    }
+  ]
+}
