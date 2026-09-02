@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-02",
+  "date": "2026-09-02",
+  "weekday": "星期三",
+  "issueNo": "20260902",
+  "updatedAt": "09:17",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：BenchMIRT: What are LLM benchmarks actually measuring?",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/benchmirt"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Introducing agentic video understanding with Gemini",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：How AI-native companies turn workflows into operating capability",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/ai-native-company-workflows"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Path to Astra: critical capabilities and frontier safeguards",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/path-to-astra"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.28590"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-01-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：BenchMIRT: What are LLM benchmarks actually measuring?",
+      "summary": "Hugging Face 博客发布了「AI 动态：BenchMIRT: What are LLM benchmarks actually measuring?」。这条模型动态围绕「AI 动态：BenchMIRT: What are LLM benchmarks actually measuring?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：BenchMIRT: What are LLM benchmarks actually measuring?」。这条模型动态围绕「AI 动态：BenchMIRT: What are LLM benchmarks actually measuring?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-09-01-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing agentic video understanding with Gemini",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing agentic video understanding with Gemini」。这条模型动态围绕「AI 动态：Introducing agentic video understanding with Gemini」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing agentic video understanding with Gemini」。这条模型动态围绕「AI 动态：Introducing agentic video understanding with Gemini」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-09-01-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：How AI-native companies turn workflows into operating capability",
+      "summary": "OpenAI 新闻发布了「AI 动态：How AI-native companies turn workflows into operating capability」。这条模型动态围绕「AI 动态：How AI-native companies turn workflows into operating capability」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How AI-native companies turn workflows into operating capability」。这条模型动态围绕「AI 动态：How AI-native companies turn workflows into operating capability」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-01-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "OpenAI 新闻发布了「AI 动态：Path to Astra: critical capabilities and frontier safeguards」。这条模型动态围绕「AI 动态：Path to Astra: critical capabilities and frontier safeguards」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Path to Astra: critical capabilities and frontier safeguards」。这条模型动态围绕「AI 动态：Path to Astra: critical capabilities and frontier safeguards」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/path-to-astra",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-01-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "OpenAI 新闻发布了「AI 动态：Healthcare organizations can now connect EHR and additional industry data to ChatGPT」。这项研究关注「AI 动态：Healthcare organizations can now connect EHR and additional industry data to ChatGPT」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Healthcare organizations can now connect EHR and additional industry data to ChatGPT」。这项研究关注「AI 动态：Healthcare organizations can now connect EHR and additional industry data to ChatGPT」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-01-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+      "summary": "arXiv cs.AI发布了「AI 动态：DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation」。这项研究关注「AI 动态：DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation」。这项研究关注「AI 动态：DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.28590",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-01-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Expert-validated STEM QA",
+      "summary": "arXiv cs.AI发布了「AI 动态：Expert-validated STEM QA」。这项研究关注「AI 动态：Expert-validated STEM QA」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Expert-validated STEM QA」。这项研究关注「AI 动态：Expert-validated STEM QA」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.28591",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-01-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making",
+      "summary": "arXiv cs.AI发布了「AI 动态：A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making」。这项研究关注「AI 动态：A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making」。这项研究关注「AI 动态：A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2608.28592",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
