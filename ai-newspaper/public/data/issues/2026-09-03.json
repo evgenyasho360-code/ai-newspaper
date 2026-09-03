@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-03",
+  "date": "2026-09-03",
+  "weekday": "星期四",
+  "issueNo": "20260903",
+  "updatedAt": "09:21",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Proactive cyber defense for governments and enterprises",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/atv-big-air-tour"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.00002"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.00003"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-02-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Proactive cyber defense for governments and enterprises",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Proactive cyber defense for governments and enterprises」。这项研究关注「AI 动态：Proactive cyber defense for governments and enterprises」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Proactive cyber defense for governments and enterprises」。这项研究关注「AI 动态：Proactive cyber defense for governments and enterprises」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-09-02-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber」。这条模型动态围绕「AI 动态：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber」。这条模型动态围绕「AI 动态：Introducing Gemini 3.8 Flash and 3.8 Flash Cyber」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-09-02-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Real-Time Intelligence with IBM Time Series Models on Confluent",
+      "summary": "Hugging Face 博客发布了「AI 动态：Real-Time Intelligence with IBM Time Series Models on Confluent」。这条模型动态围绕「AI 动态：Real-Time Intelligence with IBM Time Series Models on Confluent」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Real-Time Intelligence with IBM Time Series Models on Confluent」。这条模型动态围绕「AI 动态：Real-Time Intelligence with IBM Time Series Models on Confluent」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-09-02-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "OpenAI 新闻发布了「AI 动态：ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT」。这条模型动态围绕「AI 动态：ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT」。这条模型动态围绕「AI 动态：ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-02-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models」。这项研究关注「AI 动态：HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models」。这项研究关注「AI 动态：HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.00002",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-02-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models",
+      "summary": "arXiv cs.AI发布了「AI 动态：I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models」。这项研究关注「AI 动态：I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models」。这项研究关注「AI 动态：I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.00003",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-02-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing",
+      "summary": "arXiv cs.AI发布了「AI 动态：Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing」。这条政策动态围绕「AI 动态：Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing」。这条政策动态围绕「AI 动态：Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.00004",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-02-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models」。这条政策动态围绕「AI 动态：Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models」。这条政策动态围绕「AI 动态：Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.00005",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
