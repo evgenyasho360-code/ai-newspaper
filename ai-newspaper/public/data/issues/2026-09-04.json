@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-04",
+  "date": "2026-09-04",
+  "weekday": "星期五",
+  "issueNo": "20260904",
+  "updatedAt": "09:13",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Daybreak for Frontline Defenders: $1B to protect essential services",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Hcompany/neomme"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.01611"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-03-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing WeatherNext 3, our most advanced and accurate global weather AI model」。这条模型动态围绕「AI 动态：Introducing WeatherNext 3, our most advanced and accurate global weather AI model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing WeatherNext 3, our most advanced and accurate global weather AI model」。这条模型动态围绕「AI 动态：Introducing WeatherNext 3, our most advanced and accurate global weather AI model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-09-03-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary": "OpenAI 新闻发布了「AI 动态：Daybreak for Frontline Defenders: $1B to protect essential services」。这条模型动态围绕「AI 动态：Daybreak for Frontline Defenders: $1B to protect essential services」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Daybreak for Frontline Defenders: $1B to protect essential services」。这条模型动态围绕「AI 动态：Daybreak for Frontline Defenders: $1B to protect essential services」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-03-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "summary": "Hugging Face 博客发布了「AI 动态：NeoMME: an efficient Multimodal-native and Multilingual Encoder」。这条模型动态围绕「AI 动态：NeoMME: an efficient Multimodal-native and Multilingual Encoder」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：NeoMME: an efficient Multimodal-native and Multilingual Encoder」。这条模型动态围绕「AI 动态：NeoMME: an efficient Multimodal-native and Multilingual Encoder」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Hcompany/neomme",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-09-03-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary": "OpenAI 新闻发布了「AI 动态：Legora reviewed 41 documents in minutes with GPT-6 Astra」。这条模型动态围绕「AI 动态：Legora reviewed 41 documents in minutes with GPT-6 Astra」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Legora reviewed 41 documents in minutes with GPT-6 Astra」。这条模型动态围绕「AI 动态：Legora reviewed 41 documents in minutes with GPT-6 Astra」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-03-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary": "OpenAI 新闻发布了「AI 动态：Playco cut manual fixes 50% prototyping games with GPT-6 Astra」。这条模型动态围绕「AI 动态：Playco cut manual fixes 50% prototyping games with GPT-6 Astra」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Playco cut manual fixes 50% prototyping games with GPT-6 Astra」。这条模型动态围绕「AI 动态：Playco cut manual fixes 50% prototyping games with GPT-6 Astra」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-03-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+      "summary": "arXiv cs.AI发布了「AI 动态：EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models」。这条政策动态围绕「AI 动态：EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models」。这条政策动态围绕「AI 动态：EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.01611",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-03-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "summary": "arXiv cs.AI发布了「AI 动态：Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI」。这项研究关注「AI 动态：Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI」。这项研究关注「AI 动态：Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-03-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+      "summary": "arXiv cs.AI发布了「AI 动态：When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic」。这条政策动态围绕「AI 动态：When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic」。这条政策动态围绕「AI 动态：When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.01741",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
