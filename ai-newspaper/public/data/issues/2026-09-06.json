@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-06",
+  "date": "2026-09-06",
+  "weekday": "星期日",
+  "issueNo": "20260906",
+  "updatedAt": "09:16",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04203v1"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04202v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04201v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Principia: Relational Physics Tests for Video Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04200v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04199v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04198v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-03-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+      "summary": "arXiv发布了「AI 动态：Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision」。这条模型动态围绕「AI 动态：Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision」。这条模型动态围绕「AI 动态：Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04203v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-03-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+      "summary": "arXiv发布了「AI 动态：TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation」。这项研究关注「AI 动态：TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation」。这项研究关注「AI 动态：TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04202v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-03-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "summary": "arXiv发布了「AI 动态：Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction」。这条模型动态围绕「AI 动态：Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction」。这条模型动态围绕「AI 动态：Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04201v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-03-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Principia: Relational Physics Tests for Video Models",
+      "summary": "arXiv发布了「AI 动态：Principia: Relational Physics Tests for Video Models」。这条政策动态围绕「AI 动态：Principia: Relational Physics Tests for Video Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Principia: Relational Physics Tests for Video Models」。这条政策动态围绕「AI 动态：Principia: Relational Physics Tests for Video Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04200v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-03-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "summary": "arXiv发布了「AI 动态：Compile by Training: Turning Natural-Language Specifications into Local Neural Functions」。这条模型动态围绕「AI 动态：Compile by Training: Turning Natural-Language Specifications into Local Neural Functions」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Compile by Training: Turning Natural-Language Specifications into Local Neural Functions」。这条模型动态围绕「AI 动态：Compile by Training: Turning Natural-Language Specifications into Local Neural Functions」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04199v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-03-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+      "summary": "arXiv发布了「AI 动态：Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints」。这项研究关注「AI 动态：Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints」。这项研究关注「AI 动态：Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04198v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-03-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+      "summary": "arXiv发布了「AI 动态：ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize」。这项研究关注「AI 动态：ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize」。这项研究关注「AI 动态：ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04197v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-03-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "summary": "arXiv发布了「AI 动态：Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States」。这项研究关注「AI 动态：Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States」。这项研究关注「AI 动态：Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.04196v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
