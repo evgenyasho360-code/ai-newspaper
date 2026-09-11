@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-11",
+  "date": "2026-09-11",
+  "weekday": "星期五",
+  "issueNo": "20260911",
+  "updatedAt": "09:22",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Now everyone can put data to work",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/put-data-to-work"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11650v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11648v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11642v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11639v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-10-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "OpenAI 新闻发布了「AI 动态：How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules」。这条模型动态围绕「AI 动态：How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules」。这条模型动态围绕「AI 动态：How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-10-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Now everyone can put data to work",
+      "summary": "OpenAI 新闻发布了「AI 动态：Now everyone can put data to work」。这条模型动态围绕「AI 动态：Now everyone can put data to work」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Now everyone can put data to work」。这条模型动态围绕「AI 动态：Now everyone can put data to work」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/put-data-to-work",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-10-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits",
+      "summary": "arXiv发布了「AI 动态：Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits」。这条模型动态围绕「AI 动态：Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits」。这条模型动态围绕「AI 动态：Self-Supervised Cardiac Phase Detection via Single-Parameter Latent Orbits」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11650v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-10-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation",
+      "summary": "arXiv发布了「AI 动态：RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation」。这项研究关注「AI 动态：RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation」。这项研究关注「AI 动态：RDDMPI: Residual Denoising Diffusion Model for Probabilistic Multivariate Time Series Imputation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11648v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-10-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding",
+      "summary": "arXiv发布了「AI 动态：ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding」。这项研究关注「AI 动态：ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding」。这项研究关注「AI 动态：ZipCodec: Ultra-Low-Frame-Rate Streaming Speech Coding」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11642v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-10-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics",
+      "summary": "arXiv发布了「AI 动态：LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics」。这项研究关注「AI 动态：LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics」。这项研究关注「AI 动态：LoaDiff: Conditional Generation of Electricity Consumption Time Series for Energy Analytics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11639v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-10-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
+      "summary": "arXiv发布了「AI 动态：Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation」。这条模型动态围绕「AI 动态：Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation」。这条模型动态围绕「AI 动态：Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11638v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-10-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：MAPLE: Memory-Augmented Planning with Language and Evolution",
+      "summary": "arXiv发布了「AI 动态：MAPLE: Memory-Augmented Planning with Language and Evolution」。这项研究关注「AI 动态：MAPLE: Memory-Augmented Planning with Language and Evolution」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：MAPLE: Memory-Augmented Planning with Language and Evolution」。这项研究关注「AI 动态：MAPLE: Memory-Augmented Planning with Language and Evolution」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.11636v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
