@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-12",
+  "date": "2026-09-12",
+  "weekday": "星期六",
+  "issueNo": "20260912",
+  "updatedAt": "09:25",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Cognition helps Devin test its own work with GPT‑6 Astra",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09203"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09226"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09233"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09306"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-11-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary": "OpenAI 新闻发布了「AI 动态：Cognition helps Devin test its own work with GPT‑6 Astra」。这条模型动态围绕「AI 动态：Cognition helps Devin test its own work with GPT‑6 Astra」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Cognition helps Devin test its own work with GPT‑6 Astra」。这条模型动态围绕「AI 动态：Cognition helps Devin test its own work with GPT‑6 Astra」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-11-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "OpenAI 新闻发布了「AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users」。这条产品动态聚焦「AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users」。这条产品动态聚焦「AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-11-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+      "summary": "arXiv cs.AI发布了「AI 动态：OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows」。这条政策动态围绕「AI 动态：OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows」。这条政策动态围绕「AI 动态：OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09203",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-11-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Adaptive Entangled Game Modules in Artificial General Intelligence",
+      "summary": "arXiv cs.AI发布了「AI 动态：Adaptive Entangled Game Modules in Artificial General Intelligence」。这项研究关注「AI 动态：Adaptive Entangled Game Modules in Artificial General Intelligence」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Adaptive Entangled Game Modules in Artificial General Intelligence」。这项研究关注「AI 动态：Adaptive Entangled Game Modules in Artificial General Intelligence」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09226",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-11-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks",
+      "summary": "arXiv cs.AI发布了「AI 动态：Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks」。这项研究关注「AI 动态：Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks」。这项研究关注「AI 动态：Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09233",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-11-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions",
+      "summary": "arXiv cs.AI发布了「AI 动态：Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions」。这项研究关注「AI 动态：Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions」。这项研究关注「AI 动态：Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09306",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-11-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：An Autonomous GeoAI Agent for Arctic Eco-Navigation",
+      "summary": "arXiv cs.AI发布了「AI 动态：An Autonomous GeoAI Agent for Arctic Eco-Navigation」。这条政策动态围绕「AI 动态：An Autonomous GeoAI Agent for Arctic Eco-Navigation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：An Autonomous GeoAI Agent for Arctic Eco-Navigation」。这条政策动态围绕「AI 动态：An Autonomous GeoAI Agent for Arctic Eco-Navigation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09374",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-11-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents",
+      "summary": "arXiv cs.AI发布了「AI 动态：The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents」。这条政策动态围绕「AI 动态：The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents」。这条政策动态围绕「AI 动态：The Menu Is an Execution Prior: State-Path Tool Menus for Online Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.09395",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
