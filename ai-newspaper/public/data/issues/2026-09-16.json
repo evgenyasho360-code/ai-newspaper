@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-16",
+  "date": "2026-09-16",
+  "weekday": "星期三",
+  "issueNo": "20260916",
+  "updatedAt": "09:33",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Your Agent Aced the Task. Will It Do It Again?",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \\&amp; Maintenance",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17124v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17123v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：An Empirical Study of Counterfactual Self-Explanations in LLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17119v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17115v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-15-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking」。这条模型动态围绕「AI 动态：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking」。这条模型动态围绕「AI 动态：Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-09-15-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "Hugging Face 博客发布了「AI 动态：Your Agent Aced the Task. Will It Do It Again?」。这条模型动态围绕「AI 动态：Your Agent Aced the Task. Will It Do It Again?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Your Agent Aced the Task. Will It Do It Again?」。这条模型动态围绕「AI 动态：Your Agent Aced the Task. Will It Do It Again?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-09-15-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \\&amp; Maintenance",
+      "summary": "arXiv发布了「AI 动态：LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \\&amp; Maintenance」。这项研究关注「AI 动态：LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \\&amp; Maintenance」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \\&amp; Maintenance」。这项研究关注「AI 动态：LOTUSim-Energy: A Maritime Simulator for Human-Drone Interaction in Autonomous Offshore Operation \\&amp; Maintenance」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17124v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-15-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
+      "summary": "arXiv发布了「AI 动态：AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET」。这项研究关注「AI 动态：AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET」。这项研究关注「AI 动态：AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17123v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-15-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：An Empirical Study of Counterfactual Self-Explanations in LLMs",
+      "summary": "arXiv发布了「AI 动态：An Empirical Study of Counterfactual Self-Explanations in LLMs」。这条模型动态围绕「AI 动态：An Empirical Study of Counterfactual Self-Explanations in LLMs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：An Empirical Study of Counterfactual Self-Explanations in LLMs」。这条模型动态围绕「AI 动态：An Empirical Study of Counterfactual Self-Explanations in LLMs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17119v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-15-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement",
+      "summary": "arXiv发布了「AI 动态：Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement」。这条政策动态围绕「AI 动态：Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement」。这条政策动态围绕「AI 动态：Intrinsic Robot Rewarding: Reusing VLA Representations for Autonomous Evaluation and Policy Improvement」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17115v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-15-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Not Another Text Benchmark: Putting the \"Visual\" Back in Visual Question Answering for Large Video Models",
+      "summary": "arXiv发布了「AI 动态：Not Another Text Benchmark: Putting the \"Visual\" Back in Visual Question Answering for Large Video Models」。这项研究关注「AI 动态：Not Another Text Benchmark: Putting the \"Visual\" Back in Visual Question Answering for Large Video Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Not Another Text Benchmark: Putting the \"Visual\" Back in Visual Question Answering for Large Video Models」。这项研究关注「AI 动态：Not Another Text Benchmark: Putting the \"Visual\" Back in Visual Question Answering for Large Video Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17112v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-15-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs",
+      "summary": "arXiv发布了「AI 动态：Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs」。这条模型动态围绕「AI 动态：Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs」。这条模型动态围绕「AI 动态：Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.17111v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
