@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-17",
+  "date": "2026-09-17",
+  "weekday": "星期四",
+  "issueNo": "20260917",
+  "updatedAt": "09:38",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Our framework for reporting model misalignment",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Helping older adults use AI in everyday life",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Revisiting Distributed Sign-Based Variance Reduction",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18656v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Learning to Program Adaptive Non-Local Observables for Machine Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18655v1"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18651v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18650v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-16-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Our framework for reporting model misalignment",
+      "summary": "OpenAI 新闻发布了「AI 动态：Our framework for reporting model misalignment」。这条模型动态围绕「AI 动态：Our framework for reporting model misalignment」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Our framework for reporting model misalignment」。这条模型动态围绕「AI 动态：Our framework for reporting model misalignment」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-16-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Helping older adults use AI in everyday life",
+      "summary": "OpenAI 新闻发布了「AI 动态：Helping older adults use AI in everyday life」。这条模型动态围绕「AI 动态：Helping older adults use AI in everyday life」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Helping older adults use AI in everyday life」。这条模型动态围绕「AI 动态：Helping older adults use AI in everyday life」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-16-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Revisiting Distributed Sign-Based Variance Reduction",
+      "summary": "arXiv发布了「AI 动态：Revisiting Distributed Sign-Based Variance Reduction」。这项研究关注「AI 动态：Revisiting Distributed Sign-Based Variance Reduction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Revisiting Distributed Sign-Based Variance Reduction」。这项研究关注「AI 动态：Revisiting Distributed Sign-Based Variance Reduction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18656v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-16-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Learning to Program Adaptive Non-Local Observables for Machine Learning",
+      "summary": "arXiv发布了「AI 动态：Learning to Program Adaptive Non-Local Observables for Machine Learning」。这项研究关注「AI 动态：Learning to Program Adaptive Non-Local Observables for Machine Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Learning to Program Adaptive Non-Local Observables for Machine Learning」。这项研究关注「AI 动态：Learning to Program Adaptive Non-Local Observables for Machine Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18655v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-16-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback",
+      "summary": "arXiv发布了「AI 动态：FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback」。这条政策动态围绕「AI 动态：FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback」。这条政策动态围绕「AI 动态：FIERCE: From Generalist Robot Policies to Fast Specialists via Progress-Failure Feedback」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18651v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-16-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction",
+      "summary": "arXiv发布了「AI 动态：From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction」。这条政策动态围绕「AI 动态：From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction」。这条政策动态围绕「AI 动态：From Gameplay to Policy: Towards Scalable Robot Data Collection via Gamified Robot-Free Interaction」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18650v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-16-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions",
+      "summary": "arXiv发布了「AI 动态：DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions」。这条政策动态围绕「AI 动态：DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions」。这条政策动态围绕「AI 动态：DyMT-ESB: Dynamic Multi-Turn Evaluation of Social Bias in User-LLM Interactions」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18649v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-16-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection",
+      "summary": "arXiv发布了「AI 动态：Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection」。这条模型动态围绕「AI 动态：Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection」。这条模型动态围绕「AI 动态：Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.18644v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
