@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-18",
+  "date": "2026-09-18",
+  "weekday": "星期五",
+  "issueNo": "20260918",
+  "updatedAt": "09:24",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20377v1"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Accelerating Sharded Data Parallelism at Scale with Federated Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20359v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20358v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20353v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：COMPASS: Ordered Clustered Routing at 100K Scale",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20352v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：A Qualitative Model for Reasoning about Path and Support",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20349v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-17-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving",
+      "summary": "arXiv发布了「AI 动态：MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving」。这项研究关注「AI 动态：MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving」。这项研究关注「AI 动态：MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20377v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Accelerating Sharded Data Parallelism at Scale with Federated Learning",
+      "summary": "arXiv发布了「AI 动态：Accelerating Sharded Data Parallelism at Scale with Federated Learning」。这项研究关注「AI 动态：Accelerating Sharded Data Parallelism at Scale with Federated Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Accelerating Sharded Data Parallelism at Scale with Federated Learning」。这项研究关注「AI 动态：Accelerating Sharded Data Parallelism at Scale with Federated Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20359v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model",
+      "summary": "arXiv发布了「AI 动态：Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model」。这条模型动态围绕「AI 动态：Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model」。这条模型动态围绕「AI 动态：Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20358v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts",
+      "summary": "arXiv发布了「AI 动态：Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts」。这条政策动态围绕「AI 动态：Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts」。这条政策动态围绕「AI 动态：Minimax-Optimal Online Contract Design with Unrestricted Bounded Contracts」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20353v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：COMPASS: Ordered Clustered Routing at 100K Scale",
+      "summary": "arXiv发布了「AI 动态：COMPASS: Ordered Clustered Routing at 100K Scale」。这项研究关注「AI 动态：COMPASS: Ordered Clustered Routing at 100K Scale」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：COMPASS: Ordered Clustered Routing at 100K Scale」。这项研究关注「AI 动态：COMPASS: Ordered Clustered Routing at 100K Scale」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20352v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：A Qualitative Model for Reasoning about Path and Support",
+      "summary": "arXiv发布了「AI 动态：A Qualitative Model for Reasoning about Path and Support」。这项研究关注「AI 动态：A Qualitative Model for Reasoning about Path and Support」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：A Qualitative Model for Reasoning about Path and Support」。这项研究关注「AI 动态：A Qualitative Model for Reasoning about Path and Support」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20349v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-7",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute",
+      "summary": "arXiv发布了「AI 动态：EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute」。这条资本动态聚焦「AI 动态：EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute」。这条资本动态聚焦「AI 动态：EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20348v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks",
+      "summary": "arXiv发布了「AI 动态：STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks」。这条政策动态围绕「AI 动态：STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks」。这条政策动态围绕「AI 动态：STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20347v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    }
+  ]
+}
