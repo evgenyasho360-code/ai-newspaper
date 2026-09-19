@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-19",
+  "date": "2026-09-19",
+  "weekday": "星期六",
+  "issueNo": "20260919",
+  "updatedAt": "09:27",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "政策",
+      "title": "AI 动态：Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19170"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19180"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19182"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19203"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19212"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19244"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-18-1",
+      "category": "政策",
+      "priority": "lead",
+      "title": "AI 动态：Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+      "summary": "arXiv cs.AI发布了「AI 动态：Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes」。这条政策动态围绕「AI 动态：Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes」。这条政策动态围绕「AI 动态：Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19170",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-18-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research",
+      "summary": "arXiv cs.AI发布了「AI 动态：BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research」。这项研究关注「AI 动态：BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research」。这项研究关注「AI 动态：BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19180",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-18-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks",
+      "summary": "arXiv cs.AI发布了「AI 动态：What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks」。这项研究关注「AI 动态：What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks」。这项研究关注「AI 动态：What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19182",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-18-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer",
+      "summary": "arXiv cs.AI发布了「AI 动态：Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer」。这条政策动态围绕「AI 动态：Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer」。这条政策动态围绕「AI 动态：Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19203",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-18-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis",
+      "summary": "arXiv cs.AI发布了「AI 动态：What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis」。这项研究关注「AI 动态：What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis」。这项研究关注「AI 动态：What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19212",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-18-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses",
+      "summary": "arXiv cs.AI发布了「AI 动态：Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses」。这项研究关注「AI 动态：Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses」。这项研究关注「AI 动态：Characterizing Web Search by Conversational LLM Agents: From Search Decisions and Strategies to Results and Responses」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19244",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-18-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Do AI Agents Understand Computer Architecture?",
+      "summary": "arXiv cs.AI发布了「AI 动态：Do AI Agents Understand Computer Architecture?」。这项研究关注「AI 动态：Do AI Agents Understand Computer Architecture?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Do AI Agents Understand Computer Architecture?」。这项研究关注「AI 动态：Do AI Agents Understand Computer Architecture?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19387",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-09-18-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs",
+      "summary": "arXiv cs.AI发布了「AI 动态：MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs」。这条政策动态围绕「AI 动态：MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs」。这条政策动态围绕「AI 动态：MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2609.19391",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
