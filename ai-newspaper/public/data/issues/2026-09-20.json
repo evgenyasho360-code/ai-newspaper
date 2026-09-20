@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-20",
+  "date": "2026-09-20",
+  "weekday": "星期日",
+  "issueNo": "20260920",
+  "updatedAt": "09:28",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "政策",
+      "title": "AI 动态：Introducing the Australian Youth Safety Blueprint",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20822v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Embedding Models Measure in Peculiar Ways",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20821v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20820v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Can 4D Foundation Models Remember?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20819v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20818v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-18-1",
+      "category": "政策",
+      "priority": "lead",
+      "title": "AI 动态：Introducing the Australian Youth Safety Blueprint",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing the Australian Youth Safety Blueprint」。这条政策动态围绕「AI 动态：Introducing the Australian Youth Safety Blueprint」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing the Australian Youth Safety Blueprint」。这条政策动态围绕「AI 动态：Introducing the Australian Youth Safety Blueprint」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-17-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "summary": "arXiv发布了「AI 动态：Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation」。这条政策动态围绕「AI 动态：Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation」。这条政策动态围绕「AI 动态：Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20822v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Embedding Models Measure in Peculiar Ways",
+      "summary": "arXiv发布了「AI 动态：Embedding Models Measure in Peculiar Ways」。这条模型动态围绕「AI 动态：Embedding Models Measure in Peculiar Ways」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Embedding Models Measure in Peculiar Ways」。这条模型动态围绕「AI 动态：Embedding Models Measure in Peculiar Ways」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20821v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "summary": "arXiv发布了「AI 动态：Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision」。这条政策动态围绕「AI 动态：Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision」。这条政策动态围绕「AI 动态：Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20820v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Can 4D Foundation Models Remember?",
+      "summary": "arXiv发布了「AI 动态：Can 4D Foundation Models Remember?」。这项研究关注「AI 动态：Can 4D Foundation Models Remember?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Can 4D Foundation Models Remember?」。这项研究关注「AI 动态：Can 4D Foundation Models Remember?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20819v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "summary": "arXiv发布了「AI 动态：SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos」。这项研究关注「AI 动态：SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos」。这项研究关注「AI 动态：SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20818v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "summary": "arXiv发布了「AI 动态：FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations」。这条模型动态围绕「AI 动态：FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations」。这条模型动态围绕「AI 动态：FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20817v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-17-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "summary": "arXiv发布了「AI 动态：Paint-Anything: Unified Any-Color Control for Image Generation and Editing」。这项研究关注「AI 动态：Paint-Anything: Unified Any-Color Control for Image Generation and Editing」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Paint-Anything: Unified Any-Color Control for Image Generation and Editing」。这项研究关注「AI 动态：Paint-Anything: Unified Any-Color Control for Image Generation and Editing」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.20816v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
