@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-21",
+  "date": "2026-09-21",
+  "weekday": "星期一",
+  "issueNo": "20260921",
+  "updatedAt": "09:26",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Morphology-Aware Ambiguity Learning for Wafer Defect Decision Support",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21866v1"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：AutoRecLab: Describe the Experiment, Get the Code!",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21863v1"
+    },
+    {
+      "time": "08:15",
+      "category": "资本",
+      "title": "AI 动态：TrialAtlas: Multi-Agent Research Organization for Clinical Trial Design and Optimization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21859v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Watermarkable Multi-Draft Speculative Sampling via Poisson Processes",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21858v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Do Personality-Tuned LLMs Make Better Social Agents?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21857v1"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：The Weight Is Over - Interactive Diffusion on Consumer GPUs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21849v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-18-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Morphology-Aware Ambiguity Learning for Wafer Defect Decision Support",
+      "summary": "arXiv发布了「AI 动态：Morphology-Aware Ambiguity Learning for Wafer Defect Decision Support」。这项研究关注「AI 动态：Morphology-Aware Ambiguity Learning for Wafer Defect Decision Support」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Morphology-Aware Ambiguity Learning for Wafer Defect Decision Support」。这项研究关注「AI 动态：Morphology-Aware Ambiguity Learning for Wafer Defect Decision Support」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21866v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-18-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：AutoRecLab: Describe the Experiment, Get the Code!",
+      "summary": "arXiv发布了「AI 动态：AutoRecLab: Describe the Experiment, Get the Code!」。这项研究关注「AI 动态：AutoRecLab: Describe the Experiment, Get the Code!」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：AutoRecLab: Describe the Experiment, Get the Code!」。这项研究关注「AI 动态：AutoRecLab: Describe the Experiment, Get the Code!」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21863v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-18-3",
+      "category": "资本",
+      "priority": "feature",
+      "title": "AI 动态：TrialAtlas: Multi-Agent Research Organization for Clinical Trial Design and Optimization",
+      "summary": "arXiv发布了「AI 动态：TrialAtlas: Multi-Agent Research Organization for Clinical Trial Design and Optimization」。这条资本动态聚焦「AI 动态：TrialAtlas: Multi-Agent Research Organization for Clinical Trial Design and Optimization」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：TrialAtlas: Multi-Agent Research Organization for Clinical Trial Design and Optimization」。这条资本动态聚焦「AI 动态：TrialAtlas: Multi-Agent Research Organization for Clinical Trial Design and Optimization」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21859v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-18-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Watermarkable Multi-Draft Speculative Sampling via Poisson Processes",
+      "summary": "arXiv发布了「AI 动态：Watermarkable Multi-Draft Speculative Sampling via Poisson Processes」。这条模型动态围绕「AI 动态：Watermarkable Multi-Draft Speculative Sampling via Poisson Processes」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Watermarkable Multi-Draft Speculative Sampling via Poisson Processes」。这条模型动态围绕「AI 动态：Watermarkable Multi-Draft Speculative Sampling via Poisson Processes」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21858v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-18-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Do Personality-Tuned LLMs Make Better Social Agents?",
+      "summary": "arXiv发布了「AI 动态：Do Personality-Tuned LLMs Make Better Social Agents?」。这条模型动态围绕「AI 动态：Do Personality-Tuned LLMs Make Better Social Agents?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Do Personality-Tuned LLMs Make Better Social Agents?」。这条模型动态围绕「AI 动态：Do Personality-Tuned LLMs Make Better Social Agents?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21857v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-18-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：The Weight Is Over - Interactive Diffusion on Consumer GPUs",
+      "summary": "arXiv发布了「AI 动态：The Weight Is Over - Interactive Diffusion on Consumer GPUs」。这条模型动态围绕「AI 动态：The Weight Is Over - Interactive Diffusion on Consumer GPUs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：The Weight Is Over - Interactive Diffusion on Consumer GPUs」。这条模型动态围绕「AI 动态：The Weight Is Over - Interactive Diffusion on Consumer GPUs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21849v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-18-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts",
+      "summary": "arXiv发布了「AI 动态：Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts」。这项研究关注「AI 动态：Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts」。这项研究关注「AI 动态：Reusing Latent Speech Representations for Query-Conditioned Topic Localization in Transcripts」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21844v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-18-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+      "summary": "arXiv发布了「AI 动态：EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise」。这项研究关注「AI 动态：EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise」。这项研究关注「AI 动态：EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.21841v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
