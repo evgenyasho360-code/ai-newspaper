@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-23",
+  "date": "2026-09-23",
+  "weekday": "星期三",
+  "issueNo": "20260923",
+  "updatedAt": "09:41",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Better prompt caching for GPT-6",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Introducing GPT-6 Sol and Luna",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26402v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Combining Hierarchical Cognitive Process with Process Supervision for Interpretable Scene Safety Understanding",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26399v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Double Descent and Malign Overfitting in Diffusion Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26392v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：TimeInteract: Towards Real-Time Interactive Intelligence for Streaming Time Series",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26389v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-22-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Better prompt caching for GPT-6",
+      "summary": "OpenAI 新闻发布了「AI 动态：Better prompt caching for GPT-6」。这条模型动态围绕「AI 动态：Better prompt caching for GPT-6」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Better prompt caching for GPT-6」。这条模型动态围绕「AI 动态：Better prompt caching for GPT-6」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-22-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing GPT-6 Sol and Luna",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing GPT-6 Sol and Luna」。这条模型动态围绕「AI 动态：Introducing GPT-6 Sol and Luna」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing GPT-6 Sol and Luna」。这条模型动态围绕「AI 动态：Introducing GPT-6 Sol and Luna」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-22-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery",
+      "summary": "arXiv发布了「AI 动态：OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery」。这项研究关注「AI 动态：OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery」。这项研究关注「AI 动态：OMatG-flash: An All-Atom Flow Map with Reinforce Adjoint Matching for Scalable Materials Discovery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26402v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-22-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Combining Hierarchical Cognitive Process with Process Supervision for Interpretable Scene Safety Understanding",
+      "summary": "arXiv发布了「AI 动态：Combining Hierarchical Cognitive Process with Process Supervision for Interpretable Scene Safety Understanding」。这条政策动态围绕「AI 动态：Combining Hierarchical Cognitive Process with Process Supervision for Interpretable Scene Safety Understanding」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Combining Hierarchical Cognitive Process with Process Supervision for Interpretable Scene Safety Understanding」。这条政策动态围绕「AI 动态：Combining Hierarchical Cognitive Process with Process Supervision for Interpretable Scene Safety Understanding」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26399v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-22-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Double Descent and Malign Overfitting in Diffusion Models",
+      "summary": "arXiv发布了「AI 动态：Double Descent and Malign Overfitting in Diffusion Models」。这条模型动态围绕「AI 动态：Double Descent and Malign Overfitting in Diffusion Models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Double Descent and Malign Overfitting in Diffusion Models」。这条模型动态围绕「AI 动态：Double Descent and Malign Overfitting in Diffusion Models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26392v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-22-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：TimeInteract: Towards Real-Time Interactive Intelligence for Streaming Time Series",
+      "summary": "arXiv发布了「AI 动态：TimeInteract: Towards Real-Time Interactive Intelligence for Streaming Time Series」。这项研究关注「AI 动态：TimeInteract: Towards Real-Time Interactive Intelligence for Streaming Time Series」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：TimeInteract: Towards Real-Time Interactive Intelligence for Streaming Time Series」。这项研究关注「AI 动态：TimeInteract: Towards Real-Time Interactive Intelligence for Streaming Time Series」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26389v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-22-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：On the Lexical Superstition of Large Language Models for Code Comprehension: Re-evaluation on Code of Low Lexical Quality",
+      "summary": "arXiv发布了「AI 动态：On the Lexical Superstition of Large Language Models for Code Comprehension: Re-evaluation on Code of Low Lexical Quality」。这项研究关注「AI 动态：On the Lexical Superstition of Large Language Models for Code Comprehension: Re-evaluation on Code of Low Lexical Quality」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：On the Lexical Superstition of Large Language Models for Code Comprehension: Re-evaluation on Code of Low Lexical Quality」。这项研究关注「AI 动态：On the Lexical Superstition of Large Language Models for Code Comprehension: Re-evaluation on Code of Low Lexical Quality」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26388v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-22-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Learning to Defer with Guidance on Real World Medical Data",
+      "summary": "arXiv发布了「AI 动态：Learning to Defer with Guidance on Real World Medical Data」。这条政策动态围绕「AI 动态：Learning to Defer with Guidance on Real World Medical Data」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Learning to Defer with Guidance on Real World Medical Data」。这条政策动态围绕「AI 动态：Learning to Defer with Guidance on Real World Medical Data」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.26384v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    }
+  ]
+}
