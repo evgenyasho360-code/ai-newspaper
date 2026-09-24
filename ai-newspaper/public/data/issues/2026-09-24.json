@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-24",
+  "date": "2026-09-24",
+  "weekday": "星期四",
+  "issueNo": "20260924",
+  "updatedAt": "09:36",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Advancing Private AI Compute with secure, server-side memory",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Two years of OpenAI Academy",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/two-years-of-openai-academy"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Gemini 3.8 text-to-speech says hello",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：OpenAI extends cyber access to Ukraine for civilian defense",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：Improving Ensemble Filters with Flow Matching",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.28015v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-23-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "summary": "Hugging Face 博客发布了「AI 动态：How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows」。这条产品动态聚焦「AI 动态：How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows」。这条产品动态聚焦「AI 动态：How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-09-23-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Advancing Private AI Compute with secure, server-side memory",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Advancing Private AI Compute with secure, server-side memory」。这项研究关注「AI 动态：Advancing Private AI Compute with secure, server-side memory」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Advancing Private AI Compute with secure, server-side memory」。这项研究关注「AI 动态：Advancing Private AI Compute with secure, server-side memory」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-09-23-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Two years of OpenAI Academy",
+      "summary": "OpenAI 新闻发布了「AI 动态：Two years of OpenAI Academy」。这条模型动态围绕「AI 动态：Two years of OpenAI Academy」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Two years of OpenAI Academy」。这条模型动态围绕「AI 动态：Two years of OpenAI Academy」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-23-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Gemini 3.8 text-to-speech says hello",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Gemini 3.8 text-to-speech says hello」。这条模型动态围绕「AI 动态：Gemini 3.8 text-to-speech says hello」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Gemini 3.8 text-to-speech says hello」。这条模型动态围绕「AI 动态：Gemini 3.8 text-to-speech says hello」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-09-23-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI 新闻发布了「AI 动态：OpenAI extends cyber access to Ukraine for civilian defense」。这条模型动态围绕「AI 动态：OpenAI extends cyber access to Ukraine for civilian defense」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：OpenAI extends cyber access to Ukraine for civilian defense」。这条模型动态围绕「AI 动态：OpenAI extends cyber access to Ukraine for civilian defense」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-23-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Improving Ensemble Filters with Flow Matching",
+      "summary": "arXiv发布了「AI 动态：Improving Ensemble Filters with Flow Matching」。这条模型动态围绕「AI 动态：Improving Ensemble Filters with Flow Matching」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Improving Ensemble Filters with Flow Matching」。这条模型动态围绕「AI 动态：Improving Ensemble Filters with Flow Matching」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.28015v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-23-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials",
+      "summary": "arXiv发布了「AI 动态：SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials」。这项研究关注「AI 动态：SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials」。这项研究关注「AI 动态：SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.28013v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-23-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints",
+      "summary": "arXiv发布了「AI 动态：Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints」。这项研究关注「AI 动态：Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints」。这项研究关注「AI 动态：Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.28007v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
