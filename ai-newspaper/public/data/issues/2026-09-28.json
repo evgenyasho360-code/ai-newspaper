@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-28",
+  "date": "2026-09-28",
+  "weekday": "星期一",
+  "issueNo": "20260928",
+  "updatedAt": "09:55",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/proaction"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31371v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Equation discovery with Bayesian tree-adjoining grammars",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31368v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：OpenVAM: Open-World Visual Attention Modeling with VLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31364v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31363v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Programs-of-Layers in LLMs through the Lens of Cortical Areas",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31360v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-25-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary": "OpenAI 新闻发布了「AI 动态：Proaction boosts sales 60% and saves 75+ hours with Codex」。这条模型动态围绕「AI 动态：Proaction boosts sales 60% and saves 75+ hours with Codex」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Proaction boosts sales 60% and saves 75+ hours with Codex」。这条模型动态围绕「AI 动态：Proaction boosts sales 60% and saves 75+ hours with Codex」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/proaction",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-09-25-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness",
+      "summary": "arXiv发布了「AI 动态：Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness」。这项研究关注「AI 动态：Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness」。这项研究关注「AI 动态：Towards Understanding LLM-Based Log Anomaly Detection: An Empirical Study of Performance, Efficiency, and Robustness」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31371v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-25-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Equation discovery with Bayesian tree-adjoining grammars",
+      "summary": "arXiv发布了「AI 动态：Equation discovery with Bayesian tree-adjoining grammars」。这项研究关注「AI 动态：Equation discovery with Bayesian tree-adjoining grammars」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Equation discovery with Bayesian tree-adjoining grammars」。这项研究关注「AI 动态：Equation discovery with Bayesian tree-adjoining grammars」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31368v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-25-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：OpenVAM: Open-World Visual Attention Modeling with VLMs",
+      "summary": "arXiv发布了「AI 动态：OpenVAM: Open-World Visual Attention Modeling with VLMs」。这项研究关注「AI 动态：OpenVAM: Open-World Visual Attention Modeling with VLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：OpenVAM: Open-World Visual Attention Modeling with VLMs」。这项研究关注「AI 动态：OpenVAM: Open-World Visual Attention Modeling with VLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31364v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-25-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning",
+      "summary": "arXiv发布了「AI 动态：Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning」。这项研究关注「AI 动态：Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning」。这项研究关注「AI 动态：Brenier Meets Adversarial Training: Optimal Transport Geometry for Robust Learning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31363v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-25-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Programs-of-Layers in LLMs through the Lens of Cortical Areas",
+      "summary": "arXiv发布了「AI 动态：Programs-of-Layers in LLMs through the Lens of Cortical Areas」。这项研究关注「AI 动态：Programs-of-Layers in LLMs through the Lens of Cortical Areas」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Programs-of-Layers in LLMs through the Lens of Cortical Areas」。这项研究关注「AI 动态：Programs-of-Layers in LLMs through the Lens of Cortical Areas」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31360v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-25-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents",
+      "summary": "arXiv发布了「AI 动态：A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents」。这条政策动态围绕「AI 动态：A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents」。这条政策动态围绕「AI 动态：A Safety-Bounded SDC-to-MCP Gateway for Medical AI Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31358v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-25-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Transformer-based Monte Carlo Localization in Construction Meshes",
+      "summary": "arXiv发布了「AI 动态：Transformer-based Monte Carlo Localization in Construction Meshes」。这项研究关注「AI 动态：Transformer-based Monte Carlo Localization in Construction Meshes」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Transformer-based Monte Carlo Localization in Construction Meshes」。这项研究关注「AI 动态：Transformer-based Monte Carlo Localization in Construction Meshes」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.31357v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
