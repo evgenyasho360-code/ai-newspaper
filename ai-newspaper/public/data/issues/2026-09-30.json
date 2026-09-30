@@ -1,0 +1,181 @@
+{
+  "id": "2026-09-30",
+  "date": "2026-09-30",
+  "weekday": "星期三",
+  "issueNo": "20260930",
+  "updatedAt": "10:17",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Point2Part: Unified 3D Partitioning from Point Prompts",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38180v1"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：Skill-Space Shooting for Autonomous Robot Policy Improvement",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38178v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38177v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Breakdown of Local Denoising as Semantic Speciation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38176v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38173v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38172v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-29-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Point2Part: Unified 3D Partitioning from Point Prompts",
+      "summary": "arXiv发布了「AI 动态：Point2Part: Unified 3D Partitioning from Point Prompts」。这条模型动态围绕「AI 动态：Point2Part: Unified 3D Partitioning from Point Prompts」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Point2Part: Unified 3D Partitioning from Point Prompts」。这条模型动态围绕「AI 动态：Point2Part: Unified 3D Partitioning from Point Prompts」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38180v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-29-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Skill-Space Shooting for Autonomous Robot Policy Improvement",
+      "summary": "arXiv发布了「AI 动态：Skill-Space Shooting for Autonomous Robot Policy Improvement」。这条政策动态围绕「AI 动态：Skill-Space Shooting for Autonomous Robot Policy Improvement」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Skill-Space Shooting for Autonomous Robot Policy Improvement」。这条政策动态围绕「AI 动态：Skill-Space Shooting for Autonomous Robot Policy Improvement」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38178v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-29-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "summary": "arXiv发布了「AI 动态：Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering」。这条模型动态围绕「AI 动态：Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering」。这条模型动态围绕「AI 动态：Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38177v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-29-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Breakdown of Local Denoising as Semantic Speciation",
+      "summary": "arXiv发布了「AI 动态：Breakdown of Local Denoising as Semantic Speciation」。这条模型动态围绕「AI 动态：Breakdown of Local Denoising as Semantic Speciation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Breakdown of Local Denoising as Semantic Speciation」。这条模型动态围绕「AI 动态：Breakdown of Local Denoising as Semantic Speciation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38176v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-29-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
+      "summary": "arXiv发布了「AI 动态：In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks」。这项研究关注「AI 动态：In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks」。这项研究关注「AI 动态：In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38173v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-29-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+      "summary": "arXiv发布了「AI 动态：Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation」。这条政策动态围绕「AI 动态：Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation」。这条政策动态围绕「AI 动态：Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38172v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-29-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Adversarial Training for Pixel Diffusion",
+      "summary": "arXiv发布了「AI 动态：Adversarial Training for Pixel Diffusion」。这条政策动态围绕「AI 动态：Adversarial Training for Pixel Diffusion」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Adversarial Training for Pixel Diffusion」。这条政策动态围绕「AI 动态：Adversarial Training for Pixel Diffusion」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38170v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-29-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+      "summary": "arXiv发布了「AI 动态：STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization」。这条模型动态围绕「AI 动态：STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization」。这条模型动态围绕「AI 动态：STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.38169v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
