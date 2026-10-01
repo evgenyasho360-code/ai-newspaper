@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-01",
+  "date": "2026-10-01",
+  "weekday": "星期四",
+  "issueNo": "20261001",
+  "updatedAt": "10:18",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Gemini 4 Argon: our next era of frontier intelligence",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40362v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40361v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：Semifactual Credit-Augmented Policy Optimization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40360v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40359v1"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40358v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-09-30-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Gemini 4 Argon: our next era of frontier intelligence」。这条模型动态围绕「AI 动态：Gemini 4 Argon: our next era of frontier intelligence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Gemini 4 Argon: our next era of frontier intelligence」。这条模型动态围绕「AI 动态：Gemini 4 Argon: our next era of frontier intelligence」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-09-30-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+      "summary": "arXiv发布了「AI 动态：Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces」。这条模型动态围绕「AI 动态：Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces」。这条模型动态围绕「AI 动态：Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40362v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-30-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "summary": "arXiv发布了「AI 动态：Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis」。这项研究关注「AI 动态：Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis」。这项研究关注「AI 动态：Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40361v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-30-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Semifactual Credit-Augmented Policy Optimization",
+      "summary": "arXiv发布了「AI 动态：Semifactual Credit-Augmented Policy Optimization」。这条政策动态围绕「AI 动态：Semifactual Credit-Augmented Policy Optimization」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Semifactual Credit-Augmented Policy Optimization」。这条政策动态围绕「AI 动态：Semifactual Credit-Augmented Policy Optimization」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40360v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-30-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "summary": "arXiv发布了「AI 动态：Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text」。这项研究关注「AI 动态：Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text」。这项研究关注「AI 动态：Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40359v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-30-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+      "summary": "arXiv发布了「AI 动态：Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model」。这条模型动态围绕「AI 动态：Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model」。这条模型动态围绕「AI 动态：Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40358v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-30-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+      "summary": "arXiv发布了「AI 动态：ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing」。这项研究关注「AI 动态：ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing」。这项研究关注「AI 动态：ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40356v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-09-30-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
+      "summary": "arXiv发布了「AI 动态：AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents」。这条模型动态围绕「AI 动态：AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents」。这条模型动态围绕「AI 动态：AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2609.40353v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
