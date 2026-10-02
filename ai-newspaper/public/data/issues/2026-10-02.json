@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-02",
+  "date": "2026-10-02",
+  "weekday": "星期五",
+  "issueNo": "20261002",
+  "updatedAt": "10:30",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Moore, Escher, Penrose: A Conformal Golden Braid",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02210v1"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Sphere Encoder 2",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02208v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02207v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02206v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：ROWBench: Do Video Models Render What the Program Specifies?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02205v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02204v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-01-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Moore, Escher, Penrose: A Conformal Golden Braid",
+      "summary": "arXiv发布了「AI 动态：Moore, Escher, Penrose: A Conformal Golden Braid」。这条模型动态围绕「AI 动态：Moore, Escher, Penrose: A Conformal Golden Braid」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Moore, Escher, Penrose: A Conformal Golden Braid」。这条模型动态围绕「AI 动态：Moore, Escher, Penrose: A Conformal Golden Braid」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02210v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-01-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Sphere Encoder 2",
+      "summary": "arXiv发布了「AI 动态：Sphere Encoder 2」。这条模型动态围绕「AI 动态：Sphere Encoder 2」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Sphere Encoder 2」。这条模型动态围绕「AI 动态：Sphere Encoder 2」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02208v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-01-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "summary": "arXiv发布了「AI 动态：One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars」。这条模型动态围绕「AI 动态：One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars」。这条模型动态围绕「AI 动态：One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02207v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-01-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "summary": "arXiv发布了「AI 动态：KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards」。这项研究关注「AI 动态：KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards」。这项研究关注「AI 动态：KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02206v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-01-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ROWBench: Do Video Models Render What the Program Specifies?",
+      "summary": "arXiv发布了「AI 动态：ROWBench: Do Video Models Render What the Program Specifies?」。这项研究关注「AI 动态：ROWBench: Do Video Models Render What the Program Specifies?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：ROWBench: Do Video Models Render What the Program Specifies?」。这项研究关注「AI 动态：ROWBench: Do Video Models Render What the Program Specifies?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02205v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-01-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "summary": "arXiv发布了「AI 动态：Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents」。这项研究关注「AI 动态：Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents」。这项研究关注「AI 动态：Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02204v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-01-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Embedding Prediction Helps Image Generation",
+      "summary": "arXiv发布了「AI 动态：Embedding Prediction Helps Image Generation」。这条模型动态围绕「AI 动态：Embedding Prediction Helps Image Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Embedding Prediction Helps Image Generation」。这条模型动态围绕「AI 动态：Embedding Prediction Helps Image Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02203v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-01-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "summary": "arXiv发布了「AI 动态：ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research」。这项研究关注「AI 动态：ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research」。这项研究关注「AI 动态：ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.02202v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
