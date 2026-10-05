@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-05",
+  "date": "2026-10-05",
+  "weekday": "星期一",
+  "issueNo": "20261005",
+  "updatedAt": "10:17",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：The Agent Said It Was Done. The Database Disagreed.",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03717v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：MoSE3: Learning World-Space SE(3) at Every Pixel",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03716v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03715v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03713v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03712v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-03-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "Hugging Face 博客发布了「AI 动态：The Agent Said It Was Done. The Database Disagreed.」。这条模型动态围绕「AI 动态：The Agent Said It Was Done. The Database Disagreed.」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：The Agent Said It Was Done. The Database Disagreed.」。这条模型动态围绕「AI 动态：The Agent Said It Was Done. The Database Disagreed.」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-02-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "summary": "arXiv发布了「AI 动态：Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis」。这项研究关注「AI 动态：Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis」。这项研究关注「AI 动态：Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03717v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-02-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：MoSE3: Learning World-Space SE(3) at Every Pixel",
+      "summary": "arXiv发布了「AI 动态：MoSE3: Learning World-Space SE(3) at Every Pixel」。这项研究关注「AI 动态：MoSE3: Learning World-Space SE(3) at Every Pixel」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：MoSE3: Learning World-Space SE(3) at Every Pixel」。这项研究关注「AI 动态：MoSE3: Learning World-Space SE(3) at Every Pixel」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03716v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-02-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "summary": "arXiv发布了「AI 动态：4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes」。这项研究关注「AI 动态：4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes」。这项研究关注「AI 动态：4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03715v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-02-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "summary": "arXiv发布了「AI 动态：What Should World Models Forget? Stratified Retention for Continual Adaptation」。这条模型动态围绕「AI 动态：What Should World Models Forget? Stratified Retention for Continual Adaptation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：What Should World Models Forget? Stratified Retention for Continual Adaptation」。这条模型动态围绕「AI 动态：What Should World Models Forget? Stratified Retention for Continual Adaptation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03713v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-02-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+      "summary": "arXiv发布了「AI 动态：RNADyn: A Benchmark for Generating and Understanding RNA Dynamics」。这项研究关注「AI 动态：RNADyn: A Benchmark for Generating and Understanding RNA Dynamics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：RNADyn: A Benchmark for Generating and Understanding RNA Dynamics」。这项研究关注「AI 动态：RNADyn: A Benchmark for Generating and Understanding RNA Dynamics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03712v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-02-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+      "summary": "arXiv发布了「AI 动态：EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras」。这条政策动态围绕「AI 动态：EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras」。这条政策动态围绕「AI 动态：EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03710v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-02-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+      "summary": "arXiv发布了「AI 动态：From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing」。这条模型动态围绕「AI 动态：From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing」。这条模型动态围绕「AI 动态：From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.03709v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
