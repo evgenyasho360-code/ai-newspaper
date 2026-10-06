@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-06",
+  "date": "2026-10-06",
+  "weekday": "星期二",
+  "issueNo": "20261006",
+  "updatedAt": "11:15",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06852v1"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：Base Models Can Reason By Taking a Cue From Training Data",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06851v1"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06850v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06847v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06846v1"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06844v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-05-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "summary": "arXiv发布了「AI 动态：One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline」。这项研究关注「AI 动态：One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline」。这项研究关注「AI 动态：One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06852v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-05-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Base Models Can Reason By Taking a Cue From Training Data",
+      "summary": "arXiv发布了「AI 动态：Base Models Can Reason By Taking a Cue From Training Data」。这条政策动态围绕「AI 动态：Base Models Can Reason By Taking a Cue From Training Data」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Base Models Can Reason By Taking a Cue From Training Data」。这条政策动态围绕「AI 动态：Base Models Can Reason By Taking a Cue From Training Data」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06851v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-05-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+      "summary": "arXiv发布了「AI 动态：InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation」。这条政策动态围绕「AI 动态：InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation」。这条政策动态围绕「AI 动态：InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06850v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-05-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+      "summary": "arXiv发布了「AI 动态：S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation」。这条模型动态围绕「AI 动态：S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation」。这条模型动态围绕「AI 动态：S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06847v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-05-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+      "summary": "arXiv发布了「AI 动态：BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance」。这项研究关注「AI 动态：BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance」。这项研究关注「AI 动态：BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06846v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-05-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "summary": "arXiv发布了「AI 动态：Learning to Read the Contextual Tokens in Diffusion Transformers」。这条模型动态围绕「AI 动态：Learning to Read the Contextual Tokens in Diffusion Transformers」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Learning to Read the Contextual Tokens in Diffusion Transformers」。这条模型动态围绕「AI 动态：Learning to Read the Contextual Tokens in Diffusion Transformers」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06844v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-05-7",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Recursive Video In-Context Learning for Agentic Robot",
+      "summary": "arXiv发布了「AI 动态：Recursive Video In-Context Learning for Agentic Robot」。这条资本动态聚焦「AI 动态：Recursive Video In-Context Learning for Agentic Robot」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Recursive Video In-Context Learning for Agentic Robot」。这条资本动态聚焦「AI 动态：Recursive Video In-Context Learning for Agentic Robot」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06843v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-05-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
+      "summary": "arXiv发布了「AI 动态：Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report」。这条模型动态围绕「AI 动态：Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report」。这条模型动态围绕「AI 动态：Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.06837v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
