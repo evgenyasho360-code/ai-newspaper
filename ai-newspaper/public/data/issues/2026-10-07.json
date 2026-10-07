@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-07",
+  "date": "2026-10-07",
+  "weekday": "星期三",
+  "issueNo": "20261007",
+  "updatedAt": "10:37",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：World Models' Last Exam in Physics",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08791v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Building Rome from a Single Image",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08790v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：QF3: Fast Flow RL with Filtered Q-Gradients",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08789v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08785v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08784v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-06-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "summary": "Google DeepMind 博客发布了「AI 动态：EmbeddingGemma 2: an open, lightweight multimodal embedding model」。这条模型动态围绕「AI 动态：EmbeddingGemma 2: an open, lightweight multimodal embedding model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：EmbeddingGemma 2: an open, lightweight multimodal embedding model」。这条模型动态围绕「AI 动态：EmbeddingGemma 2: an open, lightweight multimodal embedding model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-10-06-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：World Models' Last Exam in Physics",
+      "summary": "arXiv发布了「AI 动态：World Models' Last Exam in Physics」。这项研究关注「AI 动态：World Models' Last Exam in Physics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：World Models' Last Exam in Physics」。这项研究关注「AI 动态：World Models' Last Exam in Physics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08791v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-06-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Building Rome from a Single Image",
+      "summary": "arXiv发布了「AI 动态：Building Rome from a Single Image」。这条模型动态围绕「AI 动态：Building Rome from a Single Image」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Building Rome from a Single Image」。这条模型动态围绕「AI 动态：Building Rome from a Single Image」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08790v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-06-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：QF3: Fast Flow RL with Filtered Q-Gradients",
+      "summary": "arXiv发布了「AI 动态：QF3: Fast Flow RL with Filtered Q-Gradients」。这条政策动态围绕「AI 动态：QF3: Fast Flow RL with Filtered Q-Gradients」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：QF3: Fast Flow RL with Filtered Q-Gradients」。这条政策动态围绕「AI 动态：QF3: Fast Flow RL with Filtered Q-Gradients」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08789v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-06-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+      "summary": "arXiv发布了「AI 动态：Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective」。这条模型动态围绕「AI 动态：Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective」。这条模型动态围绕「AI 动态：Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08785v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-06-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation",
+      "summary": "arXiv发布了「AI 动态：PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation」。这条政策动态围绕「AI 动态：PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation」。这条政策动态围绕「AI 动态：PEARS: Physical-Prior-Guided Efficient Adaptation via Failure Reasoning and Diffusion Steering for Tactile Manipulation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08784v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-06-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+      "summary": "arXiv发布了「AI 动态：4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction」。这条模型动态围绕「AI 动态：4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction」。这条模型动态围绕「AI 动态：4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08782v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-06-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+      "summary": "arXiv发布了「AI 动态：IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas」。这项研究关注「AI 动态：IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas」。这项研究关注「AI 动态：IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.08781v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
