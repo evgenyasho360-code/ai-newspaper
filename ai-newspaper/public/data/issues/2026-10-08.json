@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-08",
+  "date": "2026-10-08",
+  "weekday": "星期四",
+  "issueNo": "20261008",
+  "updatedAt": "10:50",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Tetris3D: 3D Scene Generation With Objects That Fit Together",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10539v1"
+    },
+    {
+      "time": "07:45",
+      "category": "资本",
+      "title": "AI 动态：Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10538v1"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：Decoupling Exploration from Optimization in RLVR",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10536v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10534v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10533v1"
+    },
+    {
+      "time": "09:45",
+      "category": "资本",
+      "title": "AI 动态：Long-WAM: Scaling the Context of World-Action Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10528v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-07-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Tetris3D: 3D Scene Generation With Objects That Fit Together",
+      "summary": "arXiv发布了「AI 动态：Tetris3D: 3D Scene Generation With Objects That Fit Together」。这项研究关注「AI 动态：Tetris3D: 3D Scene Generation With Objects That Fit Together」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Tetris3D: 3D Scene Generation With Objects That Fit Together」。这项研究关注「AI 动态：Tetris3D: 3D Scene Generation With Objects That Fit Together」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10539v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-07-2",
+      "category": "资本",
+      "priority": "feature",
+      "title": "AI 动态：Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+      "summary": "arXiv发布了「AI 动态：Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos」。这条资本动态聚焦「AI 动态：Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos」。这条资本动态聚焦「AI 动态：Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10538v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-07-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Decoupling Exploration from Optimization in RLVR",
+      "summary": "arXiv发布了「AI 动态：Decoupling Exploration from Optimization in RLVR」。这条政策动态围绕「AI 动态：Decoupling Exploration from Optimization in RLVR」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Decoupling Exploration from Optimization in RLVR」。这条政策动态围绕「AI 动态：Decoupling Exploration from Optimization in RLVR」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10536v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-07-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input",
+      "summary": "arXiv发布了「AI 动态：RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input」。这条政策动态围绕「AI 动态：RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input」。这条政策动态围绕「AI 动态：RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10534v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-07-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "summary": "arXiv发布了「AI 动态：EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory」。这条模型动态围绕「AI 动态：EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory」。这条模型动态围绕「AI 动态：EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10533v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-07-6",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Long-WAM: Scaling the Context of World-Action Models",
+      "summary": "arXiv发布了「AI 动态：Long-WAM: Scaling the Context of World-Action Models」。这条资本动态聚焦「AI 动态：Long-WAM: Scaling the Context of World-Action Models」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Long-WAM: Scaling the Context of World-Action Models」。这条资本动态聚焦「AI 动态：Long-WAM: Scaling the Context of World-Action Models」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10528v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-07-7",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+      "summary": "arXiv发布了「AI 动态：Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping」。这条资本动态聚焦「AI 动态：Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping」。这条资本动态聚焦「AI 动态：Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10527v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-07-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+      "summary": "arXiv发布了「AI 动态：Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models」。这条政策动态围绕「AI 动态：Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models」。这条政策动态围绕「AI 动态：Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.10526v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    }
+  ]
+}
