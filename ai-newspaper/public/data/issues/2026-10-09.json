@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-09",
+  "date": "2026-10-09",
+  "weekday": "星期五",
+  "issueNo": "20261009",
+  "updatedAt": "11:02",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "政策",
+      "title": "AI 动态：Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12470v1"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12469v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12468v1"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：CSF: Contextual Safety Filtering for Motion Generators",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12467v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12466v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12465v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-08-1",
+      "category": "政策",
+      "priority": "lead",
+      "title": "AI 动态：Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+      "summary": "arXiv发布了「AI 动态：Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration」。这条政策动态围绕「AI 动态：Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration」。这条政策动态围绕「AI 动态：Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12470v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-08-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+      "summary": "arXiv发布了「AI 动态：Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation」。这条模型动态围绕「AI 动态：Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation」。这条模型动态围绕「AI 动态：Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12469v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-08-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+      "summary": "arXiv发布了「AI 动态：DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training」。这项研究关注「AI 动态：DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training」。这项研究关注「AI 动态：DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12468v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-08-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：CSF: Contextual Safety Filtering for Motion Generators",
+      "summary": "arXiv发布了「AI 动态：CSF: Contextual Safety Filtering for Motion Generators」。这条政策动态围绕「AI 动态：CSF: Contextual Safety Filtering for Motion Generators」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：CSF: Contextual Safety Filtering for Motion Generators」。这条政策动态围绕「AI 动态：CSF: Contextual Safety Filtering for Motion Generators」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12467v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-08-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "summary": "arXiv发布了「AI 动态：On the estimation and validity of AI time horizons---a statistical look at the METR plot」。这项研究关注「AI 动态：On the estimation and validity of AI time horizons---a statistical look at the METR plot」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：On the estimation and validity of AI time horizons---a statistical look at the METR plot」。这项研究关注「AI 动态：On the estimation and validity of AI time horizons---a statistical look at the METR plot」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12466v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-08-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "summary": "arXiv发布了「AI 动态：A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control」。这条政策动态围绕「AI 动态：A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control」。这条政策动态围绕「AI 动态：A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12465v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-08-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "summary": "arXiv发布了「AI 动态：From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents」。这项研究关注「AI 动态：From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents」。这项研究关注「AI 动态：From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12463v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-08-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：What 30,000 Hours of Ego-centric Video Does Not Teach",
+      "summary": "arXiv发布了「AI 动态：What 30,000 Hours of Ego-centric Video Does Not Teach」。这项研究关注「AI 动态：What 30,000 Hours of Ego-centric Video Does Not Teach」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：What 30,000 Hours of Ego-centric Video Does Not Teach」。这项研究关注「AI 动态：What 30,000 Hours of Ego-centric Video Does Not Teach」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.12464v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
