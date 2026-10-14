@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-14",
+  "date": "2026-10-14",
+  "weekday": "星期三",
+  "issueNo": "20261014",
+  "updatedAt": "10:06",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Developing Gemini 4 Argon responsibly and safely",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Gemini 4 Argon for Robotics",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：Higgsfield takes AI video from 1 minute to over 10",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-14-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams」。这条模型动态围绕「AI 动态：Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams」。这条模型动态围绕「AI 动态：Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-10-13-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Developing Gemini 4 Argon responsibly and safely",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Developing Gemini 4 Argon responsibly and safely」。这条模型动态围绕「AI 动态：Developing Gemini 4 Argon responsibly and safely」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Developing Gemini 4 Argon responsibly and safely」。这条模型动态围绕「AI 动态：Developing Gemini 4 Argon responsibly and safely」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-10-13-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "Hugging Face 博客发布了「AI 动态：Run fast, private agents on-device with LFM2.5-24B-A2B」。这条模型动态围绕「AI 动态：Run fast, private agents on-device with LFM2.5-24B-A2B」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Run fast, private agents on-device with LFM2.5-24B-A2B」。这条模型动态围绕「AI 动态：Run fast, private agents on-device with LFM2.5-24B-A2B」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-13-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Gemini 4 Argon for Robotics",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Gemini 4 Argon for Robotics」。这条模型动态围绕「AI 动态：Gemini 4 Argon for Robotics」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Gemini 4 Argon for Robotics」。这条模型动态围绕「AI 动态：Gemini 4 Argon for Robotics」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-10-13-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Gemini 4 Argon: Built to solve your hardest problems」。这条模型动态围绕「AI 动态：Gemini 4 Argon: Built to solve your hardest problems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Gemini 4 Argon: Built to solve your hardest problems」。这条模型动态围绕「AI 动态：Gemini 4 Argon: Built to solve your hardest problems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-10-13-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Higgsfield takes AI video from 1 minute to over 10",
+      "summary": "OpenAI 新闻发布了「AI 动态：Higgsfield takes AI video from 1 minute to over 10」。这条模型动态围绕「AI 动态：Higgsfield takes AI video from 1 minute to over 10」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Higgsfield takes AI video from 1 minute to over 10」。这条模型动态围绕「AI 动态：Higgsfield takes AI video from 1 minute to over 10」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-13-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+      "summary": "arXiv cs.AI发布了「AI 动态：Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance」。这项研究关注「AI 动态：Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance」。这项研究关注「AI 动态：Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.12493",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-10-13-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：EliteTable: Self-Improving Program Search for Executable Control Policies",
+      "summary": "arXiv cs.AI发布了「AI 动态：EliteTable: Self-Improving Program Search for Executable Control Policies」。这项研究关注「AI 动态：EliteTable: Self-Improving Program Search for Executable Control Policies」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：EliteTable: Self-Improving Program Search for Executable Control Policies」。这项研究关注「AI 动态：EliteTable: Self-Improving Program Search for Executable Control Policies」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.12536",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
