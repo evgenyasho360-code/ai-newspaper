@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-15",
+  "date": "2026-10-15",
+  "weekday": "星期四",
+  "issueNo": "20261015",
+  "updatedAt": "09:42",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Amp puts AI agents to work beyond code with OpenAI models",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/amp-beyond-coding"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：SentinelOne cuts malware analysis from weeks to hours",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/sentinelone"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Euler: Towards Human-Centered Multi-Agent Mathematical Discovery",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.19864v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：On the Optimisation Landscape of Overparameterised Weighted MMD",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.19861v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.19860v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-14-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "Hugging Face 博客发布了「AI 动态：HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost」。这条产品动态聚焦「AI 动态：HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost」。这条产品动态聚焦「AI 动态：HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-14-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "OpenAI 新闻发布了「AI 动态：Amp puts AI agents to work beyond code with OpenAI models」。这条模型动态围绕「AI 动态：Amp puts AI agents to work beyond code with OpenAI models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Amp puts AI agents to work beyond code with OpenAI models」。这条模型动态围绕「AI 动态：Amp puts AI agents to work beyond code with OpenAI models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-14-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：SentinelOne cuts malware analysis from weeks to hours",
+      "summary": "OpenAI 新闻发布了「AI 动态：SentinelOne cuts malware analysis from weeks to hours」。这条模型动态围绕「AI 动态：SentinelOne cuts malware analysis from weeks to hours」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：SentinelOne cuts malware analysis from weeks to hours」。这条模型动态围绕「AI 动态：SentinelOne cuts malware analysis from weeks to hours」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/sentinelone",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-14-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Euler: Towards Human-Centered Multi-Agent Mathematical Discovery",
+      "summary": "arXiv发布了「AI 动态：Euler: Towards Human-Centered Multi-Agent Mathematical Discovery」。这项研究关注「AI 动态：Euler: Towards Human-Centered Multi-Agent Mathematical Discovery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Euler: Towards Human-Centered Multi-Agent Mathematical Discovery」。这项研究关注「AI 动态：Euler: Towards Human-Centered Multi-Agent Mathematical Discovery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.19864v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-14-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：On the Optimisation Landscape of Overparameterised Weighted MMD",
+      "summary": "arXiv发布了「AI 动态：On the Optimisation Landscape of Overparameterised Weighted MMD」。这项研究关注「AI 动态：On the Optimisation Landscape of Overparameterised Weighted MMD」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：On the Optimisation Landscape of Overparameterised Weighted MMD」。这项研究关注「AI 动态：On the Optimisation Landscape of Overparameterised Weighted MMD」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.19861v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-14-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance",
+      "summary": "arXiv发布了「AI 动态：Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance」。这项研究关注「AI 动态：Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance」。这项研究关注「AI 动态：Text-Informed Training Data Filtering for Enhanced Virtual Flow Meter Performance」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.19860v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-14-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching",
+      "summary": "arXiv发布了「AI 动态：OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching」。这条模型动态围绕「AI 动态：OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching」。这条模型动态围绕「AI 动态：OmniPoser: Flexible Human Motion Recovery in the Wild with Masked Flow Matching」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.19857v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-14-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Lost in the Fallback: How Reliably Do Typed Decision Models Use Fallback Options?",
+      "summary": "arXiv发布了「AI 动态：Lost in the Fallback: How Reliably Do Typed Decision Models Use Fallback Options?」。这条模型动态围绕「AI 动态：Lost in the Fallback: How Reliably Do Typed Decision Models Use Fallback Options?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Lost in the Fallback: How Reliably Do Typed Decision Models Use Fallback Options?」。这条模型动态围绕「AI 动态：Lost in the Fallback: How Reliably Do Typed Decision Models Use Fallback Options?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.19856v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
