@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-20",
+  "date": "2026-10-20",
+  "weekday": "星期二",
+  "issueNo": "20261020",
+  "updatedAt": "10:00",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：Advancing coding in low‑resource programming languages",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/low-resource-programming-languages"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25981v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25980v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：GraphEvoResearcher: Graph-Aware Training-Free Self-Reflective Reasoning for Cost-Bounded Multi-Hop Question Answering",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25978v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：On the Benefits of Uncertainty Estimation for Species Classification: A Case Study on Optimizing Expert re-Annotation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25977v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：Correctness-Dependent Asymmetric Target Distributions for Self-Distillation Policy Optimization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25973v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-19-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：Advancing coding in low‑resource programming languages",
+      "summary": "OpenAI 新闻发布了「AI 动态：Advancing coding in low‑resource programming languages」。这项研究关注「AI 动态：Advancing coding in low‑resource programming languages」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Advancing coding in low‑resource programming languages」。这项研究关注「AI 动态：Advancing coding in low‑resource programming languages」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-19-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation",
+      "summary": "arXiv发布了「AI 动态：FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation」。这条模型动态围绕「AI 动态：FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation」。这条模型动态围绕「AI 动态：FR-VLA: Implicit Force Reasoning VLA for Contact-Rich Manipulation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25981v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-19-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions",
+      "summary": "arXiv发布了「AI 动态：ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions」。这项研究关注「AI 动态：ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions」。这项研究关注「AI 动态：ClueFlow: Learning Long-Horizon Search through Attributed Research-State Transitions」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25980v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-19-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：GraphEvoResearcher: Graph-Aware Training-Free Self-Reflective Reasoning for Cost-Bounded Multi-Hop Question Answering",
+      "summary": "arXiv发布了「AI 动态：GraphEvoResearcher: Graph-Aware Training-Free Self-Reflective Reasoning for Cost-Bounded Multi-Hop Question Answering」。这条模型动态围绕「AI 动态：GraphEvoResearcher: Graph-Aware Training-Free Self-Reflective Reasoning for Cost-Bounded Multi-Hop Question Answering」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：GraphEvoResearcher: Graph-Aware Training-Free Self-Reflective Reasoning for Cost-Bounded Multi-Hop Question Answering」。这条模型动态围绕「AI 动态：GraphEvoResearcher: Graph-Aware Training-Free Self-Reflective Reasoning for Cost-Bounded Multi-Hop Question Answering」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25978v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-19-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：On the Benefits of Uncertainty Estimation for Species Classification: A Case Study on Optimizing Expert re-Annotation",
+      "summary": "arXiv发布了「AI 动态：On the Benefits of Uncertainty Estimation for Species Classification: A Case Study on Optimizing Expert re-Annotation」。这项研究关注「AI 动态：On the Benefits of Uncertainty Estimation for Species Classification: A Case Study on Optimizing Expert re-Annotation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：On the Benefits of Uncertainty Estimation for Species Classification: A Case Study on Optimizing Expert re-Annotation」。这项研究关注「AI 动态：On the Benefits of Uncertainty Estimation for Species Classification: A Case Study on Optimizing Expert re-Annotation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25977v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-19-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Correctness-Dependent Asymmetric Target Distributions for Self-Distillation Policy Optimization",
+      "summary": "arXiv发布了「AI 动态：Correctness-Dependent Asymmetric Target Distributions for Self-Distillation Policy Optimization」。这条政策动态围绕「AI 动态：Correctness-Dependent Asymmetric Target Distributions for Self-Distillation Policy Optimization」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Correctness-Dependent Asymmetric Target Distributions for Self-Distillation Policy Optimization」。这条政策动态围绕「AI 动态：Correctness-Dependent Asymmetric Target Distributions for Self-Distillation Policy Optimization」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25973v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-19-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories",
+      "summary": "arXiv发布了「AI 动态：GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories」。这条模型动态围绕「AI 动态：GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories」。这条模型动态围绕「AI 动态：GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25970v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-19-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Reconstruction and Discrete-Event Simulation Assessment of an Analytical",
+      "summary": "arXiv发布了「AI 动态：Reconstruction and Discrete-Event Simulation Assessment of an Analytical」。这项研究关注「AI 动态：Reconstruction and Discrete-Event Simulation Assessment of an Analytical」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Reconstruction and Discrete-Event Simulation Assessment of an Analytical」。这项研究关注「AI 动态：Reconstruction and Discrete-Event Simulation Assessment of an Analytical」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.25967v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
