@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-21",
+  "date": "2026-10-21",
+  "weekday": "星期三",
+  "issueNo": "20261021",
+  "updatedAt": "09:53",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/fairstress"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/ted-taylor-restaurant"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Near-Duplicate Image Selection Transfers Preferences in Vision-Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.27943v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：APRIL: Ambiguity-Aware Expert Routing for Respiratory Sound Domain-Incremental Learning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.27942v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-20-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary": "Hugging Face 博客发布了「AI 动态：NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation」。这条产品动态聚焦「AI 动态：NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation」。这条产品动态聚焦「AI 动态：NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-20-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "Hugging Face 博客发布了「AI 动态：FairStress: A deeper evaluation of fairness in LLM decision-making」。这项研究关注「AI 动态：FairStress: A deeper evaluation of fairness in LLM decision-making」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Hugging Face 博客发布了「AI 动态：FairStress: A deeper evaluation of fairness in LLM decision-making」。这项研究关注「AI 动态：FairStress: A deeper evaluation of fairness in LLM decision-making」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-20-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "Hugging Face 博客发布了「AI 动态：ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model」。这条模型动态围绕「AI 动态：ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model」。这条模型动态围绕「AI 动态：ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-20-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "OpenAI 新闻发布了「AI 动态：Franchisee reconciles cash in 94% less time with ChatGPT Work」。这条模型动态围绕「AI 动态：Franchisee reconciles cash in 94% less time with ChatGPT Work」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Franchisee reconciles cash in 94% less time with ChatGPT Work」。这条模型动态围绕「AI 动态：Franchisee reconciles cash in 94% less time with ChatGPT Work」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-20-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Near-Duplicate Image Selection Transfers Preferences in Vision-Language Models",
+      "summary": "arXiv发布了「AI 动态：Near-Duplicate Image Selection Transfers Preferences in Vision-Language Models」。这项研究关注「AI 动态：Near-Duplicate Image Selection Transfers Preferences in Vision-Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Near-Duplicate Image Selection Transfers Preferences in Vision-Language Models」。这项研究关注「AI 动态：Near-Duplicate Image Selection Transfers Preferences in Vision-Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.27943v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-20-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：APRIL: Ambiguity-Aware Expert Routing for Respiratory Sound Domain-Incremental Learning",
+      "summary": "arXiv发布了「AI 动态：APRIL: Ambiguity-Aware Expert Routing for Respiratory Sound Domain-Incremental Learning」。这条政策动态围绕「AI 动态：APRIL: Ambiguity-Aware Expert Routing for Respiratory Sound Domain-Incremental Learning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：APRIL: Ambiguity-Aware Expert Routing for Respiratory Sound Domain-Incremental Learning」。这条政策动态围绕「AI 动态：APRIL: Ambiguity-Aware Expert Routing for Respiratory Sound Domain-Incremental Learning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.27942v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-20-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data",
+      "summary": "arXiv发布了「AI 动态：HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data」。这项研究关注「AI 动态：HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data」。这项研究关注「AI 动态：HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.27941v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-20-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：From DQI to C-DQI: Automatic Codebook Generation and Evaluation for Measuring Computational Discourse Quality Index",
+      "summary": "arXiv发布了「AI 动态：From DQI to C-DQI: Automatic Codebook Generation and Evaluation for Measuring Computational Discourse Quality Index」。这项研究关注「AI 动态：From DQI to C-DQI: Automatic Codebook Generation and Evaluation for Measuring Computational Discourse Quality Index」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：From DQI to C-DQI: Automatic Codebook Generation and Evaluation for Measuring Computational Discourse Quality Index」。这项研究关注「AI 动态：From DQI to C-DQI: Automatic Codebook Generation and Evaluation for Measuring Computational Discourse Quality Index」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.27937v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
