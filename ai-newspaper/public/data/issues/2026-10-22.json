@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-22",
+  "date": "2026-10-22",
+  "weekday": "星期四",
+  "issueNo": "20261022",
+  "updatedAt": "09:42",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Broad access through consistent standards",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "AI 动态：How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：How AT&T is rethinking in-house legal work with OpenAI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/att-legal"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "AI 动态：Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+    },
+    {
+      "time": "09:45",
+      "category": "产品",
+      "title": "AI 动态：Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-21-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Broad access through consistent standards",
+      "summary": "OpenAI 新闻发布了「AI 动态：Broad access through consistent standards」。这条模型动态围绕「AI 动态：Broad access through consistent standards」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Broad access through consistent standards」。这条模型动态围绕「AI 动态：Broad access through consistent standards」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-21-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "Hugging Face 博客发布了「AI 动态：NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required」。这条产品动态聚焦「AI 动态：NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required」。这条产品动态聚焦「AI 动态：NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-21-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "Hugging Face 博客发布了「AI 动态：How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications」。这条产品动态聚焦「AI 动态：How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications」。这条产品动态聚焦「AI 动态：How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-21-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：How AT&T is rethinking in-house legal work with OpenAI",
+      "summary": "OpenAI 新闻发布了「AI 动态：How AT&T is rethinking in-house legal work with OpenAI」。这条模型动态围绕「AI 动态：How AT&T is rethinking in-house legal work with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How AT&T is rethinking in-house legal work with OpenAI」。这条模型动态围绕「AI 动态：How AT&T is rethinking in-house legal work with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/att-legal",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-21-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "Hugging Face 博客发布了「AI 动态：Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.」。这条产品动态聚焦「AI 动态：Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.」。这条产品动态聚焦「AI 动态：Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-21-6",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "Hugging Face 博客发布了「AI 动态：Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster」。这条产品动态聚焦「AI 动态：Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster」。这条产品动态聚焦「AI 动态：Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-21-7",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary": "OpenAI 新闻发布了「AI 动态：ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform」。这条产品动态聚焦「AI 动态：ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform」。这条产品动态聚焦「AI 动态：ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-21-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：OpenAI models are coming to Google Cloud",
+      "summary": "OpenAI 新闻发布了「AI 动态：OpenAI models are coming to Google Cloud」。这条模型动态围绕「AI 动态：OpenAI models are coming to Google Cloud」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：OpenAI models are coming to Google Cloud」。这条模型动态围绕「AI 动态：OpenAI models are coming to Google Cloud」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    }
+  ]
+}
