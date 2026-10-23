@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-23",
+  "date": "2026-10-23",
+  "weekday": "星期五",
+  "issueNo": "20261023",
+  "updatedAt": "09:48",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：Build more responsive apps with the Decisions API",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/decisions-api"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "AI 动态：OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Beyond tree cover: mapping the world’s forest types",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Ensemble forecasting with IBM Granite time-series models",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：What FDE means at OpenAI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/forward-deployed-engineering-means"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-22-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "Hugging Face 博客发布了「AI 动态：Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox」。这条模型动态围绕「AI 动态：Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox」。这条模型动态围绕「AI 动态：Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-22-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Build more responsive apps with the Decisions API",
+      "summary": "OpenAI 新闻发布了「AI 动态：Build more responsive apps with the Decisions API」。这条产品动态聚焦「AI 动态：Build more responsive apps with the Decisions API」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：Build more responsive apps with the Decisions API」。这条产品动态聚焦「AI 动态：Build more responsive apps with the Decisions API」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/decisions-api",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-22-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "Hugging Face 博客发布了「AI 动态：OlmoEarth v1.3: State-of-the-art embeddings for the whole planet」。这条产品动态聚焦「AI 动态：OlmoEarth v1.3: State-of-the-art embeddings for the whole planet」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：OlmoEarth v1.3: State-of-the-art embeddings for the whole planet」。这条产品动态聚焦「AI 动态：OlmoEarth v1.3: State-of-the-art embeddings for the whole planet」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-22-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Beyond tree cover: mapping the world’s forest types",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Beyond tree cover: mapping the world’s forest types」。这项研究关注「AI 动态：Beyond tree cover: mapping the world’s forest types」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Beyond tree cover: mapping the world’s forest types」。这项研究关注「AI 动态：Beyond tree cover: mapping the world’s forest types」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-10-22-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Ensemble forecasting with IBM Granite time-series models",
+      "summary": "Hugging Face 博客发布了「AI 动态：Ensemble forecasting with IBM Granite time-series models」。这条模型动态围绕「AI 动态：Ensemble forecasting with IBM Granite time-series models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：Ensemble forecasting with IBM Granite time-series models」。这条模型动态围绕「AI 动态：Ensemble forecasting with IBM Granite time-series models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-22-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：What FDE means at OpenAI",
+      "summary": "OpenAI 新闻发布了「AI 动态：What FDE means at OpenAI」。这条模型动态围绕「AI 动态：What FDE means at OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：What FDE means at OpenAI」。这条模型动态围绕「AI 动态：What FDE means at OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-22-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "summary": "arXiv cs.AI发布了「AI 动态：Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training」。这项研究关注「AI 动态：Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training」。这项研究关注「AI 动态：Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-10-22-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Large language model and reinforcement learning based autonomous construction and progress updates",
+      "summary": "arXiv cs.AI发布了「AI 动态：Large language model and reinforcement learning based autonomous construction and progress updates」。这条政策动态围绕「AI 动态：Large language model and reinforcement learning based autonomous construction and progress updates」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Large language model and reinforcement learning based autonomous construction and progress updates」。这条政策动态围绕「AI 动态：Large language model and reinforcement learning based autonomous construction and progress updates」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2610.26899",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
