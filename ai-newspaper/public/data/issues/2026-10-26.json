@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-26",
+  "date": "2026-10-26",
+  "weekday": "星期一",
+  "issueNo": "20261026",
+  "updatedAt": "09:31",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/litpivot"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Interpretable Singing Emotion Recognition Using Acoustic and Vocal Technique Features",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32629v1"
+    },
+    {
+      "time": "08:45",
+      "category": "资本",
+      "title": "AI 动态：Acquisition for Spherical-Linear Bayesian Optimization on the Cube",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32628v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32627v1"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32620v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-23-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "summary": "OpenAI 新闻发布了「AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)」。这条模型动态围绕「AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)」。这条模型动态围绕「AI 动态：Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-23-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "Hugging Face 博客发布了「AI 动态：LitPivot: Developing research ideas through dynamic contextualization within the literature landscape」。这项研究关注「AI 动态：LitPivot: Developing research ideas through dynamic contextualization within the literature landscape」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Hugging Face 博客发布了「AI 动态：LitPivot: Developing research ideas through dynamic contextualization within the literature landscape」。这项研究关注「AI 动态：LitPivot: Developing research ideas through dynamic contextualization within the literature landscape」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-23-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Interpretable Singing Emotion Recognition Using Acoustic and Vocal Technique Features",
+      "summary": "arXiv发布了「AI 动态：Interpretable Singing Emotion Recognition Using Acoustic and Vocal Technique Features」。这项研究关注「AI 动态：Interpretable Singing Emotion Recognition Using Acoustic and Vocal Technique Features」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Interpretable Singing Emotion Recognition Using Acoustic and Vocal Technique Features」。这项研究关注「AI 动态：Interpretable Singing Emotion Recognition Using Acoustic and Vocal Technique Features」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32629v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-23-4",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Acquisition for Spherical-Linear Bayesian Optimization on the Cube",
+      "summary": "arXiv发布了「AI 动态：Acquisition for Spherical-Linear Bayesian Optimization on the Cube」。这条资本动态聚焦「AI 动态：Acquisition for Spherical-Linear Bayesian Optimization on the Cube」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Acquisition for Spherical-Linear Bayesian Optimization on the Cube」。这条资本动态聚焦「AI 动态：Acquisition for Spherical-Linear Bayesian Optimization on the Cube」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32628v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-23-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs",
+      "summary": "arXiv发布了「AI 动态：LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs」。这项研究关注「AI 动态：LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs」。这项研究关注「AI 动态：LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32627v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-23-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design",
+      "summary": "arXiv发布了「AI 动态：What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design」。这条模型动态围绕「AI 动态：What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design」。这条模型动态围绕「AI 动态：What Transfers Across Protein Pockets? Experience Reuse in Molecular Optimization for Agentic Structure-Based Drug Design」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32620v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-23-7",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Earth embeddings are decomposable records of the land surface",
+      "summary": "arXiv发布了「AI 动态：Earth embeddings are decomposable records of the land surface」。这条产品动态聚焦「AI 动态：Earth embeddings are decomposable records of the land surface」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "arXiv发布了「AI 动态：Earth embeddings are decomposable records of the land surface」。这条产品动态聚焦「AI 动态：Earth embeddings are decomposable records of the land surface」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32617v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-23-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving",
+      "summary": "arXiv发布了「AI 动态：DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving」。这项研究关注「AI 动态：DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving」。这项研究关注「AI 动态：DriveOSS: Dataset and Benchmark for 3D Anomaly Segmentation and Open-set Semantic Segmentation in Autonomous Driving」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.32612v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
