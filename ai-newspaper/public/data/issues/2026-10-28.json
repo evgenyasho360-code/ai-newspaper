@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-28",
+  "date": "2026-10-28",
+  "weekday": "星期三",
+  "issueNo": "20261028",
+  "updatedAt": "10:31",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37668v1"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37666v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37662v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：When Should We Intervene at Test Time?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37658v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37657v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37656v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-27-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "summary": "arXiv发布了「AI 动态：Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction」。这条模型动态围绕「AI 动态：Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction」。这条模型动态围绕「AI 动态：Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37668v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-27-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "summary": "arXiv发布了「AI 动态：ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning」。这条模型动态围绕「AI 动态：ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning」。这条模型动态围绕「AI 动态：ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37666v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-27-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+      "summary": "arXiv发布了「AI 动态：Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?」。这条模型动态围绕「AI 动态：Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?」。这条模型动态围绕「AI 动态：Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37662v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-27-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：When Should We Intervene at Test Time?",
+      "summary": "arXiv发布了「AI 动态：When Should We Intervene at Test Time?」。这条模型动态围绕「AI 动态：When Should We Intervene at Test Time?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：When Should We Intervene at Test Time?」。这条模型动态围绕「AI 动态：When Should We Intervene at Test Time?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37658v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-27-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "summary": "arXiv发布了「AI 动态：Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness」。这条模型动态围绕「AI 动态：Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness」。这条模型动态围绕「AI 动态：Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37657v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-27-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+      "summary": "arXiv发布了「AI 动态：Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops」。这项研究关注「AI 动态：Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops」。这项研究关注「AI 动态：Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37656v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-27-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+      "summary": "arXiv发布了「AI 动态：KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry」。这条政策动态围绕「AI 动态：KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry」。这条政策动态围绕「AI 动态：KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37655v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-27-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+      "summary": "arXiv发布了「AI 动态：Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well」。这条政策动态围绕「AI 动态：Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well」。这条政策动态围绕「AI 动态：Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.37652v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    }
+  ]
+}
