@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-02",
+  "date": "2026-11-02",
+  "weekday": "星期一",
+  "issueNo": "20261102",
+  "updatedAt": "10:41",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：nemotron-halloween",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Making it easier for websites to express AI training preferences",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：Community safety report and new protections for teens",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41267v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41264v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41260v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-10-30-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：nemotron-halloween",
+      "summary": "Hugging Face 博客发布了「AI 动态：nemotron-halloween」。这条产品动态聚焦「AI 动态：nemotron-halloween」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：nemotron-halloween」。这条产品动态聚焦「AI 动态：nemotron-halloween」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-10-30-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Making it easier for websites to express AI training preferences",
+      "summary": "OpenAI 新闻发布了「AI 动态：Making it easier for websites to express AI training preferences」。这条模型动态围绕「AI 动态：Making it easier for websites to express AI training preferences」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Making it easier for websites to express AI training preferences」。这条模型动态围绕「AI 动态：Making it easier for websites to express AI training preferences」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-30-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Community safety report and new protections for teens",
+      "summary": "OpenAI 新闻发布了「AI 动态：Community safety report and new protections for teens」。这条政策动态围绕「AI 动态：Community safety report and new protections for teens」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Community safety report and new protections for teens」。这条政策动态围绕「AI 动态：Community safety report and new protections for teens」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-10-30-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?",
+      "summary": "arXiv发布了「AI 动态：From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?」。这条模型动态围绕「AI 动态：From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?」。这条模型动态围绕「AI 动态：From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41267v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-30-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents",
+      "summary": "arXiv发布了「AI 动态：Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents」。这条模型动态围绕「AI 动态：Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents」。这条模型动态围绕「AI 动态：Rome Wasn't Built in One Turn: Replay-Grounded Reward Signals for Long-Horizon Freeciv Agents」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41264v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-30-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement",
+      "summary": "arXiv发布了「AI 动态：SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement」。这项研究关注「AI 动态：SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement」。这项研究关注「AI 动态：SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41260v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-30-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：PBSR: Pseudo-Burst Super-Resolution via Zero-Shot Novel View Synthesis",
+      "summary": "arXiv发布了「AI 动态：PBSR: Pseudo-Burst Super-Resolution via Zero-Shot Novel View Synthesis」。这项研究关注「AI 动态：PBSR: Pseudo-Burst Super-Resolution via Zero-Shot Novel View Synthesis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：PBSR: Pseudo-Burst Super-Resolution via Zero-Shot Novel View Synthesis」。这项研究关注「AI 动态：PBSR: Pseudo-Burst Super-Resolution via Zero-Shot Novel View Synthesis」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41258v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-10-30-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation",
+      "summary": "arXiv发布了「AI 动态：ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation」。这项研究关注「AI 动态：ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation」。这项研究关注「AI 动态：ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.41257v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
