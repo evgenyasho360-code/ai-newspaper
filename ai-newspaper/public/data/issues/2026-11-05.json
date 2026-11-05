@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-05",
+  "date": "2026-11-05",
+  "weekday": "星期四",
+  "issueNo": "20261105",
+  "updatedAt": "11:39",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：OpenAI to acquire Pierre Computer Company, Inc.",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/openai-to-acquire-pierre"
+    },
+    {
+      "time": "08:15",
+      "category": "资本",
+      "title": "AI 动态：FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06491v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Risk-Sensitive Non-Parametric and Kernel Bandits",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06489v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Model Merging Does Not Require Uniform LoRA Ranks",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06486v1"
+    },
+    {
+      "time": "09:45",
+      "category": "资本",
+      "title": "AI 动态：Object-independent evaluation of small-data astronomical image classifiers: architecture, representation, and acquisition shortcuts",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06484v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-04-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "Hugging Face 博客发布了「AI 动态：Dharma Field Extractor: Any Document In, Structured Fields in JSON Out」。这条产品动态聚焦「AI 动态：Dharma Field Extractor: Any Document In, Structured Fields in JSON Out」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Dharma Field Extractor: Any Document In, Structured Fields in JSON Out」。这条产品动态聚焦「AI 动态：Dharma Field Extractor: Any Document In, Structured Fields in JSON Out」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-04-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：OpenAI to acquire Pierre Computer Company, Inc.",
+      "summary": "OpenAI 新闻发布了「AI 动态：OpenAI to acquire Pierre Computer Company, Inc.」。这条产品动态聚焦「AI 动态：OpenAI to acquire Pierre Computer Company, Inc.」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：OpenAI to acquire Pierre Computer Company, Inc.」。这条产品动态聚焦「AI 动态：OpenAI to acquire Pierre Computer Company, Inc.」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-04-3",
+      "category": "资本",
+      "priority": "feature",
+      "title": "AI 动态：FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation",
+      "summary": "arXiv发布了「AI 动态：FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation」。这条资本动态聚焦「AI 动态：FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation」。这条资本动态聚焦「AI 动态：FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06491v1",
+      "readTime": "5 分钟",
+      "impact": "低",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-04-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Risk-Sensitive Non-Parametric and Kernel Bandits",
+      "summary": "arXiv发布了「AI 动态：Risk-Sensitive Non-Parametric and Kernel Bandits」。这项研究关注「AI 动态：Risk-Sensitive Non-Parametric and Kernel Bandits」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Risk-Sensitive Non-Parametric and Kernel Bandits」。这项研究关注「AI 动态：Risk-Sensitive Non-Parametric and Kernel Bandits」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06489v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-04-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Model Merging Does Not Require Uniform LoRA Ranks",
+      "summary": "arXiv发布了「AI 动态：Model Merging Does Not Require Uniform LoRA Ranks」。这条模型动态围绕「AI 动态：Model Merging Does Not Require Uniform LoRA Ranks」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Model Merging Does Not Require Uniform LoRA Ranks」。这条模型动态围绕「AI 动态：Model Merging Does Not Require Uniform LoRA Ranks」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06486v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-04-6",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Object-independent evaluation of small-data astronomical image classifiers: architecture, representation, and acquisition shortcuts",
+      "summary": "arXiv发布了「AI 动态：Object-independent evaluation of small-data astronomical image classifiers: architecture, representation, and acquisition shortcuts」。这条资本动态聚焦「AI 动态：Object-independent evaluation of small-data astronomical image classifiers: architecture, representation, and acquisition shortcuts」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Object-independent evaluation of small-data astronomical image classifiers: architecture, representation, and acquisition shortcuts」。这条资本动态聚焦「AI 动态：Object-independent evaluation of small-data astronomical image classifiers: architecture, representation, and acquisition shortcuts」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06484v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-04-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+      "summary": "arXiv发布了「AI 动态：What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?」。这条模型动态围绕「AI 动态：What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?」。这条模型动态围绕「AI 动态：What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06483v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-04-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs",
+      "summary": "arXiv发布了「AI 动态：ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs」。这条模型动态围绕「AI 动态：ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs」。这条模型动态围绕「AI 动态：ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.06481v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
