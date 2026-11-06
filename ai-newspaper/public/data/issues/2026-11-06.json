@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-06",
+  "date": "2026-11-06",
+  "weekday": "星期五",
+  "issueNo": "20261106",
+  "updatedAt": "11:34",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Cult.fit builds operational muscle with Codex",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/cultfit-builds-with-codex"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Australian universities are creating AI-native graduates",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08006v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Deformable Contact-Aware 3D Object Placement",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08005v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-05-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Cult.fit builds operational muscle with Codex",
+      "summary": "OpenAI 新闻发布了「AI 动态：Cult.fit builds operational muscle with Codex」。这条产品动态聚焦「AI 动态：Cult.fit builds operational muscle with Codex」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：Cult.fit builds operational muscle with Codex」。这条产品动态聚焦「AI 动态：Cult.fit builds operational muscle with Codex」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-05-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "Hugging Face 博客发布了「AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation」。这条模型动态围绕「AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation」。这条模型动态围绕「AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-05-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips」。这条模型动态围绕「AI 动态：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips」。这条模型动态围绕「AI 动态：Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-11-05-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Australian universities are creating AI-native graduates",
+      "summary": "OpenAI 新闻发布了「AI 动态：Australian universities are creating AI-native graduates」。这条模型动态围绕「AI 动态：Australian universities are creating AI-native graduates」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Australian universities are creating AI-native graduates」。这条模型动态围绕「AI 动态：Australian universities are creating AI-native graduates」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-05-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech",
+      "summary": "arXiv发布了「AI 动态：Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech」。这项研究关注「AI 动态：Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech」。这项研究关注「AI 动态：Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08006v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-05-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Deformable Contact-Aware 3D Object Placement",
+      "summary": "arXiv发布了「AI 动态：Deformable Contact-Aware 3D Object Placement」。这项研究关注「AI 动态：Deformable Contact-Aware 3D Object Placement」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Deformable Contact-Aware 3D Object Placement」。这项研究关注「AI 动态：Deformable Contact-Aware 3D Object Placement」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08005v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-05-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery",
+      "summary": "arXiv发布了「AI 动态：When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery」。这项研究关注「AI 动态：When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery」。这项研究关注「AI 动态：When GeoFMs Meet VHR: Benchmarking Foundation Models on Very High Resolution Earth Observation Imagery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08003v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-05-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction",
+      "summary": "arXiv发布了「AI 动态：Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction」。这项研究关注「AI 动态：Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction」。这项研究关注「AI 动态：Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.07998v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
