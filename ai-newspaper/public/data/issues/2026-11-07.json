@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-07",
+  "date": "2026-11-07",
+  "weekday": "星期六",
+  "issueNo": "20261107",
+  "updatedAt": "11:03",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：ToyBlocks: A controlled world for robot learning and evaluation",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/toyblocks"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06962"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06972"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06977"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06984"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-06-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "Hugging Face 博客发布了「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」。这项研究关注「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Hugging Face 博客发布了「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」。这项研究关注「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-06-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI 新闻发布了「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」。这条模型动态围绕「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」。这条模型动态围绕「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-06-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+      "summary": "arXiv cs.AI发布了「AI 动态：Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation」。这项研究关注「AI 动态：Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation」。这项研究关注「AI 动态：Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06962",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-06-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+      "summary": "arXiv cs.AI发布了「AI 动态：KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks」。这项研究关注「AI 动态：KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks」。这项研究关注「AI 动态：KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06972",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-06-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+      "summary": "arXiv cs.AI发布了「AI 动态：BlockLock: Reproducible LLM Inference with Fixed Batch Geometry」。这项研究关注「AI 动态：BlockLock: Reproducible LLM Inference with Fixed Batch Geometry」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：BlockLock: Reproducible LLM Inference with Fixed Batch Geometry」。这项研究关注「AI 动态：BlockLock: Reproducible LLM Inference with Fixed Batch Geometry」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06977",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-06-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "summary": "arXiv cs.AI发布了「AI 动态：Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism」。这项研究关注「AI 动态：Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism」。这项研究关注「AI 动态：Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06984",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-06-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record",
+      "summary": "arXiv cs.AI发布了「AI 动态：The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record」。这项研究关注「AI 动态：The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record」。这项研究关注「AI 动态：The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06989",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-06-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization",
+      "summary": "arXiv cs.AI发布了「AI 动态：Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization」。这项研究关注「AI 动态：Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization」。这项研究关注「AI 动态：Autonomous AI Agents Systematically Diverge From Human Preferences in Proof Formalization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.06995",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
