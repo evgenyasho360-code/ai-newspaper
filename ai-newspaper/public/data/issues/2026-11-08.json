@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-08",
+  "date": "2026-11-08",
+  "weekday": "星期日",
+  "issueNo": "20261108",
+  "updatedAt": "10:39",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：ToyBlocks: A controlled world for robot learning and evaluation",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/toyblocks"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Measuring how AI agents handle everyday wet-lab science",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+    },
+    {
+      "time": "08:45",
+      "category": "产品",
+      "title": "AI 动态：Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva"
+    },
+    {
+      "time": "09:15",
+      "category": "产品",
+      "title": "AI 动态：Cult.fit builds operational muscle with Codex",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/cultfit-builds-with-codex"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-06-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "Hugging Face 博客发布了「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」。这项研究关注「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Hugging Face 博客发布了「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」。这项研究关注「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-06-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI 新闻发布了「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」。这条模型动态围绕「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」。这条模型动态围绕「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-06-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Measuring how AI agents handle everyday wet-lab science",
+      "summary": "OpenAI 新闻发布了「AI 动态：Measuring how AI agents handle everyday wet-lab science」。这项研究关注「AI 动态：Measuring how AI agents handle everyday wet-lab science」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Measuring how AI agents handle everyday wet-lab science」。这项研究关注「AI 动态：Measuring how AI agents handle everyday wet-lab science」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-06-4",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "Hugging Face 博客发布了「AI 动态：Egyptian and Nigerian English join the Open ASR Leaderboard」。这条产品动态聚焦「AI 动态：Egyptian and Nigerian English join the Open ASR Leaderboard」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Egyptian and Nigerian English join the Open ASR Leaderboard」。这条产品动态聚焦「AI 动态：Egyptian and Nigerian English join the Open ASR Leaderboard」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-05-5",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Cult.fit builds operational muscle with Codex",
+      "summary": "OpenAI 新闻发布了「AI 动态：Cult.fit builds operational muscle with Codex」。这条产品动态聚焦「AI 动态：Cult.fit builds operational muscle with Codex」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：Cult.fit builds operational muscle with Codex」。这条产品动态聚焦「AI 动态：Cult.fit builds operational muscle with Codex」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-05-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "Hugging Face 博客发布了「AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation」。这条模型动态围绕「AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation」。这条模型动态围绕「AI 动态：New NVIDIA Cosmos 3 Open Models for Interactive World Simulation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-05-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "summary": "arXiv发布了「AI 动态：User Embeddings are Superpositions of Interpretable Behavioral Modes」。这条模型动态围绕「AI 动态：User Embeddings are Superpositions of Interpretable Behavioral Modes」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：User Embeddings are Superpositions of Interpretable Behavioral Modes」。这条模型动态围绕「AI 动态：User Embeddings are Superpositions of Interpretable Behavioral Modes」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08487v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-05-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+      "summary": "arXiv发布了「AI 动态：Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI」。这项研究关注「AI 动态：Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI」。这项研究关注「AI 动态：Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08486v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
