@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-09",
+  "date": "2026-11-09",
+  "weekday": "星期一",
+  "issueNo": "20261109",
+  "updatedAt": "10:54",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "研究",
+      "title": "AI 动态：ToyBlocks: A controlled world for robot learning and evaluation",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/toyblocks"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/partnering-with-hacktron"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08977v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08976v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08975v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08971v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-06-1",
+      "category": "研究",
+      "priority": "lead",
+      "title": "AI 动态：ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "Hugging Face 博客发布了「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」。这项研究关注「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Hugging Face 博客发布了「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」。这项研究关注「AI 动态：ToyBlocks: A controlled world for robot learning and evaluation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-06-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summary": "OpenAI 新闻发布了「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」。这条模型动态围绕「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」。这条模型动态围绕「AI 动态：Partnering with Hacktron to find vulnerabilities in OpenAI’s systems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-06-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model",
+      "summary": "arXiv发布了「AI 动态：Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model」。这条模型动态围绕「AI 动态：Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model」。这条模型动态围绕「AI 动态：Energy-Based Reasoners: Your Recurrent Reasoner Should Be an Energy-Based Model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08977v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-06-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking",
+      "summary": "arXiv发布了「AI 动态：Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking」。这项研究关注「AI 动态：Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking」。这项研究关注「AI 动态：Refer-CityFlow and M3Track: A Benchmark Dataset and Reference Framework for Language-Driven Multi-Target Multi-Camera Tracking」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08976v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-06-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding",
+      "summary": "arXiv发布了「AI 动态：Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding」。这条模型动态围绕「AI 动态：Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding」。这条模型动态围绕「AI 动态：Beyond Truncation? Entailment-Licensed Elision and the Limits of Semantic Preservation in LLM Decoding」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08975v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-06-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making",
+      "summary": "arXiv发布了「AI 动态：Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making」。这项研究关注「AI 动态：Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making」。这项研究关注「AI 动态：Phantom Consensus: Measuring Social Reasoning in Multi-Agent LLM Decision-Making」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08971v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-06-7",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals",
+      "summary": "arXiv发布了「AI 动态：PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals」。这条资本动态聚焦「AI 动态：PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals」。这条资本动态聚焦「AI 动态：PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08969v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-06-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets",
+      "summary": "arXiv发布了「AI 动态：Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets」。这项研究关注「AI 动态：Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets」。这项研究关注「AI 动态：Using an LLM to Tackle Difficult Cases in NER for Nepali Tweets」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.08967v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
