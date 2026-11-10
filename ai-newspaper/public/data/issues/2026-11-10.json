@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-10",
+  "date": "2026-11-10",
+  "weekday": "星期二",
+  "issueNo": "20261110",
+  "updatedAt": "12:44",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：ChatGPT Enterprise now available in AWS Marketplace",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+    },
+    {
+      "time": "08:15",
+      "category": "政策",
+      "title": "AI 动态：Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/control-room"
+    },
+    {
+      "time": "08:45",
+      "category": "产品",
+      "title": "AI 动态：Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：CodeRabbit scales agentic software development and ships 20x more",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak"
+    },
+    {
+      "time": "09:45",
+      "category": "产品",
+      "title": "AI 动态：Kuken Industries searches 70 years of drawings in minutes",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/kuken"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-09-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "OpenAI 新闻发布了「AI 动态：ChatGPT Enterprise now available in AWS Marketplace」。这条模型动态围绕「AI 动态：ChatGPT Enterprise now available in AWS Marketplace」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：ChatGPT Enterprise now available in AWS Marketplace」。这条模型动态围绕「AI 动态：ChatGPT Enterprise now available in AWS Marketplace」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-09-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+      "summary": "Hugging Face 博客发布了「AI 动态：Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context」。这项研究关注「AI 动态：Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Hugging Face 博客发布了「AI 动态：Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context」。这项研究关注「AI 动态：Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-09-3",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "summary": "OpenAI 新闻发布了「AI 动态：Control Room: A central system to track and stop model workloads across our research infrastructure」。这条政策动态围绕「AI 动态：Control Room: A central system to track and stop model workloads across our research infrastructure」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Control Room: A central system to track and stop model workloads across our research infrastructure」。这条政策动态围绕「AI 动态：Control Room: A central system to track and stop model workloads across our research infrastructure」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/control-room",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-09-4",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+      "summary": "Hugging Face 博客发布了「AI 动态：Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together」。这条产品动态聚焦「AI 动态：Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together」。这条产品动态聚焦「AI 动态：Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-09-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "OpenAI 新闻发布了「AI 动态：CodeRabbit scales agentic software development and ships 20x more」。这条模型动态围绕「AI 动态：CodeRabbit scales agentic software development and ships 20x more」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：CodeRabbit scales agentic software development and ships 20x more」。这条模型动态围绕「AI 动态：CodeRabbit scales agentic software development and ships 20x more」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-09-6",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：Kuken Industries searches 70 years of drawings in minutes",
+      "summary": "OpenAI 新闻发布了「AI 动态：Kuken Industries searches 70 years of drawings in minutes」。这条产品动态聚焦「AI 动态：Kuken Industries searches 70 years of drawings in minutes」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：Kuken Industries searches 70 years of drawings in minutes」。这条产品动态聚焦「AI 动态：Kuken Industries searches 70 years of drawings in minutes」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/kuken",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-08-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：TID System for Speech-COSER Challenge 2026: ASR Track",
+      "summary": "arXiv发布了「AI 动态：TID System for Speech-COSER Challenge 2026: ASR Track」。这项研究关注「AI 动态：TID System for Speech-COSER Challenge 2026: ASR Track」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：TID System for Speech-COSER Challenge 2026: ASR Track」。这项研究关注「AI 动态：TID System for Speech-COSER Challenge 2026: ASR Track」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.11497v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-08-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Regret without Optimal-Arm Feedback under Reward-Dependent Delays",
+      "summary": "arXiv发布了「AI 动态：Regret without Optimal-Arm Feedback under Reward-Dependent Delays」。这项研究关注「AI 动态：Regret without Optimal-Arm Feedback under Reward-Dependent Delays」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Regret without Optimal-Arm Feedback under Reward-Dependent Delays」。这项研究关注「AI 动态：Regret without Optimal-Arm Feedback under Reward-Dependent Delays」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.11494v1",
+      "readTime": "4 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
