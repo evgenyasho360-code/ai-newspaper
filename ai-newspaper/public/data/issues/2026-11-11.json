@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-11",
+  "date": "2026-11-11",
+  "weekday": "星期三",
+  "issueNo": "20261111",
+  "updatedAt": "10:56",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Gemini 4 Carbon is now available",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Helping caregivers use AI in everyday life",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Introducing Businesses in ChatGPT",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Closing the AI guidance gap in education",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Work at the Frontier: AI’s effect on freelance work",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-10-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Gemini 4 Carbon is now available",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Gemini 4 Carbon is now available」。这条模型动态围绕「AI 动态：Gemini 4 Carbon is now available」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Gemini 4 Carbon is now available」。这条模型动态围绕「AI 动态：Gemini 4 Carbon is now available」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-11-10-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth」。这条模型动态围绕「AI 动态：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth」。这条模型动态围绕「AI 动态：Introducing AlphaProof Code: a breakthrough in verifying complex software at depth」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-11-10-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Helping caregivers use AI in everyday life",
+      "summary": "OpenAI 新闻发布了「AI 动态：Helping caregivers use AI in everyday life」。这条模型动态围绕「AI 动态：Helping caregivers use AI in everyday life」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Helping caregivers use AI in everyday life」。这条模型动态围绕「AI 动态：Helping caregivers use AI in everyday life」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-10-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Introducing Businesses in ChatGPT",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing Businesses in ChatGPT」。这条模型动态围绕「AI 动态：Introducing Businesses in ChatGPT」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing Businesses in ChatGPT」。这条模型动态围绕「AI 动态：Introducing Businesses in ChatGPT」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-10-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Closing the AI guidance gap in education",
+      "summary": "OpenAI 新闻发布了「AI 动态：Closing the AI guidance gap in education」。这项研究关注「AI 动态：Closing the AI guidance gap in education」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Closing the AI guidance gap in education」。这项研究关注「AI 动态：Closing the AI guidance gap in education」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-10-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Work at the Frontier: AI’s effect on freelance work",
+      "summary": "OpenAI 新闻发布了「AI 动态：Work at the Frontier: AI’s effect on freelance work」。这项研究关注「AI 动态：Work at the Frontier: AI’s effect on freelance work」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Work at the Frontier: AI’s effect on freelance work」。这项研究关注「AI 动态：Work at the Frontier: AI’s effect on freelance work」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-10-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation",
+      "summary": "arXiv发布了「AI 动态：Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation」。这项研究关注「AI 动态：Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation」。这项研究关注「AI 动态：Seeing the Small: Deformable Duality Mamba for Retinal Lesion Segmentation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.13514v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-10-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Evidential Deep Learning with conditional entropy for glaucoma detection",
+      "summary": "arXiv发布了「AI 动态：Evidential Deep Learning with conditional entropy for glaucoma detection」。这条模型动态围绕「AI 动态：Evidential Deep Learning with conditional entropy for glaucoma detection」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Evidential Deep Learning with conditional entropy for glaucoma detection」。这条模型动态围绕「AI 动态：Evidential Deep Learning with conditional entropy for glaucoma detection」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.13513v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
