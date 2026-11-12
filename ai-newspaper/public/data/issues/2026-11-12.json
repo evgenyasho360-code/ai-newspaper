@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-12",
+  "date": "2026-11-12",
+  "weekday": "星期四",
+  "issueNo": "20261112",
+  "updatedAt": "12:02",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "政策",
+      "title": "AI 动态：Gilbert + Tobin rethinks the business of law with AI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：ChatGPT Plus for veterans and servicemembers",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/qvac/botpsy"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12933"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12934"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-12-1",
+      "category": "政策",
+      "priority": "lead",
+      "title": "AI 动态：Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "OpenAI 新闻发布了「AI 动态：Gilbert + Tobin rethinks the business of law with AI」。这条政策动态围绕「AI 动态：Gilbert + Tobin rethinks the business of law with AI」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Gilbert + Tobin rethinks the business of law with AI」。这条政策动态围绕「AI 动态：Gilbert + Tobin rethinks the business of law with AI」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-11-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "summary": "Google DeepMind 博客发布了「AI 动态：AlphaGenome 2: Deciphering how cells read DNA to better understand disease」。这项研究关注「AI 动态：AlphaGenome 2: Deciphering how cells read DNA to better understand disease」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "Google DeepMind 博客发布了「AI 动态：AlphaGenome 2: Deciphering how cells read DNA to better understand disease」。这项研究关注「AI 动态：AlphaGenome 2: Deciphering how cells read DNA to better understand disease」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "研究",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-11-11-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：ChatGPT Plus for veterans and servicemembers",
+      "summary": "OpenAI 新闻发布了「AI 动态：ChatGPT Plus for veterans and servicemembers」。这条模型动态围绕「AI 动态：ChatGPT Plus for veterans and servicemembers」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：ChatGPT Plus for veterans and servicemembers」。这条模型动态围绕「AI 动态：ChatGPT Plus for veterans and servicemembers」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-11-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "Hugging Face 博客发布了「AI 动态：BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model」。这条模型动态围绕「AI 动态：BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model」。这条模型动态围绕「AI 动态：BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-11-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
+      "summary": "arXiv cs.AI发布了「AI 动态：Auditable Human-Agent Teams for Autonomous X-ray Experimentation」。这项研究关注「AI 动态：Auditable Human-Agent Teams for Autonomous X-ray Experimentation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Auditable Human-Agent Teams for Autonomous X-ray Experimentation」。这项研究关注「AI 动态：Auditable Human-Agent Teams for Autonomous X-ray Experimentation」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12933",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-11-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+      "summary": "arXiv cs.AI发布了「AI 动态：EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery」。这项研究关注「AI 动态：EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery」。这项研究关注「AI 动态：EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12934",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-11-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
+      "summary": "arXiv cs.AI发布了「AI 动态：Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring」。这条政策动态围绕「AI 动态：Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring」。这条政策动态围绕「AI 动态：Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12935",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-11-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding",
+      "summary": "arXiv cs.AI发布了「AI 动态：LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding」。这项研究关注「AI 动态：LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding」。这项研究关注「AI 动态：LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.12936",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
