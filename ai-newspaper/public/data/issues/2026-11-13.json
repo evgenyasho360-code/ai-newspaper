@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-13",
+  "date": "2026-11-13",
+  "weekday": "星期五",
+  "issueNo": "20261113",
+  "updatedAt": "11:31",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Introducing Gemini 4 Hydrogen",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：Gondola doubles revenue as its team builds more with Codex",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/gondola"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Holiday Extras is rethinking what it can build with Codex",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：Supporting research on AI and children’s safety",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/children-first-declaration"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-12-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "OpenAI 新闻发布了「AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI」。这条模型动态围绕「AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI」。这条模型动态围绕「AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-12-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "Hugging Face 博客发布了「AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B」。这条模型动态围绕「AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B」。这条模型动态围绕「AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-12-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing Gemini 4 Hydrogen",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 4 Hydrogen」。这条模型动态围绕「AI 动态：Introducing Gemini 4 Hydrogen」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 4 Hydrogen」。这条模型动态围绕「AI 动态：Introducing Gemini 4 Hydrogen」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-11-12-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Gondola doubles revenue as its team builds more with Codex",
+      "summary": "OpenAI 新闻发布了「AI 动态：Gondola doubles revenue as its team builds more with Codex」。这条模型动态围绕「AI 动态：Gondola doubles revenue as its team builds more with Codex」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Gondola doubles revenue as its team builds more with Codex」。这条模型动态围绕「AI 动态：Gondola doubles revenue as its team builds more with Codex」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-12-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Holiday Extras is rethinking what it can build with Codex",
+      "summary": "OpenAI 新闻发布了「AI 动态：Holiday Extras is rethinking what it can build with Codex」。这条模型动态围绕「AI 动态：Holiday Extras is rethinking what it can build with Codex」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Holiday Extras is rethinking what it can build with Codex」。这条模型动态围绕「AI 动态：Holiday Extras is rethinking what it can build with Codex」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-12-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Supporting research on AI and children’s safety",
+      "summary": "OpenAI 新闻发布了「AI 动态：Supporting research on AI and children’s safety」。这条政策动态围绕「AI 动态：Supporting research on AI and children’s safety」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Supporting research on AI and children’s safety」。这条政策动态围绕「AI 动态：Supporting research on AI and children’s safety」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/children-first-declaration",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-12-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "OpenAI 新闻发布了「AI 动态：Gilbert + Tobin rethinks the business of law with AI」。这条政策动态围绕「AI 动态：Gilbert + Tobin rethinks the business of law with AI」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "OpenAI 新闻发布了「AI 动态：Gilbert + Tobin rethinks the business of law with AI」。这条政策动态围绕「AI 动态：Gilbert + Tobin rethinks the business of law with AI」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "政策",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-12-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "Hugging Face 博客发布了「AI 动态：The Definitive Fine-Tuning Guide for 3D Generation Models」。这条模型动态围绕「AI 动态：The Definitive Fine-Tuning Guide for 3D Generation Models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：The Definitive Fine-Tuning Guide for 3D Generation Models」。这条模型动态围绕「AI 动态：The Definitive Fine-Tuning Guide for 3D Generation Models」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "readTime": "3 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    }
+  ]
+}
