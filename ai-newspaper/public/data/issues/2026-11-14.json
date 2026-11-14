@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-14",
+  "date": "2026-11-14",
+  "weekday": "星期六",
+  "issueNo": "20261114",
+  "updatedAt": "11:28",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：XYBench: Helping with the problem behind the question",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/xybench"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：Introducing ChatGPT Wallet",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "time": "08:45",
+      "category": "产品",
+      "title": "AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Shield helps technicians hand off legacy portal work with OpenAI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/shield"
+    },
+    {
+      "time": "09:45",
+      "category": "模型",
+      "title": "AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/amplitude"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-13-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "Hugging Face 博客发布了「AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets」。这条产品动态聚焦「AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets」。这条产品动态聚焦「AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-13-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：XYBench: Helping with the problem behind the question",
+      "summary": "Hugging Face 博客发布了「AI 动态：XYBench: Helping with the problem behind the question」。这条产品动态聚焦「AI 动态：XYBench: Helping with the problem behind the question」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：XYBench: Helping with the problem behind the question」。这条产品动态聚焦「AI 动态：XYBench: Helping with the problem behind the question」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-13-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Introducing ChatGPT Wallet",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing ChatGPT Wallet」。这条模型动态围绕「AI 动态：Introducing ChatGPT Wallet」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing ChatGPT Wallet」。这条模型动态围绕「AI 动态：Introducing ChatGPT Wallet」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-13-4",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "Hugging Face 博客发布了「AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem」。这条产品动态聚焦「AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem」。这条产品动态聚焦「AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-13-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Shield helps technicians hand off legacy portal work with OpenAI",
+      "summary": "OpenAI 新闻发布了「AI 动态：Shield helps technicians hand off legacy portal work with OpenAI」。这条模型动态围绕「AI 动态：Shield helps technicians hand off legacy portal work with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Shield helps technicians hand off legacy portal work with OpenAI」。这条模型动态围绕「AI 动态：Shield helps technicians hand off legacy portal work with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-12-6",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "OpenAI 新闻发布了「AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI」。这条模型动态围绕「AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI」。这条模型动态围绕「AI 动态：How Amplitude ships product improvements in 1–2 days with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-12-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "Hugging Face 博客发布了「AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B」。这条模型动态围绕「AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Hugging Face 博客发布了「AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B」。这条模型动态围绕「AI 动态：LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "模型",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-12-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+      "summary": "arXiv发布了「AI 动态：Back to Pixels: Lifting Latent Video Diffusion into Pixel Space」。这条模型动态围绕「AI 动态：Back to Pixels: Lifting Latent Video Diffusion into Pixel Space」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Back to Pixels: Lifting Latent Video Diffusion into Pixel Space」。这条模型动态围绕「AI 动态：Back to Pixels: Lifting Latent Video Diffusion into Pixel Space」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17336v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
