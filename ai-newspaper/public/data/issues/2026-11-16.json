@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-16",
+  "date": "2026-11-16",
+  "weekday": "星期一",
+  "issueNo": "20261116",
+  "updatedAt": "10:57",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：A step toward defining the Standard Model on a lattice",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+    },
+    {
+      "time": "07:45",
+      "category": "模型",
+      "title": "AI 动态：Our new blog for science",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/our-new-blog-for-science"
+    },
+    {
+      "time": "08:15",
+      "category": "产品",
+      "title": "AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+    },
+    {
+      "time": "08:45",
+      "category": "产品",
+      "title": "AI 动态：XYBench: Helping with the problem behind the question",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/xybench"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Introducing ChatGPT Wallet",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet"
+    },
+    {
+      "time": "09:45",
+      "category": "产品",
+      "title": "AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-15-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：A step toward defining the Standard Model on a lattice",
+      "summary": "OpenAI 新闻发布了「AI 动态：A step toward defining the Standard Model on a lattice」。这条模型动态围绕「AI 动态：A step toward defining the Standard Model on a lattice」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：A step toward defining the Standard Model on a lattice」。这条模型动态围绕「AI 动态：A step toward defining the Standard Model on a lattice」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-15-2",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：Our new blog for science",
+      "summary": "OpenAI 新闻发布了「AI 动态：Our new blog for science」。这条模型动态围绕「AI 动态：Our new blog for science」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Our new blog for science」。这条模型动态围绕「AI 动态：Our new blog for science」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-13-3",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "Hugging Face 博客发布了「AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets」。这条产品动态聚焦「AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets」。这条产品动态聚焦「AI 动态：Build a Robot Pick-and-Place Simulation with SimReady Assets」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-13-4",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：XYBench: Helping with the problem behind the question",
+      "summary": "Hugging Face 博客发布了「AI 动态：XYBench: Helping with the problem behind the question」。这条产品动态聚焦「AI 动态：XYBench: Helping with the problem behind the question」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：XYBench: Helping with the problem behind the question」。这条产品动态聚焦「AI 动态：XYBench: Helping with the problem behind the question」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-13-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Introducing ChatGPT Wallet",
+      "summary": "OpenAI 新闻发布了「AI 动态：Introducing ChatGPT Wallet」。这条模型动态围绕「AI 动态：Introducing ChatGPT Wallet」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Introducing ChatGPT Wallet」。这条模型动态围绕「AI 动态：Introducing ChatGPT Wallet」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-13-6",
+      "category": "产品",
+      "priority": "normal",
+      "title": "AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "Hugging Face 博客发布了「AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem」。这条产品动态聚焦「AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem」。这条产品动态聚焦「AI 动态：llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-13-7",
+      "category": "资本",
+      "priority": "normal",
+      "title": "AI 动态：Cracks in Embeddings: Robustness and Stability of JEPA-Based Chest X-Ray Representations",
+      "summary": "arXiv发布了「AI 动态：Cracks in Embeddings: Robustness and Stability of JEPA-Based Chest X-Ray Representations」。这条资本动态聚焦「AI 动态：Cracks in Embeddings: Robustness and Stability of JEPA-Based Chest X-Ray Representations」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv发布了「AI 动态：Cracks in Embeddings: Robustness and Stability of JEPA-Based Chest X-Ray Representations」。这条资本动态聚焦「AI 动态：Cracks in Embeddings: Robustness and Stability of JEPA-Based Chest X-Ray Representations」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17905v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "资本",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-13-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer",
+      "summary": "arXiv发布了「AI 动态：Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer」。这条模型动态围绕「AI 动态：Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer」。这条模型动态围绕「AI 动态：Zoom In, Scale Out: Metric Depth Models Mistake Digital Zoom for Moving Closer」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.17903v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
