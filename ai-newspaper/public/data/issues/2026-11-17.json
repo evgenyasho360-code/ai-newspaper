@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-17",
+  "date": "2026-11-17",
+  "weekday": "星期二",
+  "issueNo": "20261117",
+  "updatedAt": "13:11",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Broadening access to AI for scientists",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：Strengthening the fight against online child sexual abuse with new tools and support",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/strengthening-online-child-safety"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：Science at the Frontier: How scientists use ChatGPT",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/science-at-the-frontier"
+    },
+    {
+      "time": "08:45",
+      "category": "政策",
+      "title": "AI 动态：STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20765v1"
+    },
+    {
+      "time": "09:15",
+      "category": "模型",
+      "title": "AI 动态：Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20759v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：GPRM: Global Perspective Process Reward Model",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20755v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-16-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Broadening access to AI for scientists",
+      "summary": "OpenAI 新闻发布了「AI 动态：Broadening access to AI for scientists」。这条模型动态围绕「AI 动态：Broadening access to AI for scientists」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：Broadening access to AI for scientists」。这条模型动态围绕「AI 动态：Broadening access to AI for scientists」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-16-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：Strengthening the fight against online child sexual abuse with new tools and support",
+      "summary": "OpenAI 新闻发布了「AI 动态：Strengthening the fight against online child sexual abuse with new tools and support」。这条产品动态聚焦「AI 动态：Strengthening the fight against online child sexual abuse with new tools and support」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "OpenAI 新闻发布了「AI 动态：Strengthening the fight against online child sexual abuse with new tools and support」。这条产品动态聚焦「AI 动态：Strengthening the fight against online child sexual abuse with new tools and support」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-16-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Science at the Frontier: How scientists use ChatGPT",
+      "summary": "OpenAI 新闻发布了「AI 动态：Science at the Frontier: How scientists use ChatGPT」。这项研究关注「AI 动态：Science at the Frontier: How scientists use ChatGPT」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "OpenAI 新闻发布了「AI 动态：Science at the Frontier: How scientists use ChatGPT」。这项研究关注「AI 动态：Science at the Frontier: How scientists use ChatGPT」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2026-11-16-4",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
+      "summary": "arXiv发布了「AI 动态：STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies」。这条政策动态围绕「AI 动态：STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies」。这条政策动态围绕「AI 动态：STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20765v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-16-5",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
+      "summary": "arXiv发布了「AI 动态：Instant Weight-Space Consolidation for Long-Term Memory in LLMs」。这条模型动态围绕「AI 动态：Instant Weight-Space Consolidation for Long-Term Memory in LLMs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Instant Weight-Space Consolidation for Long-Term Memory in LLMs」。这条模型动态围绕「AI 动态：Instant Weight-Space Consolidation for Long-Term Memory in LLMs」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20759v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-16-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：GPRM: Global Perspective Process Reward Model",
+      "summary": "arXiv发布了「AI 动态：GPRM: Global Perspective Process Reward Model」。这项研究关注「AI 动态：GPRM: Global Perspective Process Reward Model」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：GPRM: Global Perspective Process Reward Model」。这项研究关注「AI 动态：GPRM: Global Perspective Process Reward Model」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20755v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-16-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Who Benefits from Telemonitoring? Uplift Modelling of a Nationwide Home Blood Pressure Monitoring Programme",
+      "summary": "arXiv发布了「AI 动态：Who Benefits from Telemonitoring? Uplift Modelling of a Nationwide Home Blood Pressure Monitoring Programme」。这条模型动态围绕「AI 动态：Who Benefits from Telemonitoring? Uplift Modelling of a Nationwide Home Blood Pressure Monitoring Programme」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Who Benefits from Telemonitoring? Uplift Modelling of a Nationwide Home Blood Pressure Monitoring Programme」。这条模型动态围绕「AI 动态：Who Benefits from Telemonitoring? Uplift Modelling of a Nationwide Home Blood Pressure Monitoring Programme」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.20752v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-16-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：LVMH’s Media Division announces strategic partnership with OpenAI",
+      "summary": "OpenAI 新闻发布了「AI 动态：LVMH’s Media Division announces strategic partnership with OpenAI」。这条模型动态围绕「AI 动态：LVMH’s Media Division announces strategic partnership with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "OpenAI 新闻发布了「AI 动态：LVMH’s Media Division announces strategic partnership with OpenAI」。这条模型动态围绕「AI 动态：LVMH’s Media Division announces strategic partnership with OpenAI」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "OpenAI 新闻",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "OpenAI"
+      ]
+    }
+  ]
+}
