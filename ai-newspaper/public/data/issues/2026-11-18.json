@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-18",
+  "date": "2026-11-18",
+  "weekday": "星期三",
+  "issueNo": "20261118",
+  "updatedAt": "12:39",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23229v1"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23228v1"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：FastFrames: Video Generation at Interactive Latency",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23226v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23225v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23221v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23219v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-17-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "summary": "arXiv发布了「AI 动态：Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching」。这条模型动态围绕「AI 动态：Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching」。这条模型动态围绕「AI 动态：Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23229v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-17-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "summary": "arXiv发布了「AI 动态：Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models」。这项研究关注「AI 动态：Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models」。这项研究关注「AI 动态：Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23228v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-17-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：FastFrames: Video Generation at Interactive Latency",
+      "summary": "arXiv发布了「AI 动态：FastFrames: Video Generation at Interactive Latency」。这项研究关注「AI 动态：FastFrames: Video Generation at Interactive Latency」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：FastFrames: Video Generation at Interactive Latency」。这项研究关注「AI 动态：FastFrames: Video Generation at Interactive Latency」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23226v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-17-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "summary": "arXiv发布了「AI 动态：StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics」。这项研究关注「AI 动态：StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics」。这项研究关注「AI 动态：StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23225v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-17-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+      "summary": "arXiv发布了「AI 动态：An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization」。这项研究关注「AI 动态：An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization」。这项研究关注「AI 动态：An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23221v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-17-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "summary": "arXiv发布了「AI 动态：Do LLM Agents Still Need to Be Told How to Self-Improve?」。这项研究关注「AI 动态：Do LLM Agents Still Need to Be Told How to Self-Improve?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Do LLM Agents Still Need to Be Told How to Self-Improve?」。这项研究关注「AI 动态：Do LLM Agents Still Need to Be Told How to Self-Improve?」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23219v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-17-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+      "summary": "arXiv发布了「AI 动态：What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution」。这条模型动态围绕「AI 动态：What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution」。这条模型动态围绕「AI 动态：What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23218v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-17-8",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Higher-Scoring Coding Models Did Not Get More Work Done",
+      "summary": "arXiv发布了「AI 动态：Higher-Scoring Coding Models Did Not Get More Work Done」。这条模型动态围绕「AI 动态：Higher-Scoring Coding Models Did Not Get More Work Done」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Higher-Scoring Coding Models Did Not Get More Work Done」。这条模型动态围绕「AI 动态：Higher-Scoring Coding Models Did Not Get More Work Done」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.23216v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    }
+  ]
+}
