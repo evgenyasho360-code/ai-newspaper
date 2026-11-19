@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-19",
+  "date": "2026-11-19",
+  "weekday": "星期四",
+  "issueNo": "20261119",
+  "updatedAt": "12:25",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "模型",
+      "title": "AI 动态：Introducing Gemini 4 Neon",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+    },
+    {
+      "time": "07:45",
+      "category": "产品",
+      "title": "AI 动态：DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24941v1"
+    },
+    {
+      "time": "08:45",
+      "category": "模型",
+      "title": "AI 动态：$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24940v1"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24938v1"
+    },
+    {
+      "time": "09:45",
+      "category": "政策",
+      "title": "AI 动态：Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24936v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-18-1",
+      "category": "模型",
+      "priority": "lead",
+      "title": "AI 动态：Introducing Gemini 4 Neon",
+      "summary": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 4 Neon」。这条模型动态围绕「AI 动态：Introducing Gemini 4 Neon」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "Google DeepMind 博客发布了「AI 动态：Introducing Gemini 4 Neon」。这条模型动态围绕「AI 动态：Introducing Gemini 4 Neon」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "Google DeepMind 博客",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "Google DeepMind"
+      ]
+    },
+    {
+      "id": "2026-11-18-2",
+      "category": "产品",
+      "priority": "feature",
+      "title": "AI 动态：DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "Hugging Face 博客发布了「AI 动态：DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency」。这条产品动态聚焦「AI 动态：DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency」。这条产品动态聚焦「AI 动态：DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "readTime": "3 分钟",
+      "impact": "高",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-18-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+      "summary": "arXiv发布了「AI 动态：UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation」。这条模型动态围绕「AI 动态：UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation」。这条模型动态围绕「AI 动态：UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24941v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-18-4",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "summary": "arXiv发布了「AI 动态：$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling」。这条模型动态围绕「AI 动态：$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling」。这条模型动态围绕「AI 动态：$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24940v1",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-18-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
+      "summary": "arXiv发布了「AI 动态：Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models」。这项研究关注「AI 动态：Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models」。这项研究关注「AI 动态：Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24938v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-18-6",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+      "summary": "arXiv发布了「AI 动态：Jailbreak Detection on Large Language Models via Contrastive Prototype Structures」。这条政策动态围绕「AI 动态：Jailbreak Detection on Large Language Models via Contrastive Prototype Structures」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：Jailbreak Detection on Large Language Models via Contrastive Prototype Structures」。这条政策动态围绕「AI 动态：Jailbreak Detection on Large Language Models via Contrastive Prototype Structures」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24936v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-18-7",
+      "category": "模型",
+      "priority": "normal",
+      "title": "AI 动态：Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "summary": "arXiv发布了「AI 动态：Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems」。这条模型动态围绕「AI 动态：Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems」。这条模型动态围绕「AI 动态：Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24932v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-18-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "summary": "arXiv发布了「AI 动态：Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem」。这项研究关注「AI 动态：Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem」。这项研究关注「AI 动态：Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.24927v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    }
+  ]
+}
