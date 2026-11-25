@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-25",
+  "date": "2026-11-25",
+  "weekday": "星期三",
+  "issueNo": "20261125",
+  "updatedAt": "13:36",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "政策",
+      "title": "AI 动态：OmniAct: One Policy, One Million Embodiments",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33158v1"
+    },
+    {
+      "time": "07:45",
+      "category": "研究",
+      "title": "AI 动态：PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33157v1"
+    },
+    {
+      "time": "08:15",
+      "category": "模型",
+      "title": "AI 动态：DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33153v1"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33151v1"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33148v1"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33147v1"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-24-1",
+      "category": "政策",
+      "priority": "lead",
+      "title": "AI 动态：OmniAct: One Policy, One Million Embodiments",
+      "summary": "arXiv发布了「AI 动态：OmniAct: One Policy, One Million Embodiments」。这条政策动态围绕「AI 动态：OmniAct: One Policy, One Million Embodiments」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：OmniAct: One Policy, One Million Embodiments」。这条政策动态围绕「AI 动态：OmniAct: One Policy, One Million Embodiments」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33158v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-24-2",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+      "summary": "arXiv发布了「AI 动态：PointX: Multi-View Consistent Intrinsics by Querying Surface Points」。这项研究关注「AI 动态：PointX: Multi-View Consistent Intrinsics by Querying Surface Points」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：PointX: Multi-View Consistent Intrinsics by Querying Surface Points」。这项研究关注「AI 动态：PointX: Multi-View Consistent Intrinsics by Querying Surface Points」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33157v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-24-3",
+      "category": "模型",
+      "priority": "feature",
+      "title": "AI 动态：DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "summary": "arXiv发布了「AI 动态：DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning」。这条模型动态围绕「AI 动态：DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "body": "arXiv发布了「AI 动态：DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning」。这条模型动态围绕「AI 动态：DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning」展开，重点影响模型能力、智能体执行或多模态体验。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33153v1",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "模型",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-24-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "summary": "arXiv发布了「AI 动态：BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles」。这项研究关注「AI 动态：BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles」。这项研究关注「AI 动态：BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33151v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-24-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "summary": "arXiv发布了「AI 动态：CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies」。这条政策动态围绕「AI 动态：CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies」。这条政策动态围绕「AI 动态：CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33148v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-24-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+      "summary": "arXiv发布了「AI 动态：One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography」。这项研究关注「AI 动态：One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography」。这项研究关注「AI 动态：One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33147v1",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-24-7",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild",
+      "summary": "arXiv发布了「AI 动态：Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild」。这项研究关注「AI 动态：Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv发布了「AI 动态：Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild」。这项研究关注「AI 动态：Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33145v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv"
+      ]
+    },
+    {
+      "id": "2026-11-24-8",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents",
+      "summary": "arXiv发布了「AI 动态：PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents」。这条政策动态围绕「AI 动态：PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv发布了「AI 动态：PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents」。这条政策动态围绕「AI 动态：PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2611.33144v1",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv"
+      ]
+    }
+  ]
+}
