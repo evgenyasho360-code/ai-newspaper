@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-26",
+  "date": "2026-11-26",
+  "weekday": "星期四",
+  "issueNo": "20261126",
+  "updatedAt": "13:20",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "产品",
+      "title": "AI 动态：Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31284"
+    },
+    {
+      "time": "08:15",
+      "category": "资本",
+      "title": "AI 动态：MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31301"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31329"
+    },
+    {
+      "time": "09:15",
+      "category": "研究",
+      "title": "AI 动态：Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31345"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31346"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-26-1",
+      "category": "产品",
+      "priority": "lead",
+      "title": "AI 动态：Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "Hugging Face 博客发布了「AI 动态：Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference」。这条产品动态聚焦「AI 动态：Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "body": "Hugging Face 博客发布了「AI 动态：Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference」。这条产品动态聚焦「AI 动态：Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference」，体现 AI 工具、平台或工作流正在进入更具体的使用场景。",
+      "source": "Hugging Face 博客",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "readTime": "3 分钟",
+      "impact": "低",
+      "tags": [
+        "产品",
+        "Hugging Face"
+      ]
+    },
+    {
+      "id": "2026-11-26-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition",
+      "summary": "arXiv cs.AI发布了「AI 动态：Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition」。这条政策动态围绕「AI 动态：Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition」。这条政策动态围绕「AI 动态：Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31284",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-26-3",
+      "category": "资本",
+      "priority": "feature",
+      "title": "AI 动态：MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake",
+      "summary": "arXiv cs.AI发布了「AI 动态：MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake」。这条资本动态聚焦「AI 动态：MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "body": "arXiv cs.AI发布了「AI 动态：MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake」。这条资本动态聚焦「AI 动态：MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake」，体现 AI 公司、基础设施和商业化方向的变化。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31301",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "资本",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-26-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Conservative Overlap Fuzzy Rough Sets for Incomplete Data",
+      "summary": "arXiv cs.AI发布了「AI 动态：Conservative Overlap Fuzzy Rough Sets for Incomplete Data」。这项研究关注「AI 动态：Conservative Overlap Fuzzy Rough Sets for Incomplete Data」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Conservative Overlap Fuzzy Rough Sets for Incomplete Data」。这项研究关注「AI 动态：Conservative Overlap Fuzzy Rough Sets for Incomplete Data」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31329",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-26-5",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs",
+      "summary": "arXiv cs.AI发布了「AI 动态：Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs」。这项研究关注「AI 动态：Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs」。这项研究关注「AI 动态：Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31345",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-26-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations",
+      "summary": "arXiv cs.AI发布了「AI 动态：What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations」。这项研究关注「AI 动态：What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations」。这项研究关注「AI 动态：What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31346",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-26-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations",
+      "summary": "arXiv cs.AI发布了「AI 动态：Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations」。这条政策动态围绕「AI 动态：Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations」。这条政策动态围绕「AI 动态：Antares-Smaug: Adversarial Names, Tokens and Attack Rewrites: Sanitisers Miss Unseen Generalisations」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31347",
+      "readTime": "6 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-26-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection",
+      "summary": "arXiv cs.AI发布了「AI 动态：ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection」。这项研究关注「AI 动态：ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection」。这项研究关注「AI 动态：ContextLure: Exploiting Benign Conversation History for Indirect Prompt Injection」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.31424",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
