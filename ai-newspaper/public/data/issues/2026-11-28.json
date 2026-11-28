@@ -1,0 +1,181 @@
+{
+  "id": "2026-11-28",
+  "date": "2026-11-28",
+  "weekday": "星期六",
+  "issueNo": "20261128",
+  "updatedAt": "12:53",
+  "briefing": [
+    {
+      "time": "07:15",
+      "category": "政策",
+      "title": "AI 动态：Context Scaling: A New Frontier of AI Scaling",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33160"
+    },
+    {
+      "time": "07:45",
+      "category": "政策",
+      "title": "AI 动态：Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33161"
+    },
+    {
+      "time": "08:15",
+      "category": "研究",
+      "title": "AI 动态：AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33165"
+    },
+    {
+      "time": "08:45",
+      "category": "研究",
+      "title": "AI 动态：General-Purpose Decision Models for AI Configuration Tuning",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33190"
+    },
+    {
+      "time": "09:15",
+      "category": "政策",
+      "title": "AI 动态：What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33263"
+    },
+    {
+      "time": "09:45",
+      "category": "研究",
+      "title": "AI 动态：Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33303"
+    }
+  ],
+  "articles": [
+    {
+      "id": "2026-11-27-1",
+      "category": "政策",
+      "priority": "lead",
+      "title": "AI 动态：Context Scaling: A New Frontier of AI Scaling",
+      "summary": "arXiv cs.AI发布了「AI 动态：Context Scaling: A New Frontier of AI Scaling」。这条政策动态围绕「AI 动态：Context Scaling: A New Frontier of AI Scaling」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Context Scaling: A New Frontier of AI Scaling」。这条政策动态围绕「AI 动态：Context Scaling: A New Frontier of AI Scaling」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33160",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-27-2",
+      "category": "政策",
+      "priority": "feature",
+      "title": "AI 动态：Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection",
+      "summary": "arXiv cs.AI发布了「AI 动态：Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection」。这条政策动态围绕「AI 动态：Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection」。这条政策动态围绕「AI 动态：Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33161",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-27-3",
+      "category": "研究",
+      "priority": "feature",
+      "title": "AI 动态：AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics",
+      "summary": "arXiv cs.AI发布了「AI 动态：AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics」。这项研究关注「AI 动态：AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics」。这项研究关注「AI 动态：AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33165",
+      "readTime": "4 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-27-4",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：General-Purpose Decision Models for AI Configuration Tuning",
+      "summary": "arXiv cs.AI发布了「AI 动态：General-Purpose Decision Models for AI Configuration Tuning」。这项研究关注「AI 动态：General-Purpose Decision Models for AI Configuration Tuning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：General-Purpose Decision Models for AI Configuration Tuning」。这项研究关注「AI 动态：General-Purpose Decision Models for AI Configuration Tuning」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33190",
+      "readTime": "4 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-27-5",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning",
+      "summary": "arXiv cs.AI发布了「AI 动态：What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning」。这条政策动态围绕「AI 动态：What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning」。这条政策动态围绕「AI 动态：What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33263",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-27-6",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data",
+      "summary": "arXiv cs.AI发布了「AI 动态：Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data」。这项研究关注「AI 动态：Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data」。这项研究关注「AI 动态：Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33303",
+      "readTime": "5 分钟",
+      "impact": "高",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-27-7",
+      "category": "政策",
+      "priority": "normal",
+      "title": "AI 动态：The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation",
+      "summary": "arXiv cs.AI发布了「AI 动态：The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation」。这条政策动态围绕「AI 动态：The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "body": "arXiv cs.AI发布了「AI 动态：The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation」。这条政策动态围绕「AI 动态：The Platonic Representation Hypothesis in Jacobian-Space: Language and Vision Models Agree Approximately Up to a Rotation」展开，关系到 AI 治理、安全和产业落地边界。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33304",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "政策",
+        "arXiv cs.AI"
+      ]
+    },
+    {
+      "id": "2026-11-27-8",
+      "category": "研究",
+      "priority": "normal",
+      "title": "AI 动态：Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands",
+      "summary": "arXiv cs.AI发布了「AI 动态：Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands」。这项研究关注「AI 动态：Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "body": "arXiv cs.AI发布了「AI 动态：Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands」。这项研究关注「AI 动态：Brand Recall and Category Accuracy in Language Models: An Audit of 1,000 B2B SaaS Brands」，反映了 AI 论文、评测和方法探索的最新进展。",
+      "source": "arXiv cs.AI",
+      "url": "https://arxiv.org/abs/2611.33322",
+      "readTime": "5 分钟",
+      "impact": "中",
+      "tags": [
+        "研究",
+        "arXiv cs.AI"
+      ]
+    }
+  ]
+}
